@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pierre Alexandre Tremblay | Le son du futur / Le futur du son</title>
+    <link>https://lesondufutur.cirmmt.org/people/pierre-alexandre-tremblay/</link>
+      <atom:link href="https://lesondufutur.cirmmt.org/people/pierre-alexandre-tremblay/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pierre Alexandre Tremblay</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://lesondufutur.cirmmt.org/people/pierre-alexandre-tremblay/avatar_hudd94d1f8748d8039ba98a84ae254a471_323350_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Pierre Alexandre Tremblay</title>
+      <link>https://lesondufutur.cirmmt.org/people/pierre-alexandre-tremblay/</link>
+    </image>
+    
+  </channel>
+</rss>

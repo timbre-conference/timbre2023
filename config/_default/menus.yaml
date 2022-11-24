@@ -4,59 +4,62 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  # - name: Home
-  #   url: home
-  #   weight: 5
+  - name: About
+    identifier: "about"
+    weight: 10
+
+  - name: Registration
+    identifier: "registration"
+    url: "#registration"
+    weight: 20
+
+  - name: Submissions
+    identifier: "submissions"
+    weight: 30
+
+  - name: Program
+    identifier: "program"
+    weight: 40
+
+  - name: Venue
+    identifier: "venue"
+    weight: 50
+
+  - name: Organization
+    identifier: "organization"
+    weight: 60
+
+  - name: Contact
+    identifier: "venue"
+    weight: 70
+
+  - name: Partners
+    identifier: "partners"
+    weight: 80
+
+  - name: Summer School
+    identifier: "summer_school"
+    url: "#summer"
+    weight: 90
+
   - name: Activities
     url: sessions
-    identifier: 'activities'
-    weight: 10
-    
+    identifier: "activities"
+    weight: 100
+
   # under Activities:
   - name: By day
-    parent: 'activities'
+    parent: "activities"
     url: sessions-by-day
     weight: 10
   - name: By type
-    parent: 'activities'
+    parent: "activities"
     url: sessions-by-type
     weight: 20
   - name: Schedule
     url: schedule
     # identifier: schedule
     weight: 20
-
-  # # Under Schedule:
-  # - name: Sessions
-  #   url: sessions
-  #   parent: schedule
-  #   weight: 10    
-
-  # - name: 
-  # - name: Panels
-  #   parent: 'activities'
-  #   weight: 20
-  # - name: Workshops
-  #   parent: 'activities'
-  #   weight: 30
-  # - name: Interactive sessions
-  #   parent: 'activities'
-  #   weight: 40
-  # - name: Round tables
-  #   parent: 'activities'
-  #   weight: 50
-  # - name: Keynotes
-  #   url: keynotes
-  #   parent: 'activities'
-  #   weight: 60
-  # - name: Concerts
-  #   url: concerts
-  #   parent: 'activities'
-  #   weight: 70
-  # - name: Posters
-  #   parent: 'activities'
-  #   weight: 80
-
   - name: Participants
     url: participants
     weight: 30
@@ -69,16 +72,3 @@ main:
   # - name: Committee
   #   url: committee
   #   weight: 50
-  - name: Venues
-    url: venues
-    weight: 50
-  - name: COBS/CCOB
-    url: cobs
-    weight: 80
-  - name: Contact
-    url: contact
-    weight: 90
-  - name: REGISTER!
-    url: '#register'
-    weight: 100
-

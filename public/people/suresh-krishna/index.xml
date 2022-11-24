@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suresh Krishna | Le son du futur / Le futur du son</title>
+    <link>https://lesondufutur.cirmmt.org/people/suresh-krishna/</link>
+      <atom:link href="https://lesondufutur.cirmmt.org/people/suresh-krishna/index.xml" rel="self" type="application/rss+xml" />
+    <description>Suresh Krishna</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://lesondufutur.cirmmt.org/media/logo_hubfe263bb18063784559f8c0ea6819403_37478_300x300_fit_lanczos_3.png</url>
+      <title>Suresh Krishna</title>
+      <link>https://lesondufutur.cirmmt.org/people/suresh-krishna/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Véronique Larcher | Le son du futur / Le futur du son</title>
+    <link>https://lesondufutur.cirmmt.org/people/veronique-larcher/</link>
+      <atom:link href="https://lesondufutur.cirmmt.org/people/veronique-larcher/index.xml" rel="self" type="application/rss+xml" />
+    <description>Véronique Larcher</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://lesondufutur.cirmmt.org/people/veronique-larcher/avatar_hu0846453c627401a9e1c7a2de37a63aa3_102422_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Véronique Larcher</title>
+      <link>https://lesondufutur.cirmmt.org/people/veronique-larcher/</link>
+    </image>
+    
+  </channel>
+</rss>

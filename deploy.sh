@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 
 rm -rf public/*
 
@@ -11,4 +11,3 @@ rsync -av public/* lsdf:html/
 echo "complete!"
 echo "Clearing public/ directory"
 rm -rf public/*
-

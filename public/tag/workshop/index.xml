@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop | Le son du futur / Le futur du son</title>
+    <link>https://lesondufutur.cirmmt.org/tag/workshop/</link>
+      <atom:link href="https://lesondufutur.cirmmt.org/tag/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <description>Workshop</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://lesondufutur.cirmmt.org/media/logo_hubfe263bb18063784559f8c0ea6819403_37478_300x300_fit_lanczos_3.png</url>
+      <title>Workshop</title>
+      <link>https://lesondufutur.cirmmt.org/tag/workshop/</link>
+    </image>
+    
+    <item>
+      <title>Workshop 1: Immersive sound spatialization with SpatGRIS</title>
+      <link>https://lesondufutur.cirmmt.org/session/wed/workshop-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lesondufutur.cirmmt.org/session/wed/workshop-1/</guid>
+      <description>&lt;br&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Day:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Time:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;17:30 - 18:30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Université de Montréal&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Room:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;B187 (Spat-Gris)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Spatialisation sonore immersive: SpatGRIS&lt;/p&gt;
+&lt;h2 id=&#34;presenters&#34;&gt;Presenters&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/melanie-frisoli/&#34;&gt;Mélanie Frisoli&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/nicola-giannini/&#34;&gt;Nicola Giannini&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshop 2: Sound spatialization in MMR</title>
+      <link>https://lesondufutur.cirmmt.org/session/fri/workshop-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lesondufutur.cirmmt.org/session/fri/workshop-2/</guid>
+      <description>&lt;br&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Day:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Friday&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Time:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;09:00 - 10:30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;McGill University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Room:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;MMR&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;title&#34;&gt;Title&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Expanding sound spatialization with virtual acoustic capabilities of the MMR&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;presenter&#34;&gt;Presenter&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/philippe-aubert-gauthier/&#34;&gt;Phillipe-Aubert Gauthier&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -8,7 +8,7 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: cyberpunk
+  font: minimal
   font_size: l
 
 # SEO
@@ -16,16 +16,16 @@ appearance:
 marketing:
   seo:
     site_type: Organization
-    local_business_type: ''
-    org_name: ''
-    description: 'International conference on music technology and research being held in Montréal, Canada, May 24 - 27, 2022.'
-    twitter: ''
+    local_business_type: ""
+    org_name: ""
+    description: "The 3rd International Conference on Timbre, will be held in Thessaloniki, Greece, 10-12 July 2023."
+    twitter: ""
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
+    google_analytics: ""
+    baidu_tongji: ""
   verification:
-    google: ''
-    baidu: ''
+    google: ""
+    baidu: ""
 
 # Site header
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} <a href="https://cirmmt.org">Centre for Interdisciplinary Research in Music Media and Technology</a>.'
+    notice: '{year} <a href="https://www.mus.auth.gr/en/">School of Music Studies</a> and <a href="https://smtl.mus.auth.gr/">Sound and Music Technology Lab</a>.'
     license:
       enable: false
       allow_derivatives: false
@@ -53,8 +53,8 @@ footer:
 # Localization
 
 locale:
-  date_format: '2 January, 2006'
-  time_format: '15:04'
+  date_format: "2 January, 2006"
+  time_format: "15:04"
   address_format: en-us
 
 # Site features
@@ -70,29 +70,29 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/johnnyvenom/lesondufutur.cirmmt'
+    url: "https://github.com/timbre-conference/timbre2023"
     content_dir: content
     branch: main
   avatar:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    provider: ""
     disqus:
-      shortname: ''
+      shortname: ""
       show_count: true
     commento:
-      url: ''
+      url: ""
   search:
     provider: wowchemy
     algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
+      app_id: ""
+      api_key: ""
+      index_name: ""
       show_logo: false
   map:
-    provider: 'mapnik'
-    api_key: ''
+    provider: "mapnik"
+    api_key: ""
     zoom: 15
 
 # Extensions
