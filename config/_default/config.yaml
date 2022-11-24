@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Le son du futur / Le futur du son 
-baseURL: 'https://websites.auth.gr/timbre2023/' # Website URL
+baseURL: 'http://timbreconference.org/timbre2023/' # Website URL
 
 ############################
 ## LANGUAGE
