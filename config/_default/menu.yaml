@@ -1,0 +1,75 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: About
+    identifier: "about"
+    url: "#about"
+    weight: 10
+
+  - name: Submissions
+    identifier: "submissions"
+    url: "#authors"
+    weight: 20
+
+  - name: Program
+    identifier: "program"
+    url: "#program"
+    weight: 30
+
+  - name: Partners
+    identifier: "partners"
+    url: "#partners"
+    weight: 40
+
+  - name: Venue
+    identifier: "venue"
+    url: "venue/"
+    weight: 50
+
+  - name: Organization
+    identifier: "organization"
+    url: "organization/"
+    weight: 60
+
+  - name: Registration
+    identifier: "registration"
+    url: "registration/"
+    weight: 70
+
+  - name: Contact
+    identifier: "contact"
+    url: "contact/"
+    weight: 80
+
+  - name: Summer School
+    identifier: "summer_school"
+    url: summer_school/
+    weight: 90
+
+  # - name: Activities
+  #   url: activities/
+  #   identifier: "activities"
+  #   weight: 100
+
+  # # # under Activities:
+  # - name: By day
+  #   parent: "activities"
+  #   url: sessions-by-day
+  #   weight: 10
+  # - name: By type
+  #   parent: "activities"
+  #   url: sessions-by-type
+  #   weight: 20
+  # - name: Schedule
+  #   url: schedule
+  #   # identifier: schedule
+  #   weight: 20
+  # - name: Participants
+  #   url: participants
+  #   weight: 30
+  # - name: Travel
+  #   url: travel
+  #   weight: 40

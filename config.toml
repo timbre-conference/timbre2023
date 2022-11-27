@@ -1,0 +1,4 @@
+baseURL = 'https://timbre-conference.github.io/timbre2023/'
+languageCode = 'en-US'
+title = 'Timbre 2023'
+theme = 'minimal'
