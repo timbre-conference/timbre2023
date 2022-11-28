@@ -35,14 +35,8 @@ advanced:
 #   css_class: fullscreen
 ---
 
-<<<<<<< HEAD
-
 ### Welcome to the 3rd edition of the [International Conference on Timbre](https://timbreconference.org/) 
 
-=======
-### Welcome to the 3rd edition of the [International Conference on Timbre](https://timbreconference.org/) 
-
->>>>>>> bcbb228e2eddb4b7b69d5f2cf3364c8cfc06ffbb
 
 ### Date: July 10–12, 2023
 
@@ -51,15 +45,3 @@ advanced:
 
 
 ### Hosted by the [School of Music Studies](https://www.mus.auth.gr/en/) and the [Sound and Music Technology Lab](https://smtl.mus.auth.gr/) at the Artistotle University of Thessaloniki
-
-<<<<<<< HEAD
-<!-- **Date:** July 10 - 12, 2023
-
-**Location:** Thessaloniki, Greece -->
-=======
-<!-- #### The 3rd International Conference on Timbre hosted by the **[School of Music Studies](https://www.mus.auth.gr/en/)** and the **[Sound and Music Technology Lab](https://smtl.mus.auth.gr/)** at the Artistotle University of Thessaloniki -->
-
-<!-- **Date:** July 10 - 12, 2023 -->
-<!-- **Location:** Thessaloniki, Greece -->
->>>>>>> bcbb228e2eddb4b7b69d5f2cf3364c8cfc06ffbb
-
