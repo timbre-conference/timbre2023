@@ -1,4 +1,4 @@
-# Website files for "Le son du future" conference site
+# Website files for Timbre 2023
 
 - Live at: http://timbreconference.org/timbre2023/
 
