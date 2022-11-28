@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Timbre 2023
-baseURL: "http://timbreconference.org/timbre2023/" # Website URL
+baseURL: "https://timbre-conference.github.io/timbre2023/" # Website URL
 
 ############################
 ## LANGUAGE
