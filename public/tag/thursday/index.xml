@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thursday | Timbre 2023</title>
+    <link>https://timbre-conference.github.io/timbre2023/tag/thursday/</link>
+      <atom:link href="https://timbre-conference.github.io/timbre2023/tag/thursday/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thursday</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://timbre-conference.github.io/timbre2023/media/logo_hu2c056d5f9d880e5d1a003554a7fec83a_88573_300x300_fit_lanczos_3.png</url>
+      <title>Thursday</title>
+      <link>https://timbre-conference.github.io/timbre2023/tag/thursday/</link>
+    </image>
+    
+    <item>
+      <title>Panel: Research Axis 3</title>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/panel-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/panel-3/</guid>
+      <description>&lt;br&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Day:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Thursday&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Time:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;09:00 - 10:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;McGill University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Room:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Tanna Schulich Hall&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;CIRMMT Research Axis 3: Cognition, perception and movement&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;presenters&#34;&gt;Presenters&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/michael-schutz/&#34;&gt;Michael Schutz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/elizabeth-simmerman/&#34;&gt;Elizabeth Zimmerman&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keynote 4: Sidney Fels</title>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/keynote-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/keynote-4/</guid>
+      <description>&lt;br&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Day:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Thursday&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Time:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;10:00 - 10:45&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;McGill University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Room:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Tanna Schulich Hall&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;speaker&#34;&gt;Speaker&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/sidney-fels/&#34;&gt;Sidney Fels&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;title&#34;&gt;Title&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Breaking the Brain to Sound Barrier: Leveraging the Mind-Body Continuum for Musical Expression&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Working with the idea that the mind and body form a continuum of thought to control that learns to incorporate biomechanics and environmental constraints with perceptual ones to achieve players goals, we are looking for ways to create new adaptive mechanisms for New Interfaces for Musical Expression (NIMEs) that help to reduce information demands on players while at the same time increasing information throughput for more expressive interfaces. I’ll present some of efforts towards brain to speech interfaces as well as some abstract work that explores how we can build adaptive NIMEs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Posters 2 / Coffee break</title>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/posters-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/posters-2/</guid>
+      <description>&lt;br&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Day:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Thursday&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Time:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;10:45 - 11:45&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;McGill University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Room:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Wirth Lobby&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Round two of poster presentations by emerging student researchers.&lt;/p&gt;
+&lt;!--
+## Presenters
+
+- coming soon
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Panel: Research Axis 4</title>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/panel-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/panel-4/</guid>
+      <description>&lt;br&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Day:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Thursday&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Time:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;11:45 - 12:45&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;McGill University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Room:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Tanna Schulich Hall&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;CIRMMT Research Axis 4: Expanded Musical Practice&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--&gt;
+&lt;h2 id=&#34;presenters&#34;&gt;Presenters&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;TBD
+&amp;ndash;&amp;gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keynote 5:  Louis-Xavier Buffoni</title>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/keynote-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/keynote-5/</guid>
+      <description>&lt;br&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Day:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Thursday&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Time:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;14:15 - 15:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;McGill University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Room:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Tanna Schulich Hall&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;speaker&#34;&gt;Speaker&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/louis-xavier-buffoni/&#34;&gt;Louis-Xavier Buffoni&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;title&#34;&gt;Title&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;The Future of Interactive Audio&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--
+## Description
+
+Minim eiusmod velit dolore enim. Dolor aliquip esse ea culpa mollit consequat aute exercitation mollit officia sint nulla reprehenderit elit. Sunt tempor incididunt qui sunt ipsum. Lorem anim veniam nisi excepteur. Veniam ullamco aliquip incididunt Lorem magna laboris et sit nulla aliqua.
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interactive Session 5: EDI approaches of audio engineering and production</title>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/interactive-session-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/interactive-session-5/</guid>
+      <description>&lt;br&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Day:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Thursday&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Time:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;15:00 - 16:30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;McGill University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Room:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;C-201&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;title&#34;&gt;Title&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;EDI approaches of audio engineering and production to enhance music technology partnerships&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;presenter&#34;&gt;Presenter&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/amandine-pras/&#34;&gt;Amandine Pras&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Based on an overview of recent and on-going projects that I have carried out with CIRMMT members, I will invite the session participants to consider three directions for potential collaborations that could benefit from my expertise. First, I would like to focus on the impact of involving non-academic professional musicians coming from diverse cultural backgrounds in partnerships that aim at analysing their creative processes and/or designing technology that could best meet their artistic vision and social identity (Pras et al., 2021). Second, the purpose of the exchanges will be to bridge gaps between audio engineering and music technology to develop useful applications with a high level of sound quality (Bauer et al., forthcoming). Last, I will encourage attendees to learn and apply feminist and de-colonizing theories to the framework and methods of studies whose fields and disciplines are rooted in patriarchal structures (Brooks et al., 2021) and/or European concepts of modernity and innovation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interactive Session 6: Physiological responses to music</title>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/interactive-session-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/interactive-session-6/</guid>
+      <description>&lt;br&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Day:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Thursday&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Time:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;15:00 - 16:30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;McGill University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Room:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;C-204&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;title&#34;&gt;Title&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Physiological responses to music&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;presenter&#34;&gt;Presenter&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/suresh-krishna/&#34;&gt;Suresh Krishna&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--
+## Description
+
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Interactive Session 7: Together towards a global and healthier education for musicians</title>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/interactive-session-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/interactive-session-7/</guid>
+      <description>&lt;br&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Day:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Thursday&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Time:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;15:00 - 16:30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;McGill University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Room:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;A-832&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;title&#34;&gt;Title&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Together towards a global and healthier education for musicians&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;presenter&#34;&gt;Presenter&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/isabelle-cossette/&#34;&gt;Isabelle Cossette&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--
+## Description
+
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Round Table 2</title>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/round-table-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/round-table-2/</guid>
+      <description>&lt;br&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Day:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Thursday&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Time:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;17:00 - 17:45&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;McGill University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Room:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Tanna Schulich Hall&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Information coming soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Concert 3: live@CIRMMT</title>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/concert-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/concert-3/</guid>
+      <description>&lt;br&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Day:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Thursday&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Time:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;19:30 - 21:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;McGill University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Room:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;MMR&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;program&#34;&gt;Program&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;[Joshua Bucchi]({{ relref &amp;ldquo;/author/joshua-bucchi&amp;rdquo; }})&lt;/strong&gt; &lt;em&gt;&amp;ldquo;Shrubberies  of  semiconductors:  Les  lambeaux  de  mon  cœur&amp;rdquo;&lt;/em&gt; [premiere]
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Performers:&lt;/strong&gt; [Ensemble Aukio]({{ relref &amp;ldquo;/author/ensemble-aukio&amp;rdquo; }}): Anne Chabot-Bucchi (percussion), Justine Pelletier (piano), Joseph Fox (percussion), Felipe Verdugo (piano), Joshua Bucchi (electronics/diffusion)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[Mélanie Frisoli]({{ relref &amp;ldquo;/author/melanie-frisoli&amp;rdquo; }})&lt;/strong&gt; &lt;em&gt;&amp;ldquo;Le bruit I - Spatialized acousmatic work&amp;rdquo;&lt;/em&gt; [premiere]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[Jason Noble]({{ relref &amp;ldquo;/author/jason-noble&amp;rdquo; }})&lt;/strong&gt; &lt;em&gt;&amp;ldquo;Freeze - For augmented drum kit&amp;rdquo;&lt;/em&gt; [premiere]
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;performed by:&lt;/strong&gt; [Martin Daigle]({{ relref &amp;ldquo;/author/martin-daigle&amp;rdquo; }}) (percussion), [Edu Meneses]({{ relref &amp;ldquo;/author/edu-meneses&amp;rdquo; }}) (electronics &amp;amp; mapping)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Xue Han&lt;/strong&gt; &lt;em&gt;&amp;ldquo;en passant&amp;rdquo;&lt;/em&gt; [premiere]
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;performed by:&lt;/strong&gt; [Martin Daigle]({{ relref &amp;ldquo;/author/martin-daigle&amp;rdquo; }}) (percussion), &lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/seph-li/&#34;&gt;Seph Li&lt;/a&gt; (visual artist)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;more-information&#34;&gt;More information&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cirmmt.org/en/events/live-cirmmt/student-commissions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Official concert page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
