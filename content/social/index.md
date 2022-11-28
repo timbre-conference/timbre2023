@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Registration"
+title: "Social Activities"
 subtitle: ""
 summary: ""
 authors: []

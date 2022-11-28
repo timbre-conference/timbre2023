@@ -35,9 +35,19 @@ advanced:
 #   css_class: fullscreen
 ---
 
-#### The 3rd International Conference on Timbre hosted by the **[School of Music Studies](https://www.mus.auth.gr/en/)** and the **[Sound and Music Technology Lab](https://smtl.mus.auth.gr/)** at the Artistotle University of Thessaloniki
 
-**Date:** July 10 - 12, 2023
-**Location:** Thessaloniki, Greece
+### Welcome to the 3rd edition of the [International Conference on Timbre](https://timbreconference.org/) 
 
-&nbsp;
+
+### Date: July 10–12, 2023
+
+
+### Location: Thessaloniki, Greece
+
+
+### Hosted by the [School of Music Studies](https://www.mus.auth.gr/en/) and the [Sound and Music Technology Lab](https://smtl.mus.auth.gr/) at the Artistotle University of Thessaloniki
+
+<!-- **Date:** July 10 - 12, 2023
+
+**Location:** Thessaloniki, Greece -->
+
