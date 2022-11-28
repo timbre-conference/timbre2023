@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Concert | Le son du futur / Le futur du son</title>
-    <link>https://lesondufutur.cirmmt.org/tag/concert/</link>
-      <atom:link href="https://lesondufutur.cirmmt.org/tag/concert/index.xml" rel="self" type="application/rss+xml" />
+    <title>Concert | Timbre 2023</title>
+    <link>https://timbre-conference.github.io/timbre2023/tag/concert/</link>
+      <atom:link href="https://timbre-conference.github.io/timbre2023/tag/concert/index.xml" rel="self" type="application/rss+xml" />
     <description>Concert</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://lesondufutur.cirmmt.org/media/logo_hubfe263bb18063784559f8c0ea6819403_37478_300x300_fit_lanczos_3.png</url>
+      <url>https://timbre-conference.github.io/timbre2023/media/logo_hu2c056d5f9d880e5d1a003554a7fec83a_88573_300x300_fit_lanczos_3.png</url>
       <title>Concert</title>
-      <link>https://lesondufutur.cirmmt.org/tag/concert/</link>
+      <link>https://timbre-conference.github.io/timbre2023/tag/concert/</link>
     </image>
     
     <item>
       <title>Concert 1: improv@CIRMMT</title>
-      <link>https://lesondufutur.cirmmt.org/session/tue/concert-1/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/tue/concert-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/tue/concert-1/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/tue/concert-1/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -55,9 +55,9 @@
     
     <item>
       <title>Concert 2: Tribute to Iannis Xenakis</title>
-      <link>https://lesondufutur.cirmmt.org/session/wed/concert-2/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/wed/concert-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/wed/concert-2/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/wed/concert-2/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -87,22 +87,22 @@
 &lt;/table&gt;
 &lt;h2 id=&#34;program&#34;&gt;Program&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/nouvel-ensemble-moderne/&#34;&gt;Nouvel Ensemble Moderne&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;&amp;ldquo;Anaktoria&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/ensemble-sixtrum/&#34;&gt;ensemble SIXTRUM&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;&amp;ldquo;PolytopeXXI&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/nouvel-ensemble-moderne/&#34;&gt;Nouvel Ensemble Moderne&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;&amp;ldquo;Anaktoria&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/ensemble-sixtrum/&#34;&gt;ensemble SIXTRUM&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;&amp;ldquo;PolytopeXXI&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;The second concert will be a tribute to Iannis Xenakis, combining a new instrument/installation, &lt;em&gt;PolytopeXXI&lt;/em&gt;, with a masterpiece of the XXth century repertoire, Xenakis’ Pleiades. &lt;em&gt;PolytopeXXI&lt;/em&gt; will feature a monumental new instrument: a sort of giant, electronically augmented, audio-luminescent harp, whose strings will be struck by the percussionists of the &lt;a href=&#34;https://lesondufutur.cirmmt.org/people/ensemble-sixtrum/&#34;&gt;ensemble SIXTRUM&lt;/a&gt; in a new work by &lt;a href=&#34;https://lesondufutur.cirmmt.org/people/myriam-boucher/&#34;&gt;Myriam Boucher&lt;/a&gt; and &lt;a href=&#34;https://lesondufutur.cirmmt.org/people/dominic-thibault/&#34;&gt;Dominic Thibault&lt;/a&gt;. The &lt;a href=&#34;https://lesondufutur.cirmmt.org/people/nouvel-ensemble-moderne/&#34;&gt;Nouvel Ensemble Moderne&lt;/a&gt; will also take part to the concert with the rarely performed &lt;em&gt;Anaktoria&lt;/em&gt;, by Iannis Xenakis.&lt;/p&gt;
+&lt;p&gt;The second concert will be a tribute to Iannis Xenakis, combining a new instrument/installation, &lt;em&gt;PolytopeXXI&lt;/em&gt;, with a masterpiece of the XXth century repertoire, Xenakis’ Pleiades. &lt;em&gt;PolytopeXXI&lt;/em&gt; will feature a monumental new instrument: a sort of giant, electronically augmented, audio-luminescent harp, whose strings will be struck by the percussionists of the &lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/ensemble-sixtrum/&#34;&gt;ensemble SIXTRUM&lt;/a&gt; in a new work by &lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/myriam-boucher/&#34;&gt;Myriam Boucher&lt;/a&gt; and &lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/dominic-thibault/&#34;&gt;Dominic Thibault&lt;/a&gt;. The &lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/nouvel-ensemble-moderne/&#34;&gt;Nouvel Ensemble Moderne&lt;/a&gt; will also take part to the concert with the rarely performed &lt;em&gt;Anaktoria&lt;/em&gt;, by Iannis Xenakis.&lt;/p&gt;
 &lt;h2 id=&#34;about-polytope-xxi&#34;&gt;About &lt;strong&gt;Polytope XXI&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Polytope XXI is the name that composers &lt;a href=&#34;https://lesondufutur.cirmmt.org/people/myriam-boucher/&#34;&gt;Myriam Boucher&lt;/a&gt; and &lt;a href=&#34;https://lesondufutur.cirmmt.org/people/dominic-thibault/&#34;&gt;Dominic Thibault&lt;/a&gt; have given to their monumental instrumental project: a sort of giant, electronically augmented, audio-luminescent harp, whose strings will be struck by the percussionists of Sixtrum. The structure of the instrument will be equipped with various sensors that will capture and amplify vibrations, while controlling the integrated light and video system.&lt;/p&gt;
+&lt;p&gt;Polytope XXI is the name that composers &lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/myriam-boucher/&#34;&gt;Myriam Boucher&lt;/a&gt; and &lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/dominic-thibault/&#34;&gt;Dominic Thibault&lt;/a&gt; have given to their monumental instrumental project: a sort of giant, electronically augmented, audio-luminescent harp, whose strings will be struck by the percussionists of Sixtrum. The structure of the instrument will be equipped with various sensors that will capture and amplify vibrations, while controlling the integrated light and video system.&lt;/p&gt;
 &lt;p&gt;This project finds its inspiration in the first Polytope imagined by Iannis Xenakis, an ‘electronic sculpture combining light, music and structure’, that was presented inside the French Pavilion during Expo67 built in Montreal. It formed a gigantic web of cables suspended in the central space of the pavilion, each cable bearing a multitude of flashing lights that were synchronized with a musical tape – thus creating an artistic work inscribed in space and made of multiple layers of sound and light.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Concert 3: live@CIRMMT</title>
-      <link>https://lesondufutur.cirmmt.org/session/thu/concert-3/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/concert-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/thu/concert-3/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/concert-3/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -145,7 +145,7 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Xue Han&lt;/strong&gt; &lt;em&gt;&amp;ldquo;en passant&amp;rdquo;&lt;/em&gt; [premiere]
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;performed by:&lt;/strong&gt; [Martin Daigle]({{ relref &amp;ldquo;/author/martin-daigle&amp;rdquo; }}) (percussion), &lt;a href=&#34;https://lesondufutur.cirmmt.org/people/seph-li/&#34;&gt;Seph Li&lt;/a&gt; (visual artist)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;performed by:&lt;/strong&gt; [Martin Daigle]({{ relref &amp;ldquo;/author/martin-daigle&amp;rdquo; }}) (percussion), &lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/seph-li/&#34;&gt;Seph Li&lt;/a&gt; (visual artist)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;

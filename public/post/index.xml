@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Latest News | Le son du futur / Le futur du son</title>
-    <link>https://lesondufutur.cirmmt.org/post/</link>
-      <atom:link href="https://lesondufutur.cirmmt.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <title>Latest News | Timbre 2023</title>
+    <link>https://timbre-conference.github.io/timbre2023/post/</link>
+      <atom:link href="https://timbre-conference.github.io/timbre2023/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 May 2022 16:39:50 -0400</lastBuildDate>
     <image>
-      <url>https://lesondufutur.cirmmt.org/media/logo_hubfe263bb18063784559f8c0ea6819403_37478_300x300_fit_lanczos_3.png</url>
+      <url>https://timbre-conference.github.io/timbre2023/media/logo_hu2c056d5f9d880e5d1a003554a7fec83a_88573_300x300_fit_lanczos_3.png</url>
       <title>Latest News</title>
-      <link>https://lesondufutur.cirmmt.org/post/</link>
+      <link>https://timbre-conference.github.io/timbre2023/post/</link>
     </image>
     
     <item>
       <title>Test</title>
-      <link>https://lesondufutur.cirmmt.org/post/test/</link>
+      <link>https://timbre-conference.github.io/timbre2023/post/test/</link>
       <pubDate>Wed, 11 May 2022 16:39:50 -0400</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/post/test/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/post/test/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m making a change&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
-      <link>https://lesondufutur.cirmmt.org/post/20-12-02-icml-best-paper/</link>
+      <link>https://timbre-conference.github.io/timbre2023/post/20-12-02-icml-best-paper/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/post/20-12-02-icml-best-paper/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/post/20-12-02-icml-best-paper/</guid>
       <description>&lt;p&gt;Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
 &lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
@@ -34,9 +34,9 @@
     
     <item>
       <title>Richard Hendricks Wins First Place in the Wowchemy Prize</title>
-      <link>https://lesondufutur.cirmmt.org/post/20-12-01-wowchemy-prize/</link>
+      <link>https://timbre-conference.github.io/timbre2023/post/20-12-01-wowchemy-prize/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/post/20-12-01-wowchemy-prize/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/post/20-12-01-wowchemy-prize/</guid>
       <description>&lt;p&gt;Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
 &lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;

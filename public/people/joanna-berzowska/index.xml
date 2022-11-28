@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Joanna Berzowska | Le son du futur / Le futur du son</title>
-    <link>https://lesondufutur.cirmmt.org/people/joanna-berzowska/</link>
-      <atom:link href="https://lesondufutur.cirmmt.org/people/joanna-berzowska/index.xml" rel="self" type="application/rss+xml" />
+    <title>Joanna Berzowska | Timbre 2023</title>
+    <link>https://timbre-conference.github.io/timbre2023/people/joanna-berzowska/</link>
+      <atom:link href="https://timbre-conference.github.io/timbre2023/people/joanna-berzowska/index.xml" rel="self" type="application/rss+xml" />
     <description>Joanna Berzowska</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://lesondufutur.cirmmt.org/media/logo_hubfe263bb18063784559f8c0ea6819403_37478_300x300_fit_lanczos_3.png</url>
+      <url>https://timbre-conference.github.io/timbre2023/media/logo_hu2c056d5f9d880e5d1a003554a7fec83a_88573_300x300_fit_lanczos_3.png</url>
       <title>Joanna Berzowska</title>
-      <link>https://lesondufutur.cirmmt.org/people/joanna-berzowska/</link>
+      <link>https://timbre-conference.github.io/timbre2023/people/joanna-berzowska/</link>
     </image>
     
   </channel>

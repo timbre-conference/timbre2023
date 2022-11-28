@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thursday | Le son du futur / Le futur du son</title>
-    <link>https://lesondufutur.cirmmt.org/tag/thursday/</link>
-      <atom:link href="https://lesondufutur.cirmmt.org/tag/thursday/index.xml" rel="self" type="application/rss+xml" />
+    <title>Thursday | Timbre 2023</title>
+    <link>https://timbre-conference.github.io/timbre2023/tag/thursday/</link>
+      <atom:link href="https://timbre-conference.github.io/timbre2023/tag/thursday/index.xml" rel="self" type="application/rss+xml" />
     <description>Thursday</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://lesondufutur.cirmmt.org/media/logo_hubfe263bb18063784559f8c0ea6819403_37478_300x300_fit_lanczos_3.png</url>
+      <url>https://timbre-conference.github.io/timbre2023/media/logo_hu2c056d5f9d880e5d1a003554a7fec83a_88573_300x300_fit_lanczos_3.png</url>
       <title>Thursday</title>
-      <link>https://lesondufutur.cirmmt.org/tag/thursday/</link>
+      <link>https://timbre-conference.github.io/timbre2023/tag/thursday/</link>
     </image>
     
     <item>
       <title>Panel: Research Axis 3</title>
-      <link>https://lesondufutur.cirmmt.org/session/thu/panel-3/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/panel-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/thu/panel-3/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/panel-3/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -50,17 +50,17 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;presenters&#34;&gt;Presenters&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/michael-schutz/&#34;&gt;Michael Schutz&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/elizabeth-simmerman/&#34;&gt;Elizabeth Zimmerman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/michael-schutz/&#34;&gt;Michael Schutz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/elizabeth-simmerman/&#34;&gt;Elizabeth Zimmerman&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Keynote 4: Sidney Fels</title>
-      <link>https://lesondufutur.cirmmt.org/session/thu/keynote-4/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/keynote-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/thu/keynote-4/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/keynote-4/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -90,7 +90,7 @@
 &lt;/table&gt;
 &lt;h2 id=&#34;speaker&#34;&gt;Speaker&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/sidney-fels/&#34;&gt;Sidney Fels&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/sidney-fels/&#34;&gt;Sidney Fels&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;title&#34;&gt;Title&lt;/h2&gt;
 &lt;ul&gt;
@@ -103,9 +103,9 @@
     
     <item>
       <title>Posters 2 / Coffee break</title>
-      <link>https://lesondufutur.cirmmt.org/session/thu/posters-2/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/posters-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/thu/posters-2/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/posters-2/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -144,9 +144,9 @@
     
     <item>
       <title>Panel: Research Axis 4</title>
-      <link>https://lesondufutur.cirmmt.org/session/thu/panel-4/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/panel-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/thu/panel-4/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/panel-4/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -189,9 +189,9 @@
     
     <item>
       <title>Keynote 5:  Louis-Xavier Buffoni</title>
-      <link>https://lesondufutur.cirmmt.org/session/thu/keynote-5/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/keynote-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/thu/keynote-5/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/keynote-5/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -221,7 +221,7 @@
 &lt;/table&gt;
 &lt;h2 id=&#34;speaker&#34;&gt;Speaker&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/louis-xavier-buffoni/&#34;&gt;Louis-Xavier Buffoni&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/louis-xavier-buffoni/&#34;&gt;Louis-Xavier Buffoni&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;title&#34;&gt;Title&lt;/h2&gt;
 &lt;ul&gt;
@@ -237,9 +237,9 @@ Minim eiusmod velit dolore enim. Dolor aliquip esse ea culpa mollit consequat au
     
     <item>
       <title>Interactive Session 5: EDI approaches of audio engineering and production</title>
-      <link>https://lesondufutur.cirmmt.org/session/thu/interactive-session-5/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/interactive-session-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/thu/interactive-session-5/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/interactive-session-5/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -273,7 +273,7 @@ Minim eiusmod velit dolore enim. Dolor aliquip esse ea culpa mollit consequat au
 &lt;/ul&gt;
 &lt;h2 id=&#34;presenter&#34;&gt;Presenter&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/amandine-pras/&#34;&gt;Amandine Pras&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/amandine-pras/&#34;&gt;Amandine Pras&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Based on an overview of recent and on-going projects that I have carried out with CIRMMT members, I will invite the session participants to consider three directions for potential collaborations that could benefit from my expertise. First, I would like to focus on the impact of involving non-academic professional musicians coming from diverse cultural backgrounds in partnerships that aim at analysing their creative processes and/or designing technology that could best meet their artistic vision and social identity (Pras et al., 2021). Second, the purpose of the exchanges will be to bridge gaps between audio engineering and music technology to develop useful applications with a high level of sound quality (Bauer et al., forthcoming). Last, I will encourage attendees to learn and apply feminist and de-colonizing theories to the framework and methods of studies whose fields and disciplines are rooted in patriarchal structures (Brooks et al., 2021) and/or European concepts of modernity and innovation.&lt;/p&gt;
@@ -282,9 +282,9 @@ Minim eiusmod velit dolore enim. Dolor aliquip esse ea culpa mollit consequat au
     
     <item>
       <title>Interactive Session 6: Physiological responses to music</title>
-      <link>https://lesondufutur.cirmmt.org/session/thu/interactive-session-6/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/interactive-session-6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/thu/interactive-session-6/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/interactive-session-6/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -318,7 +318,7 @@ Minim eiusmod velit dolore enim. Dolor aliquip esse ea culpa mollit consequat au
 &lt;/ul&gt;
 &lt;h2 id=&#34;presenter&#34;&gt;Presenter&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/suresh-krishna/&#34;&gt;Suresh Krishna&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/suresh-krishna/&#34;&gt;Suresh Krishna&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!--
 ## Description
@@ -328,9 +328,9 @@ Minim eiusmod velit dolore enim. Dolor aliquip esse ea culpa mollit consequat au
     
     <item>
       <title>Interactive Session 7: Together towards a global and healthier education for musicians</title>
-      <link>https://lesondufutur.cirmmt.org/session/thu/interactive-session-7/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/interactive-session-7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/thu/interactive-session-7/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/interactive-session-7/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -364,7 +364,7 @@ Minim eiusmod velit dolore enim. Dolor aliquip esse ea culpa mollit consequat au
 &lt;/ul&gt;
 &lt;h2 id=&#34;presenter&#34;&gt;Presenter&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/isabelle-cossette/&#34;&gt;Isabelle Cossette&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/isabelle-cossette/&#34;&gt;Isabelle Cossette&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!--
 ## Description
@@ -374,9 +374,9 @@ Minim eiusmod velit dolore enim. Dolor aliquip esse ea culpa mollit consequat au
     
     <item>
       <title>Round Table 2</title>
-      <link>https://lesondufutur.cirmmt.org/session/thu/round-table-2/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/round-table-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/thu/round-table-2/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/round-table-2/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -410,9 +410,9 @@ Minim eiusmod velit dolore enim. Dolor aliquip esse ea culpa mollit consequat au
     
     <item>
       <title>Concert 3: live@CIRMMT</title>
-      <link>https://lesondufutur.cirmmt.org/session/thu/concert-3/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/concert-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/thu/concert-3/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/concert-3/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -455,7 +455,7 @@ Minim eiusmod velit dolore enim. Dolor aliquip esse ea culpa mollit consequat au
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Xue Han&lt;/strong&gt; &lt;em&gt;&amp;ldquo;en passant&amp;rdquo;&lt;/em&gt; [premiere]
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;performed by:&lt;/strong&gt; [Martin Daigle]({{ relref &amp;ldquo;/author/martin-daigle&amp;rdquo; }}) (percussion), &lt;a href=&#34;https://lesondufutur.cirmmt.org/people/seph-li/&#34;&gt;Seph Li&lt;/a&gt; (visual artist)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;performed by:&lt;/strong&gt; [Martin Daigle]({{ relref &amp;ldquo;/author/martin-daigle&amp;rdquo; }}) (percussion), &lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/seph-li/&#34;&gt;Seph Li&lt;/a&gt; (visual artist)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;

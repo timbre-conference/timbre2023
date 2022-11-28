@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Le son du futur / Le futur du son</title>
-    <link>https://lesondufutur.cirmmt.org/</link>
-      <atom:link href="https://lesondufutur.cirmmt.org/index.xml" rel="self" type="application/rss+xml" />
-    <description>Le son du futur / Le futur du son</description>
+    <title>Timbre 2023</title>
+    <link>https://timbre-conference.github.io/timbre2023/</link>
+      <atom:link href="https://timbre-conference.github.io/timbre2023/index.xml" rel="self" type="application/rss+xml" />
+    <description>Timbre 2023</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lesondufutur.cirmmt.org/media/logo_hubfe263bb18063784559f8c0ea6819403_37478_300x300_fit_lanczos_3.png</url>
-      <title>Le son du futur / Le futur du son</title>
-      <link>https://lesondufutur.cirmmt.org/</link>
+      <url>https://timbre-conference.github.io/timbre2023/media/logo_hu2c056d5f9d880e5d1a003554a7fec83a_88573_300x300_fit_lanczos_3.png</url>
+      <title>Timbre 2023</title>
+      <link>https://timbre-conference.github.io/timbre2023/</link>
     </image>
     
     <item>
       <title>COBS Session 1: Student presentations</title>
-      <link>https://lesondufutur.cirmmt.org/session/tue/cobs-session-1/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/tue/cobs-session-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/tue/cobs-session-1/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/tue/cobs-session-1/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -55,9 +55,9 @@
     
     <item>
       <title>COBS Session 2: Student presentations</title>
-      <link>https://lesondufutur.cirmmt.org/session/tue/cobs-session-2/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/tue/cobs-session-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/tue/cobs-session-2/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/tue/cobs-session-2/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -96,9 +96,9 @@
     
     <item>
       <title>COBS Session 3: New projects</title>
-      <link>https://lesondufutur.cirmmt.org/session/tue/cobs-session-3/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/tue/cobs-session-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/tue/cobs-session-3/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/tue/cobs-session-3/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -137,9 +137,9 @@
     
     <item>
       <title>Keynote 1: P. A. Tremblay</title>
-      <link>https://lesondufutur.cirmmt.org/session/tue/keynote-1/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/tue/keynote-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/tue/keynote-1/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/tue/keynote-1/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -169,7 +169,7 @@
 &lt;/table&gt;
 &lt;h2 id=&#34;speaker&#34;&gt;Speaker&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/pierre-alexandre-tremblay/&#34;&gt;Pierre Alexandre Tremblay&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/pierre-alexandre-tremblay/&#34;&gt;Pierre Alexandre Tremblay&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;title&#34;&gt;Title&lt;/h2&gt;
 &lt;ul&gt;
@@ -183,9 +183,9 @@
     
     <item>
       <title>COBS Session 4: Student presentations</title>
-      <link>https://lesondufutur.cirmmt.org/session/tue/cobs-session-4/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/tue/cobs-session-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/tue/cobs-session-4/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/tue/cobs-session-4/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -224,9 +224,9 @@
     
     <item>
       <title>COBS Session 5: Student presentations</title>
-      <link>https://lesondufutur.cirmmt.org/session/tue/cobs-session-5/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/tue/cobs-session-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/tue/cobs-session-5/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/tue/cobs-session-5/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -265,9 +265,9 @@
     
     <item>
       <title>Posters 1 / Coffee break</title>
-      <link>https://lesondufutur.cirmmt.org/session/tue/posters-1/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/tue/posters-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/tue/posters-1/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/tue/posters-1/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -306,9 +306,9 @@
     
     <item>
       <title>Concert 1: improv@CIRMMT</title>
-      <link>https://lesondufutur.cirmmt.org/session/tue/concert-1/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/tue/concert-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/tue/concert-1/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/tue/concert-1/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -347,9 +347,9 @@
     
     <item>
       <title>Introduction &amp; Panel: Research Axis 1</title>
-      <link>https://lesondufutur.cirmmt.org/session/wed/panel-1/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/wed/panel-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/wed/panel-1/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/wed/panel-1/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -384,17 +384,17 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;presenters&#34;&gt;Presenters&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/louis-xavier-buffoni/&#34;&gt;Louis-Xavier Buffoni&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/thierry-dutoit/&#34;&gt;Thierry Dutoit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/louis-xavier-buffoni/&#34;&gt;Louis-Xavier Buffoni&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/thierry-dutoit/&#34;&gt;Thierry Dutoit&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Keynote 2: Alain Fleisher</title>
-      <link>https://lesondufutur.cirmmt.org/session/wed/keynote-2/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/wed/keynote-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/wed/keynote-2/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/wed/keynote-2/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -424,7 +424,7 @@
 &lt;/table&gt;
 &lt;h2 id=&#34;speaker&#34;&gt;Speaker&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/alain-fleischer/&#34;&gt;Alain Fleisher&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/alain-fleischer/&#34;&gt;Alain Fleisher&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;title&#34;&gt;Title&lt;/h2&gt;
 &lt;ul&gt;
@@ -441,9 +441,9 @@
     
     <item>
       <title>Panel: Research Axis 2</title>
-      <link>https://lesondufutur.cirmmt.org/session/wed/panel-2/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/wed/panel-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/wed/panel-2/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/wed/panel-2/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -477,16 +477,16 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;presenters&#34;&gt;Presenters&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/guillaume-boutard/&#34;&gt;Guillaume Boutard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/guillaume-boutard/&#34;&gt;Guillaume Boutard&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Keynote 3: I. Choi &amp; R. Bargar</title>
-      <link>https://lesondufutur.cirmmt.org/session/wed/keynote-3/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/wed/keynote-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/wed/keynote-3/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/wed/keynote-3/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -516,8 +516,8 @@
 &lt;/table&gt;
 &lt;h2 id=&#34;speakers&#34;&gt;Speakers&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/insook-choi/&#34;&gt;Insook Choi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/robin-bargar/&#34;&gt;Robin Bargar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/insook-choi/&#34;&gt;Insook Choi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/robin-bargar/&#34;&gt;Robin Bargar&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;title&#34;&gt;Title&lt;/h2&gt;
 &lt;ul&gt;
@@ -533,9 +533,9 @@
     
     <item>
       <title>Interactive Session 1: Electronic Garments as Interfaces for Sound Art</title>
-      <link>https://lesondufutur.cirmmt.org/session/wed/interactive-session-1/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/wed/interactive-session-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/wed/interactive-session-1/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/wed/interactive-session-1/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -569,7 +569,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;presenter&#34;&gt;Presenter&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/joanna-berzowska/&#34;&gt;Joanna Berzowska&lt;/a&gt; &lt;!-- need people page --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/joanna-berzowska/&#34;&gt;Joanna Berzowska&lt;/a&gt; &lt;!-- need people page --&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!--
 ## Description
@@ -580,9 +580,9 @@ Incididunt proident dolore cupidatat nulla reprehenderit qui cillum. Amet incidi
     
     <item>
       <title>Interactive Session 2: Music Psychology and Performing Musicians</title>
-      <link>https://lesondufutur.cirmmt.org/session/wed/interactive-session-2/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/wed/interactive-session-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/wed/interactive-session-2/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/wed/interactive-session-2/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -616,7 +616,7 @@ Incididunt proident dolore cupidatat nulla reprehenderit qui cillum. Amet incidi
 &lt;/ul&gt;
 &lt;h2 id=&#34;presenter&#34;&gt;Presenter&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/michael-schutz/&#34;&gt;Michael Schutz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/michael-schutz/&#34;&gt;Michael Schutz&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;This session will review how music psychology experiments provide valuable insight for performing musicians; as well as how issues stemming from musical performance provide valuable topics for experimental research.  After reviewing projects derived from and informing Schutz&amp;rsquo;s own work as percussion soloist and director of the McMaster University Percussion Ensemble, the session will move to break-out groups focused on brainstorming performance-relevant research on the following three topics:  (1) how the movements used by performers change the way their music &amp;ldquo;sounds.&amp;rdquo; (2) how formal study and assessment of practice strategies can improve our practice. (3) how to formally assess the effect of a performer&amp;rsquo;s interpretation on audiences responses to new works. Together these topics will provide a fruitful basis for exploring new of relevance to both the scientific study of music, as well as its artistic practice.&lt;/p&gt;
@@ -625,9 +625,9 @@ Incididunt proident dolore cupidatat nulla reprehenderit qui cillum. Amet incidi
     
     <item>
       <title>Interactive Session 3: Sound Art after COVID</title>
-      <link>https://lesondufutur.cirmmt.org/session/wed/interactive-session-3/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/wed/interactive-session-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/wed/interactive-session-3/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/wed/interactive-session-3/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -661,7 +661,7 @@ Incididunt proident dolore cupidatat nulla reprehenderit qui cillum. Amet incidi
 &lt;/ul&gt;
 &lt;h2 id=&#34;presenter&#34;&gt;Presenter&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/catherine-guastavino/&#34;&gt;Catherine Guastavino&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/catherine-guastavino/&#34;&gt;Catherine Guastavino&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;The Covid-19 pandemic has impacted on and changed many aspects of urban life which contribute to social well- being and economic stability. It has dramatically altered the way that people and communities’ access or are excluded from public spaces and changed the complex role that sound plays in framing urban experience. Indeed, while current noise policies and public discourse focus almost exclusively on reducing sound levels, the  unprecedented experience of “quietened” cities during lockdown both highlighted the unsustainability of this goal, related as it was to the reduction in economic, social and cultural activity and opportunity. It also led more people to notice the transformation of the urban soundscape and listen to their immediate environment.  This relationship between the soundscape and community activity and the ‘listening turn’ that developed offer  the opportunity for a new understanding of sound environments in urban settings informed by  innovative forms of collaboration and participation.&lt;/p&gt;
@@ -670,9 +670,9 @@ Incididunt proident dolore cupidatat nulla reprehenderit qui cillum. Amet incidi
     
     <item>
       <title>Round Table 1</title>
-      <link>https://lesondufutur.cirmmt.org/session/wed/round-table-1/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/wed/round-table-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/wed/round-table-1/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/wed/round-table-1/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -706,9 +706,9 @@ Incididunt proident dolore cupidatat nulla reprehenderit qui cillum. Amet incidi
     
     <item>
       <title>Workshop 1: Immersive sound spatialization with SpatGRIS</title>
-      <link>https://lesondufutur.cirmmt.org/session/wed/workshop-1/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/wed/workshop-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/wed/workshop-1/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/wed/workshop-1/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -740,17 +740,17 @@ Incididunt proident dolore cupidatat nulla reprehenderit qui cillum. Amet incidi
 &lt;p&gt;Spatialisation sonore immersive: SpatGRIS&lt;/p&gt;
 &lt;h2 id=&#34;presenters&#34;&gt;Presenters&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/melanie-frisoli/&#34;&gt;Mélanie Frisoli&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/nicola-giannini/&#34;&gt;Nicola Giannini&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/melanie-frisoli/&#34;&gt;Mélanie Frisoli&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/nicola-giannini/&#34;&gt;Nicola Giannini&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Interactive Session 4</title>
-      <link>https://lesondufutur.cirmmt.org/session/wed/interactive-session-4/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/wed/interactive-session-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/wed/interactive-session-4/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/wed/interactive-session-4/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -785,18 +785,18 @@ Incididunt proident dolore cupidatat nulla reprehenderit qui cillum. Amet incidi
 --&gt;
 &lt;h2 id=&#34;presenters&#34;&gt;Presenters&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/ons-barnat/&#34;&gt;Ons Barnat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/caroline-traube/&#34;&gt;Caroline Traube&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/frederic-leotar/&#34;&gt;Frédéric Léotar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/ons-barnat/&#34;&gt;Ons Barnat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/caroline-traube/&#34;&gt;Caroline Traube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/frederic-leotar/&#34;&gt;Frédéric Léotar&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Concert 2: Tribute to Iannis Xenakis</title>
-      <link>https://lesondufutur.cirmmt.org/session/wed/concert-2/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/wed/concert-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/wed/concert-2/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/wed/concert-2/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -826,22 +826,22 @@ Incididunt proident dolore cupidatat nulla reprehenderit qui cillum. Amet incidi
 &lt;/table&gt;
 &lt;h2 id=&#34;program&#34;&gt;Program&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/nouvel-ensemble-moderne/&#34;&gt;Nouvel Ensemble Moderne&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;&amp;ldquo;Anaktoria&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/ensemble-sixtrum/&#34;&gt;ensemble SIXTRUM&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;&amp;ldquo;PolytopeXXI&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/nouvel-ensemble-moderne/&#34;&gt;Nouvel Ensemble Moderne&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;&amp;ldquo;Anaktoria&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/ensemble-sixtrum/&#34;&gt;ensemble SIXTRUM&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;&amp;ldquo;PolytopeXXI&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;The second concert will be a tribute to Iannis Xenakis, combining a new instrument/installation, &lt;em&gt;PolytopeXXI&lt;/em&gt;, with a masterpiece of the XXth century repertoire, Xenakis’ Pleiades. &lt;em&gt;PolytopeXXI&lt;/em&gt; will feature a monumental new instrument: a sort of giant, electronically augmented, audio-luminescent harp, whose strings will be struck by the percussionists of the &lt;a href=&#34;https://lesondufutur.cirmmt.org/people/ensemble-sixtrum/&#34;&gt;ensemble SIXTRUM&lt;/a&gt; in a new work by &lt;a href=&#34;https://lesondufutur.cirmmt.org/people/myriam-boucher/&#34;&gt;Myriam Boucher&lt;/a&gt; and &lt;a href=&#34;https://lesondufutur.cirmmt.org/people/dominic-thibault/&#34;&gt;Dominic Thibault&lt;/a&gt;. The &lt;a href=&#34;https://lesondufutur.cirmmt.org/people/nouvel-ensemble-moderne/&#34;&gt;Nouvel Ensemble Moderne&lt;/a&gt; will also take part to the concert with the rarely performed &lt;em&gt;Anaktoria&lt;/em&gt;, by Iannis Xenakis.&lt;/p&gt;
+&lt;p&gt;The second concert will be a tribute to Iannis Xenakis, combining a new instrument/installation, &lt;em&gt;PolytopeXXI&lt;/em&gt;, with a masterpiece of the XXth century repertoire, Xenakis’ Pleiades. &lt;em&gt;PolytopeXXI&lt;/em&gt; will feature a monumental new instrument: a sort of giant, electronically augmented, audio-luminescent harp, whose strings will be struck by the percussionists of the &lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/ensemble-sixtrum/&#34;&gt;ensemble SIXTRUM&lt;/a&gt; in a new work by &lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/myriam-boucher/&#34;&gt;Myriam Boucher&lt;/a&gt; and &lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/dominic-thibault/&#34;&gt;Dominic Thibault&lt;/a&gt;. The &lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/nouvel-ensemble-moderne/&#34;&gt;Nouvel Ensemble Moderne&lt;/a&gt; will also take part to the concert with the rarely performed &lt;em&gt;Anaktoria&lt;/em&gt;, by Iannis Xenakis.&lt;/p&gt;
 &lt;h2 id=&#34;about-polytope-xxi&#34;&gt;About &lt;strong&gt;Polytope XXI&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Polytope XXI is the name that composers &lt;a href=&#34;https://lesondufutur.cirmmt.org/people/myriam-boucher/&#34;&gt;Myriam Boucher&lt;/a&gt; and &lt;a href=&#34;https://lesondufutur.cirmmt.org/people/dominic-thibault/&#34;&gt;Dominic Thibault&lt;/a&gt; have given to their monumental instrumental project: a sort of giant, electronically augmented, audio-luminescent harp, whose strings will be struck by the percussionists of Sixtrum. The structure of the instrument will be equipped with various sensors that will capture and amplify vibrations, while controlling the integrated light and video system.&lt;/p&gt;
+&lt;p&gt;Polytope XXI is the name that composers &lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/myriam-boucher/&#34;&gt;Myriam Boucher&lt;/a&gt; and &lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/dominic-thibault/&#34;&gt;Dominic Thibault&lt;/a&gt; have given to their monumental instrumental project: a sort of giant, electronically augmented, audio-luminescent harp, whose strings will be struck by the percussionists of Sixtrum. The structure of the instrument will be equipped with various sensors that will capture and amplify vibrations, while controlling the integrated light and video system.&lt;/p&gt;
 &lt;p&gt;This project finds its inspiration in the first Polytope imagined by Iannis Xenakis, an ‘electronic sculpture combining light, music and structure’, that was presented inside the French Pavilion during Expo67 built in Montreal. It formed a gigantic web of cables suspended in the central space of the pavilion, each cable bearing a multitude of flashing lights that were synchronized with a musical tape – thus creating an artistic work inscribed in space and made of multiple layers of sound and light.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Panel: Research Axis 3</title>
-      <link>https://lesondufutur.cirmmt.org/session/thu/panel-3/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/panel-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/thu/panel-3/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/panel-3/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -875,17 +875,17 @@ Incididunt proident dolore cupidatat nulla reprehenderit qui cillum. Amet incidi
 &lt;/ul&gt;
 &lt;h2 id=&#34;presenters&#34;&gt;Presenters&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/michael-schutz/&#34;&gt;Michael Schutz&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/elizabeth-simmerman/&#34;&gt;Elizabeth Zimmerman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/michael-schutz/&#34;&gt;Michael Schutz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/elizabeth-simmerman/&#34;&gt;Elizabeth Zimmerman&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Keynote 4: Sidney Fels</title>
-      <link>https://lesondufutur.cirmmt.org/session/thu/keynote-4/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/keynote-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/thu/keynote-4/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/keynote-4/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -915,7 +915,7 @@ Incididunt proident dolore cupidatat nulla reprehenderit qui cillum. Amet incidi
 &lt;/table&gt;
 &lt;h2 id=&#34;speaker&#34;&gt;Speaker&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/sidney-fels/&#34;&gt;Sidney Fels&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/sidney-fels/&#34;&gt;Sidney Fels&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;title&#34;&gt;Title&lt;/h2&gt;
 &lt;ul&gt;
@@ -928,9 +928,9 @@ Incididunt proident dolore cupidatat nulla reprehenderit qui cillum. Amet incidi
     
     <item>
       <title>Posters 2 / Coffee break</title>
-      <link>https://lesondufutur.cirmmt.org/session/thu/posters-2/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/posters-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/thu/posters-2/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/posters-2/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -969,9 +969,9 @@ Incididunt proident dolore cupidatat nulla reprehenderit qui cillum. Amet incidi
     
     <item>
       <title>Panel: Research Axis 4</title>
-      <link>https://lesondufutur.cirmmt.org/session/thu/panel-4/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/panel-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/thu/panel-4/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/panel-4/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -1014,9 +1014,9 @@ Incididunt proident dolore cupidatat nulla reprehenderit qui cillum. Amet incidi
     
     <item>
       <title>Keynote 5:  Louis-Xavier Buffoni</title>
-      <link>https://lesondufutur.cirmmt.org/session/thu/keynote-5/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/keynote-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/thu/keynote-5/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/keynote-5/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -1046,7 +1046,7 @@ Incididunt proident dolore cupidatat nulla reprehenderit qui cillum. Amet incidi
 &lt;/table&gt;
 &lt;h2 id=&#34;speaker&#34;&gt;Speaker&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/louis-xavier-buffoni/&#34;&gt;Louis-Xavier Buffoni&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/louis-xavier-buffoni/&#34;&gt;Louis-Xavier Buffoni&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;title&#34;&gt;Title&lt;/h2&gt;
 &lt;ul&gt;
@@ -1062,9 +1062,9 @@ Minim eiusmod velit dolore enim. Dolor aliquip esse ea culpa mollit consequat au
     
     <item>
       <title>Interactive Session 5: EDI approaches of audio engineering and production</title>
-      <link>https://lesondufutur.cirmmt.org/session/thu/interactive-session-5/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/interactive-session-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/thu/interactive-session-5/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/interactive-session-5/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -1098,7 +1098,7 @@ Minim eiusmod velit dolore enim. Dolor aliquip esse ea culpa mollit consequat au
 &lt;/ul&gt;
 &lt;h2 id=&#34;presenter&#34;&gt;Presenter&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/amandine-pras/&#34;&gt;Amandine Pras&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/amandine-pras/&#34;&gt;Amandine Pras&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Based on an overview of recent and on-going projects that I have carried out with CIRMMT members, I will invite the session participants to consider three directions for potential collaborations that could benefit from my expertise. First, I would like to focus on the impact of involving non-academic professional musicians coming from diverse cultural backgrounds in partnerships that aim at analysing their creative processes and/or designing technology that could best meet their artistic vision and social identity (Pras et al., 2021). Second, the purpose of the exchanges will be to bridge gaps between audio engineering and music technology to develop useful applications with a high level of sound quality (Bauer et al., forthcoming). Last, I will encourage attendees to learn and apply feminist and de-colonizing theories to the framework and methods of studies whose fields and disciplines are rooted in patriarchal structures (Brooks et al., 2021) and/or European concepts of modernity and innovation.&lt;/p&gt;
@@ -1107,9 +1107,9 @@ Minim eiusmod velit dolore enim. Dolor aliquip esse ea culpa mollit consequat au
     
     <item>
       <title>Interactive Session 6: Physiological responses to music</title>
-      <link>https://lesondufutur.cirmmt.org/session/thu/interactive-session-6/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/interactive-session-6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/thu/interactive-session-6/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/interactive-session-6/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -1143,7 +1143,7 @@ Minim eiusmod velit dolore enim. Dolor aliquip esse ea culpa mollit consequat au
 &lt;/ul&gt;
 &lt;h2 id=&#34;presenter&#34;&gt;Presenter&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/suresh-krishna/&#34;&gt;Suresh Krishna&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/suresh-krishna/&#34;&gt;Suresh Krishna&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!--
 ## Description
@@ -1153,9 +1153,9 @@ Minim eiusmod velit dolore enim. Dolor aliquip esse ea culpa mollit consequat au
     
     <item>
       <title>Interactive Session 7: Together towards a global and healthier education for musicians</title>
-      <link>https://lesondufutur.cirmmt.org/session/thu/interactive-session-7/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/interactive-session-7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/thu/interactive-session-7/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/interactive-session-7/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -1189,7 +1189,7 @@ Minim eiusmod velit dolore enim. Dolor aliquip esse ea culpa mollit consequat au
 &lt;/ul&gt;
 &lt;h2 id=&#34;presenter&#34;&gt;Presenter&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/isabelle-cossette/&#34;&gt;Isabelle Cossette&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/isabelle-cossette/&#34;&gt;Isabelle Cossette&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!--
 ## Description
@@ -1199,9 +1199,9 @@ Minim eiusmod velit dolore enim. Dolor aliquip esse ea culpa mollit consequat au
     
     <item>
       <title>Round Table 2</title>
-      <link>https://lesondufutur.cirmmt.org/session/thu/round-table-2/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/round-table-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/thu/round-table-2/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/round-table-2/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -1235,9 +1235,9 @@ Minim eiusmod velit dolore enim. Dolor aliquip esse ea culpa mollit consequat au
     
     <item>
       <title>Concert 3: live@CIRMMT</title>
-      <link>https://lesondufutur.cirmmt.org/session/thu/concert-3/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/thu/concert-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/thu/concert-3/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/thu/concert-3/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -1280,7 +1280,7 @@ Minim eiusmod velit dolore enim. Dolor aliquip esse ea culpa mollit consequat au
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Xue Han&lt;/strong&gt; &lt;em&gt;&amp;ldquo;en passant&amp;rdquo;&lt;/em&gt; [premiere]
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;performed by:&lt;/strong&gt; [Martin Daigle]({{ relref &amp;ldquo;/author/martin-daigle&amp;rdquo; }}) (percussion), &lt;a href=&#34;https://lesondufutur.cirmmt.org/people/seph-li/&#34;&gt;Seph Li&lt;/a&gt; (visual artist)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;performed by:&lt;/strong&gt; [Martin Daigle]({{ relref &amp;ldquo;/author/martin-daigle&amp;rdquo; }}) (percussion), &lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/seph-li/&#34;&gt;Seph Li&lt;/a&gt; (visual artist)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -1293,9 +1293,9 @@ Minim eiusmod velit dolore enim. Dolor aliquip esse ea culpa mollit consequat au
     
     <item>
       <title>Workshop 2: Sound spatialization in MMR</title>
-      <link>https://lesondufutur.cirmmt.org/session/fri/workshop-2/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/fri/workshop-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/fri/workshop-2/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/fri/workshop-2/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -1329,16 +1329,16 @@ Minim eiusmod velit dolore enim. Dolor aliquip esse ea culpa mollit consequat au
 &lt;/ul&gt;
 &lt;h2 id=&#34;presenter&#34;&gt;Presenter&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/philippe-aubert-gauthier/&#34;&gt;Phillipe-Aubert Gauthier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/philippe-aubert-gauthier/&#34;&gt;Phillipe-Aubert Gauthier&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Interactive Session 8: Creative Later-Life in a Digital Age</title>
-      <link>https://lesondufutur.cirmmt.org/session/fri/interactive-session-8/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/fri/interactive-session-8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/fri/interactive-session-8/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/fri/interactive-session-8/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -1372,8 +1372,8 @@ Minim eiusmod velit dolore enim. Dolor aliquip esse ea culpa mollit consequat au
 &lt;/ul&gt;
 &lt;h2 id=&#34;presenters&#34;&gt;Presenters&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/amanda-creech/&#34;&gt;Andrea Creech&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/isabelle-cossette/&#34;&gt;Isabelle Cossette&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/amanda-creech/&#34;&gt;Andrea Creech&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/isabelle-cossette/&#34;&gt;Isabelle Cossette&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;[Lee Willingham]({{ relref &amp;ldquo;/author/lee-willingham&amp;rdquo; }})&lt;/li&gt;
 &lt;li&gt;[Susan O&amp;rsquo;Neill]({{ relref &amp;ldquo;/author/susan-oneill&amp;rdquo; }})&lt;/li&gt;
 &lt;/ul&gt;
@@ -1385,9 +1385,9 @@ Minim eiusmod velit dolore enim. Dolor aliquip esse ea culpa mollit consequat au
     
     <item>
       <title>Interactive Session 9: Motion capture in ecological situations</title>
-      <link>https://lesondufutur.cirmmt.org/session/fri/interactive-session-9/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/fri/interactive-session-9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/fri/interactive-session-9/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/fri/interactive-session-9/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -1421,7 +1421,7 @@ Minim eiusmod velit dolore enim. Dolor aliquip esse ea culpa mollit consequat au
 &lt;/ul&gt;
 &lt;h2 id=&#34;presenter&#34;&gt;Presenter&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/frederic-marin/&#34;&gt;Frédéric Marin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/frederic-marin/&#34;&gt;Frédéric Marin&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- NEED ENGLISH!! 
 ## Description
@@ -1432,9 +1432,9 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
     
     <item>
       <title>Interactive Session 10: 3D Music Production</title>
-      <link>https://lesondufutur.cirmmt.org/session/fri/interactive-session-10/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/fri/interactive-session-10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/fri/interactive-session-10/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/fri/interactive-session-10/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -1478,9 +1478,9 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
     
     <item>
       <title>Interactive Session 11: Artificial Intelligence driving the shape of new realities</title>
-      <link>https://lesondufutur.cirmmt.org/session/fri/interactive-session-11/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/fri/interactive-session-11/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/fri/interactive-session-11/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/fri/interactive-session-11/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -1512,7 +1512,7 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
 &lt;p&gt;Artificial Intelligence driving the shape of new realities: what to expect from the music in the Metaverse Era&lt;/p&gt;
 &lt;h2 id=&#34;presenter&#34;&gt;Presenter&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/people/antonio-crespo/&#34;&gt;Antonio Crespo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/antonio-crespo/&#34;&gt;Antonio Crespo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!--
 ## Description
@@ -1522,9 +1522,9 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
     
     <item>
       <title>Round Table 3 and Conclusion</title>
-      <link>https://lesondufutur.cirmmt.org/session/fri/round-table-3/</link>
+      <link>https://timbre-conference.github.io/timbre2023/session/fri/round-table-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/session/fri/round-table-3/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/session/fri/round-table-3/</guid>
       <description>&lt;br&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -1558,9 +1558,9 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
     
     <item>
       <title>Example Event</title>
-      <link>https://lesondufutur.cirmmt.org/event/example/</link>
+      <link>https://timbre-conference.github.io/timbre2023/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/event/example/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/event/example/</guid>
       <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
@@ -1573,18 +1573,18 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
     
     <item>
       <title>Test</title>
-      <link>https://lesondufutur.cirmmt.org/post/test/</link>
+      <link>https://timbre-conference.github.io/timbre2023/post/test/</link>
       <pubDate>Wed, 11 May 2022 16:39:50 -0400</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/post/test/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/post/test/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m making a change&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>COBS/CCOB</title>
-      <link>https://lesondufutur.cirmmt.org/cobs/</link>
+      <link>https://timbre-conference.github.io/timbre2023/cobs/</link>
       <pubDate>Thu, 05 May 2022 16:47:45 -0400</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/cobs/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/cobs/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The first day of the conference is comprised of the CCOB/COBS Student symposium.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;For more information, please visit the CCOB/COBS website: &lt;a href=&#34;http://www.ccob-cobs.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.ccob-cobs.org/&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;about-cobs&#34;&gt;About COBS&lt;/h2&gt;
@@ -1594,9 +1594,9 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
     
     <item>
       <title>Venues</title>
-      <link>https://lesondufutur.cirmmt.org/venues/</link>
+      <link>https://timbre-conference.github.io/timbre2023/venue/</link>
       <pubDate>Thu, 05 May 2022 16:47:18 -0400</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/venues/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/venue/</guid>
       <description>&lt;p&gt;The conference will be held at two venues in beautiful Montréal Québec. On Tuesday, Thursday and Friday events will take place at the Schulich School of Music at McGill University and on Wednesday the conference will spend the day across town at the Faculty of Music at the Université de Montréal.&lt;/p&gt;
 &lt;br&gt;
 &lt;h2 id=&#34;mcgill-university&#34;&gt;McGill University&lt;/h2&gt;
@@ -1650,10 +1650,10 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
 &lt;figure  id=&#34;figure-schulich-school-of-music-mcgill-university&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;view of university buildings lit up at night.&#34; srcset=&#34;
-               /media/schulich_hu192706be73d09396608b12919cdd9ac0_908617_dd6f4ea83a0b3aa11c30b428593ee173.jpg 400w,
-               /media/schulich_hu192706be73d09396608b12919cdd9ac0_908617_2800782533552c29f7d31e5ef6c454bc.jpg 760w,
-               /media/schulich_hu192706be73d09396608b12919cdd9ac0_908617_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://lesondufutur.cirmmt.org/media/schulich_hu192706be73d09396608b12919cdd9ac0_908617_dd6f4ea83a0b3aa11c30b428593ee173.jpg&#34;
+               /timbre2023/media/schulich_hu192706be73d09396608b12919cdd9ac0_908617_dd6f4ea83a0b3aa11c30b428593ee173.jpg 400w,
+               /timbre2023/media/schulich_hu192706be73d09396608b12919cdd9ac0_908617_2800782533552c29f7d31e5ef6c454bc.jpg 760w,
+               /timbre2023/media/schulich_hu192706be73d09396608b12919cdd9ac0_908617_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/media/schulich_hu192706be73d09396608b12919cdd9ac0_908617_dd6f4ea83a0b3aa11c30b428593ee173.jpg&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1713,10 +1713,10 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
 &lt;figure  id=&#34;figure-salle-claude-champagne-faculty-of-music-université-de-montréal&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;view of university building.&#34; srcset=&#34;
-               /media/udem_musique_hu8a3512209385a1144becdfcaa22e163c_99717_e5fb3026f7a0d2efe923385d43c6a6f5.jpg 400w,
-               /media/udem_musique_hu8a3512209385a1144becdfcaa22e163c_99717_9b3e5750bcb96eb259cd29070470dc9f.jpg 760w,
-               /media/udem_musique_hu8a3512209385a1144becdfcaa22e163c_99717_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://lesondufutur.cirmmt.org/media/udem_musique_hu8a3512209385a1144becdfcaa22e163c_99717_e5fb3026f7a0d2efe923385d43c6a6f5.jpg&#34;
+               /timbre2023/media/udem_musique_hu8a3512209385a1144becdfcaa22e163c_99717_e5fb3026f7a0d2efe923385d43c6a6f5.jpg 400w,
+               /timbre2023/media/udem_musique_hu8a3512209385a1144becdfcaa22e163c_99717_9b3e5750bcb96eb259cd29070470dc9f.jpg 760w,
+               /timbre2023/media/udem_musique_hu8a3512209385a1144becdfcaa22e163c_99717_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/media/udem_musique_hu8a3512209385a1144becdfcaa22e163c_99717_e5fb3026f7a0d2efe923385d43c6a6f5.jpg&#34;
                width=&#34;710&#34;
                height=&#34;472&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1729,9 +1729,9 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
     
     <item>
       <title>Schedule</title>
-      <link>https://lesondufutur.cirmmt.org/schedule/</link>
+      <link>https://timbre-conference.github.io/timbre2023/schedule/</link>
       <pubDate>Thu, 05 May 2022 16:46:46 -0400</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/schedule/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/schedule/</guid>
       <description>&lt;div class=&#34;schedule-pg&#34;&gt;
 &lt;h2 id=&#34;tuesday-may-24-cobsccob---mcgill-university&#34;&gt;Tuesday May 24: COBS/CCOB - McGill University&lt;/h2&gt;
 &lt;br&gt;
@@ -1759,13 +1759,13 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;9:00-10:00&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/tue/cobs-session-1/&#34;&gt;COBS session 1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/tue/cobs-session-1/&#34;&gt;COBS session 1&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Tanna Hall&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;10:00-11:00&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/tue/cobs-session-2/&#34;&gt;COBS session 2&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/tue/cobs-session-2/&#34;&gt;COBS session 2&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Tanna Hall&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -1777,13 +1777,13 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;11:30-12:15&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/tue/cobs-session-3/&#34;&gt;COBS session 3&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/tue/cobs-session-3/&#34;&gt;COBS session 3&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Tanna Hall&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;12:15-13:00&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/tue/keynote-1/&#34;&gt;Keynote 1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/tue/keynote-1/&#34;&gt;Keynote 1&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Tanna Hall&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;P. A. Tremblay&lt;/td&gt;
 &lt;/tr&gt;
@@ -1795,19 +1795,19 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;14:30-15:30&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/tue/cobs-session-4/&#34;&gt;COBS session 4&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/tue/cobs-session-4/&#34;&gt;COBS session 4&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Tanna Hall&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;15:30-16:30&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/tue/cobs-session-5/&#34;&gt;COBS session 5&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/tue/cobs-session-5/&#34;&gt;COBS session 5&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Tanna Hall&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;16:30-17:30&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/tue/posters-1/&#34;&gt;Posters 1&lt;/a&gt; &amp;amp; &lt;em&gt;coffee break&lt;/em&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/tue/posters-1/&#34;&gt;Posters 1&lt;/a&gt; &amp;amp; &lt;em&gt;coffee break&lt;/em&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Wirth Lobby&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -1819,7 +1819,7 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;20:00-21:00&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/tue/concert-1/&#34;&gt;Concert 1&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/tue/concert-1/&#34;&gt;Concert 1&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;Tanna Hall&lt;/td&gt;
 &lt;td style=&#34;text-align:left&#34;&gt;improv@CIRMMT&lt;/td&gt;
 &lt;/tr&gt;
@@ -1858,13 +1858,13 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;9:00-10:15&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/wed/panel-1/&#34;&gt;Intro + Panel: RA1&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/wed/panel-1/&#34;&gt;Intro + Panel: RA1&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;em&gt;tbd&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;Buffoni/Dutoit&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;10:15-11:00&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/wed/keynote-2/&#34;&gt;Keynote 2&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/wed/keynote-2/&#34;&gt;Keynote 2&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;B421&lt;/td&gt;
 &lt;td&gt;A. Fleischer&lt;/td&gt;
 &lt;/tr&gt;
@@ -1876,7 +1876,7 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;11:30-12:30&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/wed/panel-2/&#34;&gt;Panel: RA2&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/wed/panel-2/&#34;&gt;Panel: RA2&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;em&gt;tbd&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;G. Boutard&lt;/td&gt;
 &lt;/tr&gt;
@@ -1888,25 +1888,25 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;14:00-14:45&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/wed/keynote-3/&#34;&gt;Keynote 3&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/wed/keynote-3/&#34;&gt;Keynote 3&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;B421&lt;/td&gt;
 &lt;td&gt;Choi/Bargar&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;14:45-16:15&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/wed/interactive-session-1/&#34;&gt;Interactive 1&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/wed/interactive-session-1/&#34;&gt;Interactive 1&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;em&gt;tbd&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;J. Berzowska&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/wed/interactive-session-2/&#34;&gt;Interactive 2&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/wed/interactive-session-2/&#34;&gt;Interactive 2&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;em&gt;tbd&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;M. Schutz&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/wed/interactive-session-3/&#34;&gt;Interactive 3&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/wed/interactive-session-3/&#34;&gt;Interactive 3&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;em&gt;tbd&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;C. Guastavino&lt;/td&gt;
 &lt;/tr&gt;
@@ -1918,19 +1918,19 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;16:45-17:30&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/wed/round-table-1/&#34;&gt;Round table 1&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/wed/round-table-1/&#34;&gt;Round table 1&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;B421&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;17:30-18:30&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/wed/workshop-1/&#34;&gt;Workshop 1&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/wed/workshop-1/&#34;&gt;Workshop 1&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;B-187 (Spat-GRIS)&lt;/td&gt;
 &lt;td&gt;Frisoli/Giannini&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/wed/interactive-session-4/&#34;&gt;Interactive 4 &lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/wed/interactive-session-4/&#34;&gt;Interactive 4 &lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;em&gt;tbd&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;Barnat/Traube/Léotar&lt;/td&gt;
 &lt;/tr&gt;
@@ -1942,7 +1942,7 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;20-21:30&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/wed/concert-2/&#34;&gt;Concert 2&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/wed/concert-2/&#34;&gt;Concert 2&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Claude Champagne&lt;/td&gt;
 &lt;td&gt;Nouvel Ensemble Moderne&lt;/td&gt;
 &lt;/tr&gt;
@@ -1987,25 +1987,25 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;9:00-10:00&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/thu/panel-3/&#34;&gt;Panel: RA3&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/thu/panel-3/&#34;&gt;Panel: RA3&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Tanna Hall&lt;/td&gt;
 &lt;td&gt;Schutz/Zimmerman&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;10:00-10:45&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/thu/keynote-4/&#34;&gt;Keynote 4&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/thu/keynote-4/&#34;&gt;Keynote 4&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Tanna Hall&lt;/td&gt;
 &lt;td&gt;S. Fels&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;10:45-11:45&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/thu/posters-2/&#34;&gt;Posters 2&lt;/a&gt; &amp;amp; &lt;em&gt;coffee break&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/thu/posters-2/&#34;&gt;Posters 2&lt;/a&gt; &amp;amp; &lt;em&gt;coffee break&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;Wirth Lobby&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;11:45-12:45&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/thu/panel-4/&#34;&gt;Panel: RA4&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/thu/panel-4/&#34;&gt;Panel: RA4&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Tanna Hall&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -2017,25 +2017,25 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;14:15-15:00&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/thu/keynote-5/&#34;&gt;Keynote 5&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/thu/keynote-5/&#34;&gt;Keynote 5&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Tanna Hall&lt;/td&gt;
 &lt;td&gt;L.X. Buffoni&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;15:00-16:30&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/thu/interactive-session-5/&#34;&gt;Interactive session 5&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/thu/interactive-session-5/&#34;&gt;Interactive session 5&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;C-201&lt;/td&gt;
 &lt;td&gt;A. Pras&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/thu/interactive-session-6/&#34;&gt;Interactive session 6&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/thu/interactive-session-6/&#34;&gt;Interactive session 6&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;C-204&lt;/td&gt;
 &lt;td&gt;S.Krishna&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/thu/interactive-session-7/&#34;&gt;Interactive session 7&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/thu/interactive-session-7/&#34;&gt;Interactive session 7&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;A-832&lt;/td&gt;
 &lt;td&gt;I. Cossette&lt;/td&gt;
 &lt;/tr&gt;
@@ -2047,7 +2047,7 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;17:00-17:45&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/thu/round-table-2/&#34;&gt;Round table 2&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/thu/round-table-2/&#34;&gt;Round table 2&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Tanna Hall&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -2059,7 +2059,7 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;19:30-21:00&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/thu/concert-3/&#34;&gt;Concert 3&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/thu/concert-3/&#34;&gt;Concert 3&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;MMR&lt;/td&gt;
 &lt;td&gt;Live@CIRMMT&lt;/td&gt;
 &lt;/tr&gt;
@@ -2092,19 +2092,19 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;9:00-10:30&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/fri/workshop-2/&#34;&gt;Workshop 2&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/fri/workshop-2/&#34;&gt;Workshop 2&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;MMR&lt;/td&gt;
 &lt;td&gt;P.A. Gauthier&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/fri/interactive-session-8/&#34;&gt;Interactive 8&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/fri/interactive-session-8/&#34;&gt;Interactive 8&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;C-201&lt;/td&gt;
 &lt;td&gt;A. Creech&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/fri/interactive-session-9/&#34;&gt;Interactive 9&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/fri/interactive-session-9/&#34;&gt;Interactive 9&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;C-204&lt;/td&gt;
 &lt;td&gt;F. Marin&lt;/td&gt;
 &lt;/tr&gt;
@@ -2116,13 +2116,13 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;11:00-12:30&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/fri/interactive-session-10/&#34;&gt;Interactive 10&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/fri/interactive-session-10/&#34;&gt;Interactive 10&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;C 201/Studio 22&lt;/td&gt;
 &lt;td&gt;D. Martin&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/fri/interactive-session-11/&#34;&gt;Interactive 11&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/fri/interactive-session-11/&#34;&gt;Interactive 11&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;C-204&lt;/td&gt;
 &lt;td&gt;A. Crespo&lt;/td&gt;
 &lt;/tr&gt;
@@ -2134,7 +2134,7 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;14:00-16:00&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://lesondufutur.cirmmt.org/session/fri/round-table-3/&#34;&gt;Round table 3 &amp;amp; Conclusion&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/session/fri/round-table-3/&#34;&gt;Round table 3 &amp;amp; Conclusion&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Tanna Hall&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -2145,9 +2145,9 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
     
     <item>
       <title>Transportation and Accommodation</title>
-      <link>https://lesondufutur.cirmmt.org/travel/</link>
+      <link>https://timbre-conference.github.io/timbre2023/travel/</link>
       <pubDate>Thu, 05 May 2022 16:45:50 -0400</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/travel/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/travel/</guid>
       <description>&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
   &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
@@ -2165,7 +2165,7 @@ La séance de travail sera consacrée à la captation du mouvement en situation 
 &lt;!-- ### Air  --&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-1&#34;&gt;
   &lt;summary&gt;Air&lt;/summary&gt;
-  &lt;p&gt;&lt;p&gt;Montréal is serviced by the &lt;a href=&#34;https://www.admtl.com/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Montréal-Trudeau International Airport&lt;/a&gt; located in Dorval, about 30 minutes from downtown.&lt;br&gt;
+  &lt;p&gt;&lt;p&gt;Montréal is serviced by the &lt;a href=&#34;https://www.admtl.com/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Montréal-Trudeau International Airport&lt;/a&gt; located in Dorval, about 30 minutes from downtown.
 There are several options for transportation between the airport and downtown:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;public taxi&lt;/li&gt;
@@ -2206,17 +2206,17 @@ There are several options for transportation between the airport and downtown:&l
 &lt;figure  id=&#34;figure-biki-city-bikes-are-a-great-way-to-get-around-montréal-in-the-summer&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Biki city bikes are a great way to get around Montréal in the summer.&#34; srcset=&#34;
-               /media/bixi_hu5e13e6c8cddd04b3cdc58a15064deb05_112815_813878cab765c74aa71dd93080d949d6.jpg 400w,
-               /media/bixi_hu5e13e6c8cddd04b3cdc58a15064deb05_112815_f9e90c7d9456371d89c7d109f2e810c1.jpg 760w,
-               /media/bixi_hu5e13e6c8cddd04b3cdc58a15064deb05_112815_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://lesondufutur.cirmmt.org/media/bixi_hu5e13e6c8cddd04b3cdc58a15064deb05_112815_813878cab765c74aa71dd93080d949d6.jpg&#34;
+               /timbre2023/media/bixi_hu5e13e6c8cddd04b3cdc58a15064deb05_112815_813878cab765c74aa71dd93080d949d6.jpg 400w,
+               /timbre2023/media/bixi_hu5e13e6c8cddd04b3cdc58a15064deb05_112815_f9e90c7d9456371d89c7d109f2e810c1.jpg 760w,
+               /timbre2023/media/bixi_hu5e13e6c8cddd04b3cdc58a15064deb05_112815_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/media/bixi_hu5e13e6c8cddd04b3cdc58a15064deb05_112815_813878cab765c74aa71dd93080d949d6.jpg&#34;
                width=&#34;760&#34;
                height=&#34;456&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Biki city bikes are a great way to get around Montréal in the summer.
     &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;p&gt;The conference will be held at two venues, McGill University and the Université de Montréal. Both are easily accessible by public transit. See the &lt;a href=&#34;https://lesondufutur.cirmmt.org/venues/&#34;&gt;venues&lt;/a&gt; page for more information.&lt;/p&gt;
+&lt;p&gt;The conference will be held at two venues, McGill University and the Université de Montréal. Both are easily accessible by public transit. See the &lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/venue/&#34;&gt;venues&lt;/a&gt; page for more information.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;accommodations&#34;&gt;Accommodations&lt;/h2&gt;
 
@@ -2238,10 +2238,10 @@ There are several options for transportation between the airport and downtown:&l
 &lt;figure  id=&#34;figure-hotel-10&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Hotel 10&#34; srcset=&#34;
-               /media/hotel10_hu5d968a7a27ad0d9d0d7e5f000e39b77a_330363_611e636e8cee9c95c3d8813d5c48a849.jpeg 400w,
-               /media/hotel10_hu5d968a7a27ad0d9d0d7e5f000e39b77a_330363_9ce4dd130b96c7793a2bc40a3242b36f.jpeg 760w,
-               /media/hotel10_hu5d968a7a27ad0d9d0d7e5f000e39b77a_330363_1200x1200_fit_q75_lanczos.jpeg 1200w&#34;
-               src=&#34;https://lesondufutur.cirmmt.org/media/hotel10_hu5d968a7a27ad0d9d0d7e5f000e39b77a_330363_611e636e8cee9c95c3d8813d5c48a849.jpeg&#34;
+               /timbre2023/media/hotel10_hu5d968a7a27ad0d9d0d7e5f000e39b77a_330363_611e636e8cee9c95c3d8813d5c48a849.jpeg 400w,
+               /timbre2023/media/hotel10_hu5d968a7a27ad0d9d0d7e5f000e39b77a_330363_9ce4dd130b96c7793a2bc40a3242b36f.jpeg 760w,
+               /timbre2023/media/hotel10_hu5d968a7a27ad0d9d0d7e5f000e39b77a_330363_1200x1200_fit_q75_lanczos.jpeg 1200w&#34;
+               src=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/media/hotel10_hu5d968a7a27ad0d9d0d7e5f000e39b77a_330363_611e636e8cee9c95c3d8813d5c48a849.jpeg&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2269,10 +2269,10 @@ There are several options for transportation between the airport and downtown:&l
 &lt;figure  id=&#34;figure-hotel-le-cantlie-suites&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Hotel Le Cantlie Suites&#34; srcset=&#34;
-               /media/cantlie_hu94efa0ba7c87220ffa1fbf41736dacb1_246508_738a6e417cc4758a4a784059eab2eb4b.jpg 400w,
-               /media/cantlie_hu94efa0ba7c87220ffa1fbf41736dacb1_246508_1b24f160c2e95787130c1de604eda4ac.jpg 760w,
-               /media/cantlie_hu94efa0ba7c87220ffa1fbf41736dacb1_246508_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://lesondufutur.cirmmt.org/media/cantlie_hu94efa0ba7c87220ffa1fbf41736dacb1_246508_738a6e417cc4758a4a784059eab2eb4b.jpg&#34;
+               /timbre2023/media/cantlie_hu94efa0ba7c87220ffa1fbf41736dacb1_246508_738a6e417cc4758a4a784059eab2eb4b.jpg 400w,
+               /timbre2023/media/cantlie_hu94efa0ba7c87220ffa1fbf41736dacb1_246508_1b24f160c2e95787130c1de604eda4ac.jpg 760w,
+               /timbre2023/media/cantlie_hu94efa0ba7c87220ffa1fbf41736dacb1_246508_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/media/cantlie_hu94efa0ba7c87220ffa1fbf41736dacb1_246508_738a6e417cc4758a4a784059eab2eb4b.jpg&#34;
                width=&#34;760&#34;
                height=&#34;543&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2286,33 +2286,33 @@ There are several options for transportation between the airport and downtown:&l
     
     <item>
       <title></title>
-      <link>https://lesondufutur.cirmmt.org/concerts/</link>
+      <link>https://timbre-conference.github.io/timbre2023/concerts/</link>
       <pubDate>Sun, 31 Jan 2021 14:31:00 -0500</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/concerts/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/concerts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sessions</title>
-      <link>https://lesondufutur.cirmmt.org/sessions-by-day/</link>
+      <link>https://timbre-conference.github.io/timbre2023/sessions-by-day/</link>
       <pubDate>Sun, 31 Jan 2021 14:31:00 -0500</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/sessions-by-day/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/sessions-by-day/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sessions</title>
-      <link>https://lesondufutur.cirmmt.org/sessions-by-type/</link>
+      <link>https://timbre-conference.github.io/timbre2023/sessions-by-type/</link>
       <pubDate>Sun, 31 Jan 2021 14:31:00 -0500</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/sessions-by-type/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/sessions-by-type/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
-      <link>https://lesondufutur.cirmmt.org/post/20-12-02-icml-best-paper/</link>
+      <link>https://timbre-conference.github.io/timbre2023/post/20-12-02-icml-best-paper/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/post/20-12-02-icml-best-paper/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/post/20-12-02-icml-best-paper/</guid>
       <description>&lt;p&gt;Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
 &lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
@@ -2321,9 +2321,9 @@ There are several options for transportation between the airport and downtown:&l
     
     <item>
       <title>Richard Hendricks Wins First Place in the Wowchemy Prize</title>
-      <link>https://lesondufutur.cirmmt.org/post/20-12-01-wowchemy-prize/</link>
+      <link>https://timbre-conference.github.io/timbre2023/post/20-12-01-wowchemy-prize/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/post/20-12-01-wowchemy-prize/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/post/20-12-01-wowchemy-prize/</guid>
       <description>&lt;p&gt;Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
 &lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
@@ -2332,33 +2332,33 @@ There are several options for transportation between the airport and downtown:&l
     
     <item>
       <title></title>
-      <link>https://lesondufutur.cirmmt.org/admin/config.yml</link>
+      <link>https://timbre-conference.github.io/timbre2023/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/admin/config.yml</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lesondufutur.cirmmt.org/contact/</link>
+      <link>https://timbre-conference.github.io/timbre2023/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/contact/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lesondufutur.cirmmt.org/keynotes/</link>
+      <link>https://timbre-conference.github.io/timbre2023/keynotes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/keynotes/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/keynotes/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lesondufutur.cirmmt.org/participants/</link>
+      <link>https://timbre-conference.github.io/timbre2023/participants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lesondufutur.cirmmt.org/participants/</guid>
+      <guid>https://timbre-conference.github.io/timbre2023/participants/</guid>
       <description></description>
     </item>
     

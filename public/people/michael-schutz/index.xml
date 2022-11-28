@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Michael Schutz | Le son du futur / Le futur du son</title>
-    <link>https://lesondufutur.cirmmt.org/people/michael-schutz/</link>
-      <atom:link href="https://lesondufutur.cirmmt.org/people/michael-schutz/index.xml" rel="self" type="application/rss+xml" />
+    <title>Michael Schutz | Timbre 2023</title>
+    <link>https://timbre-conference.github.io/timbre2023/people/michael-schutz/</link>
+      <atom:link href="https://timbre-conference.github.io/timbre2023/people/michael-schutz/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Schutz</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://lesondufutur.cirmmt.org/media/logo_hubfe263bb18063784559f8c0ea6819403_37478_300x300_fit_lanczos_3.png</url>
+      <url>https://timbre-conference.github.io/timbre2023/media/logo_hu2c056d5f9d880e5d1a003554a7fec83a_88573_300x300_fit_lanczos_3.png</url>
       <title>Michael Schutz</title>
-      <link>https://lesondufutur.cirmmt.org/people/michael-schutz/</link>
+      <link>https://timbre-conference.github.io/timbre2023/people/michael-schutz/</link>
     </image>
     
   </channel>
