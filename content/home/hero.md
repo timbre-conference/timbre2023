@@ -2,8 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: |
-  Timbre 2023
+title: Timbre 2023
 # hero_media: "stefany-andrade-GbSCAAsU2Fo-unsplash.jpg"
 hero_media: "iain-cridland-i_R5LrvExBU-unsplash.jpg"
 # hero_media: "maksym-kaharlytskyi-HppavctO8Us-unsplash.jpg"

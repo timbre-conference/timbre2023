@@ -9,8 +9,8 @@ main:
     url: "#about"
     weight: 10
 
-  - name: Submissions
-    identifier: "submissions"
+  - name: Authors
+    identifier: "authors"
     url: "#authors"
     weight: 20
 
