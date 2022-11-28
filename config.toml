@@ -1,4 +1,4 @@
-baseURL = 'http://timbreconference.org/timbre2023/'
+baseURL = "http://timbreconference.org/timbre2023/"
 languageCode = 'en-US'
 title = 'Timbre 2023'
 theme = 'minimal'
