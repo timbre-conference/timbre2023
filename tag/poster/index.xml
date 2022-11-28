@@ -1,98 +1,65 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Poster | Timbre 2023</title>
-    <link>https://timbre-conference.github.io/timbre2023/tag/poster/</link>
-      <atom:link href="https://timbre-conference.github.io/timbre2023/tag/poster/index.xml" rel="self" type="application/rss+xml" />
-    <description>Poster</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
-    <image>
-      <url>https://timbre-conference.github.io/timbre2023/media/logo_hu2c056d5f9d880e5d1a003554a7fec83a_88573_300x300_fit_lanczos_3.png</url>
-      <title>Poster</title>
-      <link>https://timbre-conference.github.io/timbre2023/tag/poster/</link>
-    </image>
-    
-    <item>
-      <title>Posters 1 / Coffee break</title>
-      <link>https://timbre-conference.github.io/timbre2023/session/tue/posters-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://timbre-conference.github.io/timbre2023/session/tue/posters-1/</guid>
-      <description>&lt;br&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Day:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Tuesday&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Time:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;16:30 - 17:30&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;McGill University&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Room:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Wirth Lobby&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Round one of poster presentations by emerging student researchers.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Poster | Timbre 2023</title><link>https://timbre-conference.github.io/timbre2023/tag/poster/</link><atom:link href="https://timbre-conference.github.io/timbre2023/tag/poster/index.xml" rel="self" type="application/rss+xml"/><description>Poster</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://timbre-conference.github.io/timbre2023/media/logo_hu2c056d5f9d880e5d1a003554a7fec83a_88573_300x300_fit_lanczos_3.png</url><title>Poster</title><link>https://timbre-conference.github.io/timbre2023/tag/poster/</link></image><item><title>Posters 1 / Coffee break</title><link>https://timbre-conference.github.io/timbre2023/session/tue/posters-1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://timbre-conference.github.io/timbre2023/session/tue/posters-1/</guid><description>&lt;br>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Day:&lt;/strong>&lt;/td>
+&lt;td>Tuesday&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Time:&lt;/strong>&lt;/td>
+&lt;td>16:30 - 17:30&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Location:&lt;/strong>&lt;/td>
+&lt;td>McGill University&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Room:&lt;/strong>&lt;/td>
+&lt;td>Wirth Lobby&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>Round one of poster presentations by emerging student researchers.&lt;/p>
 &lt;!--
 ## Presenters
-
 - coming soon
---&gt;</description>
-    </item>
-    
-    <item>
-      <title>Posters 2 / Coffee break</title>
-      <link>https://timbre-conference.github.io/timbre2023/session/thu/posters-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://timbre-conference.github.io/timbre2023/session/thu/posters-2/</guid>
-      <description>&lt;br&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Day:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Thursday&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Time:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;10:45 - 11:45&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;McGill University&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Room:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Wirth Lobby&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Round two of poster presentations by emerging student researchers.&lt;/p&gt;
+--></description></item><item><title>Posters 2 / Coffee break</title><link>https://timbre-conference.github.io/timbre2023/session/thu/posters-2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://timbre-conference.github.io/timbre2023/session/thu/posters-2/</guid><description>&lt;br>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Day:&lt;/strong>&lt;/td>
+&lt;td>Thursday&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Time:&lt;/strong>&lt;/td>
+&lt;td>10:45 - 11:45&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Location:&lt;/strong>&lt;/td>
+&lt;td>McGill University&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Room:&lt;/strong>&lt;/td>
+&lt;td>Wirth Lobby&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>Round two of poster presentations by emerging student researchers.&lt;/p>
 &lt;!--
 ## Presenters
-
 - coming soon
---&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+--></description></item></channel></rss>

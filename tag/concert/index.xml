@@ -1,160 +1,118 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Concert | Timbre 2023</title>
-    <link>https://timbre-conference.github.io/timbre2023/tag/concert/</link>
-      <atom:link href="https://timbre-conference.github.io/timbre2023/tag/concert/index.xml" rel="self" type="application/rss+xml" />
-    <description>Concert</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
-    <image>
-      <url>https://timbre-conference.github.io/timbre2023/media/logo_hu2c056d5f9d880e5d1a003554a7fec83a_88573_300x300_fit_lanczos_3.png</url>
-      <title>Concert</title>
-      <link>https://timbre-conference.github.io/timbre2023/tag/concert/</link>
-    </image>
-    
-    <item>
-      <title>Concert 1: improv@CIRMMT</title>
-      <link>https://timbre-conference.github.io/timbre2023/session/tue/concert-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://timbre-conference.github.io/timbre2023/session/tue/concert-1/</guid>
-      <description>&lt;br&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Day:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Tuesday&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Time:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;20:00 - 21:00&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;McGill University&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Room:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Tanna Schulich Hall&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;The first concert will be an improv@CIRMMT event, part of a long-running student-run series presenting improvised music and open-form compositions which engage with digital musical instruments, human-computer interaction, and other new musical technologies.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Concert | Timbre 2023</title><link>https://timbre-conference.github.io/timbre2023/tag/concert/</link><atom:link href="https://timbre-conference.github.io/timbre2023/tag/concert/index.xml" rel="self" type="application/rss+xml"/><description>Concert</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://timbre-conference.github.io/timbre2023/media/logo_hu2c056d5f9d880e5d1a003554a7fec83a_88573_300x300_fit_lanczos_3.png</url><title>Concert</title><link>https://timbre-conference.github.io/timbre2023/tag/concert/</link></image><item><title>Concert 1: improv@CIRMMT</title><link>https://timbre-conference.github.io/timbre2023/session/tue/concert-1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://timbre-conference.github.io/timbre2023/session/tue/concert-1/</guid><description>&lt;br>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Day:&lt;/strong>&lt;/td>
+&lt;td>Tuesday&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Time:&lt;/strong>&lt;/td>
+&lt;td>20:00 - 21:00&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Location:&lt;/strong>&lt;/td>
+&lt;td>McGill University&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Room:&lt;/strong>&lt;/td>
+&lt;td>Tanna Schulich Hall&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>The first concert will be an improv@CIRMMT event, part of a long-running student-run series presenting improvised music and open-form compositions which engage with digital musical instruments, human-computer interaction, and other new musical technologies.&lt;/p>
 &lt;!--
 ## Presenters
-
 - List presenters/etc.
---&gt;</description>
-    </item>
-    
-    <item>
-      <title>Concert 2: Tribute to Iannis Xenakis</title>
-      <link>https://timbre-conference.github.io/timbre2023/session/wed/concert-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://timbre-conference.github.io/timbre2023/session/wed/concert-2/</guid>
-      <description>&lt;br&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Day:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Wednesday&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Time:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;20:00 - 21:30&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Université de Montréal&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Room:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Salle Claude-Champagne&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;program&#34;&gt;Program&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/nouvel-ensemble-moderne/&#34;&gt;Nouvel Ensemble Moderne&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;&amp;ldquo;Anaktoria&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/ensemble-sixtrum/&#34;&gt;ensemble SIXTRUM&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;&amp;ldquo;PolytopeXXI&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;The second concert will be a tribute to Iannis Xenakis, combining a new instrument/installation, &lt;em&gt;PolytopeXXI&lt;/em&gt;, with a masterpiece of the XXth century repertoire, Xenakis’ Pleiades. &lt;em&gt;PolytopeXXI&lt;/em&gt; will feature a monumental new instrument: a sort of giant, electronically augmented, audio-luminescent harp, whose strings will be struck by the percussionists of the &lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/ensemble-sixtrum/&#34;&gt;ensemble SIXTRUM&lt;/a&gt; in a new work by &lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/myriam-boucher/&#34;&gt;Myriam Boucher&lt;/a&gt; and &lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/dominic-thibault/&#34;&gt;Dominic Thibault&lt;/a&gt;. The &lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/nouvel-ensemble-moderne/&#34;&gt;Nouvel Ensemble Moderne&lt;/a&gt; will also take part to the concert with the rarely performed &lt;em&gt;Anaktoria&lt;/em&gt;, by Iannis Xenakis.&lt;/p&gt;
-&lt;h2 id=&#34;about-polytope-xxi&#34;&gt;About &lt;strong&gt;Polytope XXI&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Polytope XXI is the name that composers &lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/myriam-boucher/&#34;&gt;Myriam Boucher&lt;/a&gt; and &lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/dominic-thibault/&#34;&gt;Dominic Thibault&lt;/a&gt; have given to their monumental instrumental project: a sort of giant, electronically augmented, audio-luminescent harp, whose strings will be struck by the percussionists of Sixtrum. The structure of the instrument will be equipped with various sensors that will capture and amplify vibrations, while controlling the integrated light and video system.&lt;/p&gt;
-&lt;p&gt;This project finds its inspiration in the first Polytope imagined by Iannis Xenakis, an ‘electronic sculpture combining light, music and structure’, that was presented inside the French Pavilion during Expo67 built in Montreal. It formed a gigantic web of cables suspended in the central space of the pavilion, each cable bearing a multitude of flashing lights that were synchronized with a musical tape – thus creating an artistic work inscribed in space and made of multiple layers of sound and light.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Concert 3: live@CIRMMT</title>
-      <link>https://timbre-conference.github.io/timbre2023/session/thu/concert-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://timbre-conference.github.io/timbre2023/session/thu/concert-3/</guid>
-      <description>&lt;br&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Day:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Thursday&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Time:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;19:30 - 21:00&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;McGill University&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Room:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;MMR&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;program&#34;&gt;Program&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;[Joshua Bucchi]({{ relref &amp;ldquo;/author/joshua-bucchi&amp;rdquo; }})&lt;/strong&gt; &lt;em&gt;&amp;ldquo;Shrubberies  of  semiconductors:  Les  lambeaux  de  mon  cœur&amp;rdquo;&lt;/em&gt; [premiere]
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Performers:&lt;/strong&gt; [Ensemble Aukio]({{ relref &amp;ldquo;/author/ensemble-aukio&amp;rdquo; }}): Anne Chabot-Bucchi (percussion), Justine Pelletier (piano), Joseph Fox (percussion), Felipe Verdugo (piano), Joshua Bucchi (electronics/diffusion)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;[Mélanie Frisoli]({{ relref &amp;ldquo;/author/melanie-frisoli&amp;rdquo; }})&lt;/strong&gt; &lt;em&gt;&amp;ldquo;Le bruit I - Spatialized acousmatic work&amp;rdquo;&lt;/em&gt; [premiere]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;[Jason Noble]({{ relref &amp;ldquo;/author/jason-noble&amp;rdquo; }})&lt;/strong&gt; &lt;em&gt;&amp;ldquo;Freeze - For augmented drum kit&amp;rdquo;&lt;/em&gt; [premiere]
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;performed by:&lt;/strong&gt; [Martin Daigle]({{ relref &amp;ldquo;/author/martin-daigle&amp;rdquo; }}) (percussion), [Edu Meneses]({{ relref &amp;ldquo;/author/edu-meneses&amp;rdquo; }}) (electronics &amp;amp; mapping)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Xue Han&lt;/strong&gt; &lt;em&gt;&amp;ldquo;en passant&amp;rdquo;&lt;/em&gt; [premiere]
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;performed by:&lt;/strong&gt; [Martin Daigle]({{ relref &amp;ldquo;/author/martin-daigle&amp;rdquo; }}) (percussion), &lt;a href=&#34;https://timbre-conference.github.io/timbre2023/timbre2023/people/seph-li/&#34;&gt;Seph Li&lt;/a&gt; (visual artist)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;more-information&#34;&gt;More information&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cirmmt.org/en/events/live-cirmmt/student-commissions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Official concert page&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+--></description></item><item><title>Concert 2: Tribute to Iannis Xenakis</title><link>https://timbre-conference.github.io/timbre2023/session/wed/concert-2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://timbre-conference.github.io/timbre2023/session/wed/concert-2/</guid><description>&lt;br>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Day:&lt;/strong>&lt;/td>
+&lt;td>Wednesday&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Time:&lt;/strong>&lt;/td>
+&lt;td>20:00 - 21:30&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Location:&lt;/strong>&lt;/td>
+&lt;td>Université de Montréal&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Room:&lt;/strong>&lt;/td>
+&lt;td>Salle Claude-Champagne&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="program">Program&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://timbre-conference.github.io/timbre2023/timbre2023/people/nouvel-ensemble-moderne/">Nouvel Ensemble Moderne&lt;/a>&lt;/strong> &lt;em>&amp;ldquo;Anaktoria&amp;rdquo;&lt;/em>&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://timbre-conference.github.io/timbre2023/timbre2023/people/ensemble-sixtrum/">ensemble SIXTRUM&lt;/a>&lt;/strong> &lt;em>&amp;ldquo;PolytopeXXI&amp;rdquo;&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="description">Description&lt;/h2>
+&lt;p>The second concert will be a tribute to Iannis Xenakis, combining a new instrument/installation, &lt;em>PolytopeXXI&lt;/em>, with a masterpiece of the XXth century repertoire, Xenakis’ Pleiades. &lt;em>PolytopeXXI&lt;/em> will feature a monumental new instrument: a sort of giant, electronically augmented, audio-luminescent harp, whose strings will be struck by the percussionists of the &lt;a href="https://timbre-conference.github.io/timbre2023/timbre2023/people/ensemble-sixtrum/">ensemble SIXTRUM&lt;/a> in a new work by &lt;a href="https://timbre-conference.github.io/timbre2023/timbre2023/people/myriam-boucher/">Myriam Boucher&lt;/a> and &lt;a href="https://timbre-conference.github.io/timbre2023/timbre2023/people/dominic-thibault/">Dominic Thibault&lt;/a>. The &lt;a href="https://timbre-conference.github.io/timbre2023/timbre2023/people/nouvel-ensemble-moderne/">Nouvel Ensemble Moderne&lt;/a> will also take part to the concert with the rarely performed &lt;em>Anaktoria&lt;/em>, by Iannis Xenakis.&lt;/p>
+&lt;h2 id="about-polytope-xxi">About &lt;strong>Polytope XXI&lt;/strong>&lt;/h2>
+&lt;p>Polytope XXI is the name that composers &lt;a href="https://timbre-conference.github.io/timbre2023/timbre2023/people/myriam-boucher/">Myriam Boucher&lt;/a> and &lt;a href="https://timbre-conference.github.io/timbre2023/timbre2023/people/dominic-thibault/">Dominic Thibault&lt;/a> have given to their monumental instrumental project: a sort of giant, electronically augmented, audio-luminescent harp, whose strings will be struck by the percussionists of Sixtrum. The structure of the instrument will be equipped with various sensors that will capture and amplify vibrations, while controlling the integrated light and video system.&lt;/p>
+&lt;p>This project finds its inspiration in the first Polytope imagined by Iannis Xenakis, an ‘electronic sculpture combining light, music and structure’, that was presented inside the French Pavilion during Expo67 built in Montreal. It formed a gigantic web of cables suspended in the central space of the pavilion, each cable bearing a multitude of flashing lights that were synchronized with a musical tape – thus creating an artistic work inscribed in space and made of multiple layers of sound and light.&lt;/p></description></item><item><title>Concert 3: live@CIRMMT</title><link>https://timbre-conference.github.io/timbre2023/session/thu/concert-3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://timbre-conference.github.io/timbre2023/session/thu/concert-3/</guid><description>&lt;br>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Day:&lt;/strong>&lt;/td>
+&lt;td>Thursday&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Time:&lt;/strong>&lt;/td>
+&lt;td>19:30 - 21:00&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Location:&lt;/strong>&lt;/td>
+&lt;td>McGill University&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Room:&lt;/strong>&lt;/td>
+&lt;td>MMR&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="program">Program&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>[Joshua Bucchi]({{ relref &amp;ldquo;/author/joshua-bucchi&amp;rdquo; }})&lt;/strong> &lt;em>&amp;ldquo;Shrubberies of semiconductors: Les lambeaux de mon cœur&amp;rdquo;&lt;/em> [premiere]
+&lt;ul>
+&lt;li>&lt;strong>Performers:&lt;/strong> [Ensemble Aukio]({{ relref &amp;ldquo;/author/ensemble-aukio&amp;rdquo; }}): Anne Chabot-Bucchi (percussion), Justine Pelletier (piano), Joseph Fox (percussion), Felipe Verdugo (piano), Joshua Bucchi (electronics/diffusion)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>[Mélanie Frisoli]({{ relref &amp;ldquo;/author/melanie-frisoli&amp;rdquo; }})&lt;/strong> &lt;em>&amp;ldquo;Le bruit I - Spatialized acousmatic work&amp;rdquo;&lt;/em> [premiere]&lt;/li>
+&lt;li>&lt;strong>[Jason Noble]({{ relref &amp;ldquo;/author/jason-noble&amp;rdquo; }})&lt;/strong> &lt;em>&amp;ldquo;Freeze - For augmented drum kit&amp;rdquo;&lt;/em> [premiere]
+&lt;ul>
+&lt;li>&lt;strong>performed by:&lt;/strong> [Martin Daigle]({{ relref &amp;ldquo;/author/martin-daigle&amp;rdquo; }}) (percussion), [Edu Meneses]({{ relref &amp;ldquo;/author/edu-meneses&amp;rdquo; }}) (electronics &amp;amp; mapping)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Xue Han&lt;/strong> &lt;em>&amp;ldquo;en passant&amp;rdquo;&lt;/em> [premiere]
+&lt;ul>
+&lt;li>&lt;strong>performed by:&lt;/strong> [Martin Daigle]({{ relref &amp;ldquo;/author/martin-daigle&amp;rdquo; }}) (percussion), &lt;a href="https://timbre-conference.github.io/timbre2023/timbre2023/people/seph-li/">Seph Li&lt;/a> (visual artist)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="more-information">More information&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.cirmmt.org/en/events/live-cirmmt/student-commissions" target="_blank" rel="noopener">Official concert page&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
