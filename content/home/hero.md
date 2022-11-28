@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Timbre 2023
+title: The 3rd International Conference on Timbre
 # hero_media: "stefany-andrade-GbSCAAsU2Fo-unsplash.jpg"
 hero_media: "iain-cridland-i_R5LrvExBU-unsplash.jpg"
 # hero_media: "maksym-kaharlytskyi-HppavctO8Us-unsplash.jpg"
@@ -35,13 +35,10 @@ advanced:
 #   css_class: fullscreen
 ---
 
-### Welcome to the 3rd edition of the [International Conference on Timbre](https://timbreconference.org/) 
+Welcome! Καλώς ορίσατε!
 
 
-### Date: July 10–12, 2023
-
-
-### Location: Thessaloniki, Greece
+### Date: July 10–12, 2023 <br> Location: Thessaloniki, Greece
 
 
 ### Hosted by the [School of Music Studies](https://www.mus.auth.gr/en/) and the [Sound and Music Technology Lab](https://smtl.mus.auth.gr/) at the Artistotle University of Thessaloniki
