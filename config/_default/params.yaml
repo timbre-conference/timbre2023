@@ -36,7 +36,7 @@ header:
     # Align menu links: left (l), center (c), or right (r)
     align: r
     # Display your site title or `assets/media/logo*` image in the nav bar?
-    show_logo: false
+    show_logo: true
     # Show a language chooser (if you have translated your site content)?
     # show_translations: true
     # If `show_translations` is enabled, do you wish to display the current language name?
