@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://timbre-conference.github.io/timbre2023/sitemap.xml
