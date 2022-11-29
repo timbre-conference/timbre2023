@@ -9,45 +9,87 @@ main:
     url: "#about"
     weight: 10
 
-  - name: Authors
-    identifier: "authors"
-    url: "#authors"
+  - name: Calls
+    identifier: "calls"
+    url: "calls/"
     weight: 20
+
+  - name: Call for Papers
+    parent: "calls"
+    url: "cfp/"
+    weight: 20
+
+  - name: Call for Sponsorships
+    parent: "calls"
+    url: "cfs/"
+    weight: 30
+
+  # - name: Authors
+  #   identifier: "authors"
+  #   url: "#authors"
+  #   weight: 30
 
   - name: Program
     identifier: "program"
-    url: "#program"
+    url: "program/"
     weight: 30
 
-  - name: Partners
-    identifier: "partners"
-    url: "#partners"
+  - name: Schedule
+    parent: "program"
+    url: "schedule/"
+    weight: 30
+    
+  - name: Keynote Speakers
+    parent: "program"
+    url: "keynotes/"
     weight: 40
-
-  - name: Venue
-    identifier: "venue"
-    url: "venue/"
+    
+  - name: Summer School
+    parent: "program"
+#     here we might add the summer school site instead
+    url: "#about"
     weight: 50
 
-  - name: Organization
-    identifier: "organization"
-    url: "organization/"
+  - name: Social Activities
+    parent: "program"
+    url: "social/"
+    weight: 60
+
+  - name: Attend
+    identifier: "attend"
+    url: "attend/"
     weight: 60
 
   - name: Registration
-    identifier: "registration"
-    url: "registration/"
+    parent: "attend"
+    url: registration
+    weight: 60
+
+  - name: Venue & Travel
+    parent: "attend"
+    url: venue
     weight: 70
 
-  - name: Contact
-    identifier: "contact"
-    url: "contact/"
+  - name: Sponsors
+    identifier: "sponsors"
+    url: "#sponsors"
+    weight: 70
+
+  - name: Organisers
+    identifier: "organisers"
+    url: "organisers/"
     weight: 80
 
-  - name: Summer School
-    identifier: "summer_school"
-    url: summer_school/
-    weight: 90
+
+  # - name: Contact
+  #   identifier: "contact"
+  #   url: "contact/"
+  #   weight: 80
+
+  # - name: Summer School
+  #   identifier: "summer_school"
+  #   url: summer_school/
+  #   weight: 90
 
   # - name: Activities
   #   url: activities/

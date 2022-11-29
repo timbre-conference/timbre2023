@@ -8,14 +8,14 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
+  font: native
   font_size: l
 
 # SEO
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: ResearchOrganization
     local_business_type: ""
     org_name: ""
     description: "The 3rd International Conference on Timbre, will be held in Thessaloniki, Greece, 10-12 July 2023."
@@ -34,17 +34,17 @@ header:
     # Display the navigation bar
     enable: true
     # Align menu links: left (l), center (c), or right (r)
-    align: c
+    align: r
     # Display your site title or `assets/media/logo*` image in the nav bar?
     show_logo: true
     # Show a language chooser (if you have translated your site content)?
     # show_translations: true
     # If `show_translations` is enabled, do you wish to display the current language name?
-    show_language: true
+    # show_language: true
     # Let the user override the default light/dark mode of your theme?
-    show_day_night: true
+    show_day_night: false
     # Let the user search from the nav bar?
-    show_search: true
+    show_search: false
     # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
     highlight_active_link: true
 
@@ -52,7 +52,7 @@ header:
 
 footer:
   copyright:
-    notice: '{year} <a href="https://www.mus.auth.gr/en/">School of Music Studies</a> and <a href="https://smtl.mus.auth.gr/">Sound and Music Technology Lab</a>.'
+    notice: '&copy; {year} [The International Conference on Timbre](https://timbreconference.org/). Built with [Hugo](https://gohugo.io/) and [Wowchemy](https://wowchemy.com/). Hosted by [GitHub Pages](https://pages.github.com/).'
     license:
       enable: false
       allow_derivatives: false
