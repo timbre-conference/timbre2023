@@ -12,7 +12,7 @@ role: Senior Research Scientist at Google
 
 # Organizations/Affiliations
 organizations:
-  - name: Google, San Francisco Bay area, USA
+  - name: Google, San Francisco Bay, USA
     url: "https://careers.google.com/"
 
 # Organizational groups that you belong to (for People widget)
@@ -27,6 +27,8 @@ Jesse Engel is a keynote speaker.
 
 # At the conference
 
+Coming soon!
+
 <!-- - [**Keynote 2:** *"Transfert de formes / Transfert de sens (Transfer of forms, transfer of meaning)"*]({{< relref "/session/wed/keynote-2.md">}}) -->
 
-[Keynote 2]({{< relref "/session/wed/keynote-2.md" >}})
+<!-- [Keynote 2]({{< relref "/session/wed/keynote-2.md" >}}) -->

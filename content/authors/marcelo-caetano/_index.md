@@ -10,15 +10,15 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: "Program Co-Chair"
+role: "Marie-Curie Fellow"
 
-bio: "Marie-Curie Fellow"
+bio: ""
 
 # Organizations/Affiliations
 organizations:
   - name: "CNRS-PRISM"
   - url: "https://www.prism.cnrs.fr/en/"
-  - name: "Schulich School of Music - McGill University"
+  - name: "McGill University"
   - url: "https://www.mcgill.ca/music/"
 interests: []
 user_groups:
@@ -29,4 +29,4 @@ user_groups:
 
 # About
 
-Marcelo Caetano received the Ph.D. degree in signal processing from Université Pierre et Marie Curie and Institut de Recherche et Coordination Acoustique/Musicque (IRCAM), France, under the supervision of Prof. Xavier Rodet in 2011. He worked as a postdoctoral fellow at the Signal Processing Laboratory of the Foundation for Research and Technology - Hellas (FORTH), Greece, and at the Sound and Music Computing group of INESC TEC, Portugal. In 2017, Dr. Caetano was a visiting researcher at the Application of Information and Communication Technologies (ATIC) research group of the University of Malaga, Spain. In 2019, Dr Caetano received funding from the European Union's Horizon 2020 research and innovation program under the Marie-Sklodowska Curie grant agreement No 831852 (MORPH). Currently, Dr. Caetano is a research fellow of the Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT) at McGill University, Canada, and of the laboratory Perception, Representations, Image, Sound, and Music (PRISM) of the Centre National de la Recherche Scientifique (CNRS), France. Dr. Caetano is interested in the connection between mechanisms of sound production and sound perception. His research focuses on analysis and synthesis for sound transformation, musical orchestration, and musical timbre. He has published over 40 peer-reviewed articles in international journals and conferences with more than 500 citations (h-index 12). He regularly reviews for the most prominent international conferences and journals in his field. His current collaborations include the University of Salamanca, the University of Porto, and CNMAT-UC Berkeley.
+**Marcelo Caetano** received the Ph.D. degree in signal processing from _Université Pierre et Marie Curie_ and _Institut de Recherche et Coordination Acoustique/Musique_ (IRCAM), France, under the supervision of **Prof. Xavier Rodet** in 2011. He worked as a postdoctoral fellow at the _Signal Processing Laboratory_ of the _Foundation for Research and Technology - Hellas_ (FORTH), Greece, and at the _Sound and Music Computing_ group of _INESC TEC_, Portugal. In 2017, Dr. Caetano was a visiting researcher at the _Application of Information and Communication Technologies_ (ATIC) research group of the _University of Malaga_, Spain. In 2019, **Dr. Caetano** received funding from the _European Union's Horizon 2020_ research and innovation program under the _**Marie-Sklodowska Curie**_ grant agreement **No 831852 (MORPH)**. Currently, **Dr. Caetano** is a research fellow of the _Centre for Interdisciplinary Research in Music Media and Technology_ (CIRMMT) at _McGill University_, Canada, and of the laboratory _Perception, Representations, Image, Sound, and Music_ (PRISM) of the _Centre National de la Recherche Scientifique_ (CNRS), France. **Dr. Caetano** is interested in the connection between mechanisms of sound production and sound perception. His research focuses on analysis and synthesis for sound transformation, musical orchestration, and musical timbre.

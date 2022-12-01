@@ -8,12 +8,12 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Assistant
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
   - name: Aristotle University of Thessaloniki, Greece
-    url: "https://www.lindseyreymore.com/aboutlindsey"
+    url: "https://asteriszacharakis.wixsite.com/science"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -23,10 +23,10 @@ user_groups:
 
 # About
 
-Dr. Lindsey Reymore is an Assistant Professor of Music Theory at Arizona State University. She is an active member (and previous postdoctoral fellow) of the [ACTOR Partnership](https://www.actorproject.org/) (Analysis, Creation, and Teaching of Orchestration), a global network of musicians and scientists working on projects related to musical timbre and orchestration. Lindsey’s research investigates the roles of timbre in musical experience, particularly with respect to meaning, cognition, and formal structure. She applies interdisciplinary methodologies, using approaches from behavioral psychology and data analytics in combination with musical analysis.
+**Asterios Zacharakis** am a post-doctoral researcher on music perception and cognition at the Cognitive and Computational Musicology Group (CCM) of the School of Music Studies at the Aristotle University of Thessaloniki. I am particularly interested in the semantic information conveyed by musical sounds and the way extra-musical meaning emerges from musical structures.
 
-# At the conference
+<!-- # At the conference -->
 
 <!-- - [**Keynote 2:** *"Transfert de formes / Transfert de sens (Transfer of forms, transfer of meaning)"*]({{< relref "/session/wed/keynote-2.md">}}) -->
 
-[Keynote 2]({{< relref "/session/wed/keynote-2.md" >}})
+<!-- [Keynote 2]({{< relref "/session/wed/keynote-2.md" >}}) -->

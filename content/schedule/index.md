@@ -27,7 +27,10 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-<div class="schedule-pg">
+
+Coming soon!
+
+<!-- <div class="schedule-pg">
 
 
 ## Tuesday May 24: COBS/CCOB - McGill University
@@ -62,7 +65,7 @@ projects: []
 |             |                   |                   |                         |
 | *8:30-9:00*   | *Welcome table*   | *Foyer*           |
 | 9:00-10:15  | [Intro + Panel: RA1]({{< relref "/session/wed/panel-1.md" >}}) | *tbd* | Buffoni/Dutoit |
-| 10:15-11:00 | [Keynote 2]({{< relref "/session/wed/keynote-2.md" >}}) | B421 | A. Fleischer | 
+| 10:15-11:00 | [Keynote 2]({{< relref "/session/wed/keynote-2.md" >}}) | B421 | A. Fleischer |
 | *11:00-11:30* | *Coffee break*    | *tbd* |
 | 11:30-12:30 | [Panel: RA2]({{< relref "/session/wed/panel-2.md" >}}) | *tbd* | G. Boutard |
 | 12:30-14:00 | *Lunch*           | *Foyer* |
@@ -75,7 +78,7 @@ projects: []
 | 17:30-18:30 | [Workshop 1]({{< relref "/session/wed/workshop-1.md" >}})        | B-187 (Spat-GRIS) | Frisoli/Giannini |
 |             | [Interactive 4 ]({{< relref "/session/wed/interactive-session-4.md" >}}) | *tbd* | Barnat/Traube/Léotar |
 | *18:30-20:00* | *Aperitif/dinner* | *Foyer* |
-| 20-21:30    | [Concert 2]({{< relref "/session/wed/concert-2.md" >}}) | Claude Champagne  | Nouvel Ensemble Moderne | 
+| 20-21:30    | [Concert 2]({{< relref "/session/wed/concert-2.md" >}}) | Claude Champagne  | Nouvel Ensemble Moderne |
 |             |                   |                   | SIXTRUM/Thibaut/Boucher |
 | | | | | |
 
@@ -92,7 +95,7 @@ projects: []
 | 9:00-10:00 | [Panel: RA3]({{< relref "/session/thu/panel-3.md" >}}) | Tanna Hall | Schutz/Zimmerman |
 | 10:00-10:45 | [Keynote 4]({{< relref "/session/thu/keynote-4.md" >}}) | Tanna Hall | S. Fels |
 | 10:45-11:45 | [Posters 2]({{< relref "/session/thu/posters-2.md" >}}) & *coffee break* | Wirth Lobby |   |
-| 11:45-12:45 | [Panel: RA4]({{< relref "/session/thu/panel-4.md" >}}) | Tanna Hall |   | 
+| 11:45-12:45 | [Panel: RA4]({{< relref "/session/thu/panel-4.md" >}}) | Tanna Hall |   |
 | *12:45-14:15* | *Lunch* | *Wirth Lobby* |   |
 | 14:15-15:00 | [Keynote 5]({{< relref "/session/thu/keynote-5.md" >}}) | Tanna Hall |  L.X. Buffoni |
 | 15:00-16:30 | [Interactive session 5]({{< relref "/session/thu/interactive-session-5.md" >}}) | C-201 | A. Pras |
@@ -122,4 +125,4 @@ projects: []
 | *12:30-14:00* | *Lunch* | *Lobby* |
 | 14:00-16:00 | [Round table 3 & Conclusion]({{< relref "/session/fri/round-table-3.md" >}}) | Tanna Hall |
 
-</div>
+</div> -->

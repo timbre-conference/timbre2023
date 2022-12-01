@@ -27,6 +27,8 @@ user_groups:
 
 # At the conference
 
+Coming soon!
+
 <!-- - [**Keynote 2:** *"Transfert de formes / Transfert de sens (Transfer of forms, transfer of meaning)"*]({{< relref "/session/wed/keynote-2.md">}}) -->
 
-[Keynote 2]({{< relref "/session/wed/keynote-2.md" >}})
+<!-- [Keynote 2]({{< relref "/session/wed/keynote-2.md" >}}) -->

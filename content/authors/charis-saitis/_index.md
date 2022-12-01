@@ -10,14 +10,14 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: "Lecturer"
+role: "Lecturer in Digital Music Processing"
 
 bio: "?"
 
 # Organizations/Affiliations
 organizations:
   - name: "Queen Mary University of London"
-  - url: "https://www.prism.cnrs.fr/en/"
+  - url: "http://eecs.qmul.ac.uk/people/profiles/saitischaralampos.html"
 interests: []
 user_groups:
   - Organizer
@@ -28,4 +28,4 @@ user_groups:
 
 # About
 
-Marcelo Caetano received the Ph.D. degree in signal processing from Université Pierre et Marie Curie and Institut de Recherche et Coordination Acoustique/Musicque (IRCAM), France, under the supervision of Prof. Xavier Rodet in 2011. He worked as a postdoctoral fellow at the Signal Processing Laboratory of the Foundation for Research and Technology - Hellas (FORTH), Greece, and at the Sound and Music Computing group of INESC TEC, Portugal. In 2017, Dr. Caetano was a visiting researcher at the Application of Information and Communication Technologies (ATIC) research group of the University of Malaga, Spain. In 2019, Dr Caetano received funding from the European Union's Horizon 2020 research and innovation program under the Marie-Sklodowska Curie grant agreement No 831852 (MORPH). Currently, Dr. Caetano is a research fellow of the Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT) at McGill University, Canada, and of the laboratory Perception, Representations, Image, Sound, and Music (PRISM) of the Centre National de la Recherche Scientifique (CNRS), France. Dr. Caetano is interested in the connection between mechanisms of sound production and sound perception. His research focuses on analysis and synthesis for sound transformation, musical orchestration, and musical timbre. He has published over 40 peer-reviewed articles in international journals and conferences with more than 500 citations (h-index 12). He regularly reviews for the most prominent international conferences and journals in his field. His current collaborations include the University of Salamanca, the University of Porto, and CNMAT-UC Berkeley.
+**Charalampos Saitis** is based at the Centre for Digital Music (C4DM), where he studies communication acoustics with a focus on timbre perception and “metaphors we listen with”, and their application to research and innovation in digital music. This involves using empirical and computational methods to understand different modalities of experience, interaction, and control between the digital music “user” (listeners, performers, producers) and sound as a multimodal semiotic system. His previous research has focused on verbal-data-driven analysis of cognitive representations of timbre and more recently on digital interactive cross-sensory games. Scholarly contributions include co-editing the scientific volumes *Timbre: Acoustics, Perception, & Cognition* (2019), the first dedicated to a comprehensive and authoritative presentation of the state of the art in research on this foundational aspect of hearing, and *Musical Haptics* (2018), an original interdisciplinary overview of the role of haptic feedback in musical practice and interaction. He is a founding member of the International Conference on Timbre.
