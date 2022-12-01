@@ -3,7 +3,7 @@
 title: "Alain Fleischer"
 
 authors:
-- "alain-fleischer"
+  - "alain-fleischer"
 
 superuser: false
 
@@ -12,14 +12,14 @@ role: Director
 
 # Organizations/Affiliations
 organizations:
-- name: Le Fresnoy, Studio National des Arts Contemporains, France
-  url: "https://www.lefresnoy.net/en/Le-Fresnoy/AlainFleischer"
+  - name: Le Fresnoy, Studio National des Arts Contemporains, France
+    url: "https://www.lefresnoy.net/en/Le-Fresnoy/AlainFleischer"
 #   url: "https://www.lefresnoy.net/fr/Le-Fresnoy/AlainFleischer" (french)
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Keynote speakers
+# user_groups:
+#   - Keynote speakers
 ---
 
 # About <!-- need English translation -->

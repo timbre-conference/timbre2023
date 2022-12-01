@@ -22,7 +22,7 @@ Artificial Intelligence driving the shape of new realities: what to expect from 
 
 ## Presenter
 
-- [Antonio Crespo]({{< relref "/authors/antonio-crespo" >}})
+<!-- - [Antonio Crespo]({{< relref "/authors/antonio-crespo" >}}) -->
 
 <!--
 ## Description

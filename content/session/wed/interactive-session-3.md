@@ -22,7 +22,7 @@ tags: ["Wednesday", "Interactive session"]
 
 ## Presenter
 
-- [Catherine Guastavino]({{< relref "/authors/catherine-guastavino">}})
+<!-- - [Catherine Guastavino]({{< relref "/authors/catherine-guastavino">}}) -->
 
 ## Description
 

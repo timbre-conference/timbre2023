@@ -5,25 +5,67 @@ active: true
 # This file represents a page section.
 headless: true
 # Order that this section appears on the page.
-weight: 50
+weight: 60
 
-title:
-subtitle:
+title: Partners & Sponsors
 
 design:
-  columns: "1"
+  columns: "2"
   background:
-    image: partner_logos_en.jpg
-    # image: partner_logos_fr.jpg
-    image_darken: 0
-    image_parallax: false
-    image_position: center
-    image_size: contain
-    gradient_start: "#4F60BF"
-    gradient_end: "#1F1F26"
-    # text_color_light: false
-  spacing:
-    # padding: ['20px', '0', '20px', '0']
-advanced:
-  css_class: fullscreen
+    gradient_start: "#1D2D3B"
+    gradient_end: "#52AAD8"
+    text_color_light: true
+# advanced:
+# css_class: fullscreen
 ---
+
+<!-- Timbre 2023 is sponsored by: -->
+
+## Partners
+
+<br><br>
+
+<!-- {{< figure src="logos/banner-horizontal-default-en.png" id="auth" >}} -->
+
+![](logos/banner-horizontal-default-en.png)
+
+<br>
+
+<!-- {{< figure src="logos/c4dm_logo.png" id="c4dm" >}} -->
+
+![](logos/c4dm_logo.png)
+
+<br>
+
+<!-- {{< figure src="logos/UOL_Logo_Blau.jpeg" id="uol" >}} -->
+
+<!-- {{< figure src="logos/UOL_Logo_Blau.png" id="uol" >}} -->
+
+<!-- ![](logos/UOL_Logo_Blau.png "University of Oldenburg") -->
+
+![](logos/UOL_Logo_Blau.png)
+
+<br>
+
+<!-- {{< figure src="logos/logo.png" id="timbre" >}} -->
+
+![](logos/logo.png)
+
+<!-- <br><br> -->
+
+<!-- {{< figure src="logos/logo.png" id="timbre" >}} -->
+
+<!-- ## Gold Sponsors
+
+- Sponsor 1
+- Sponsor 2
+
+## Silver Sponsors
+
+- Sponsor 3
+- Sponsor 4
+
+## Bronze Sponsors
+
+- Sponsor 5
+- Sponsor 6 -->

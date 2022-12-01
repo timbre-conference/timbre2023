@@ -15,8 +15,8 @@ design:
     # image_size: cover
     # image_position: center
     # image_parallax: true
-    gradient_start: "#4F60BF"
-    gradient_end: "#1F1F26"
+    gradient_start: "#1F1F26"
+    gradient_end: "#4F60BF"
 
     text_color_light: true
   spacing:
@@ -32,4 +32,4 @@ advanced:
 
 The scientific discourse on timbre has been gaining momentum since the mid 2010s from audio acoustics and music cognition to sound design and artificial intelligence. Following the [Berlin Interdisciplinary Workshop on Timbre](http://www.timbre2017.tu-berlin.de/) (2017), the international conference [Timbre is a Many-Splendored Thing](https://www.mcgill.ca/timbre2018/) (2018), and the [2nd International Conference on Timbre](https://timbre2020.mus.auth.gr/) (2020), the goal of Timbre 2023 is to continue a tradition of triennial meetings around timbre. Establishing a periodic gathering will help forge more solid bonds among the members of the emerging cross-disciplinary community.
 
-Here something about the structure of the scientific programme. And the summer school. 
+Here something about the structure of the scientific programme. And the summer school.

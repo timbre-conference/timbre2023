@@ -1,20 +1,18 @@
 ---
-
 title: "Interactive Session 7: Together towards a global and healthier education for musicians"
 summary: "Thursday | 15:00 - 16:30 | A-832 (McGill)"
 weight: 352
 tags: ["Thursday", "Interactive session"]
-
 ---
 
 <br>
 
-| | |
-| - | - |
-| **Day:** | Thursday |
-| **Time:** | 15:00 - 16:30 |
+|               |                   |
+| ------------- | ----------------- |
+| **Day:**      | Thursday          |
+| **Time:**     | 15:00 - 16:30     |
 | **Location:** | McGill University |
-| **Room:** | A-832 |
+| **Room:**     | A-832             |
 
 ## Title
 
@@ -22,7 +20,7 @@ tags: ["Thursday", "Interactive session"]
 
 ## Presenter
 
-- [Isabelle Cossette]({{< relref "/authors/isabelle-cossette" >}})
+<!-- - [Isabelle Cossette]({{< relref "/authors/isabelle-cossette" >}}) -->
 
 <!--
 ## Description

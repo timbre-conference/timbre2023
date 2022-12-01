@@ -1,24 +1,22 @@
 ---
-
 title: "Keynote 5:  Louis-Xavier Buffoni"
 summary: "Thursday | 14:15 - 15:00 | Tanna Hall (McGill)"
 weight: 340
 tags: ["Thursday", "Keynote"]
-
 ---
 
 <br>
 
-| | |
-| - | - |
-| **Day:** | Thursday |
-| **Time:** | 14:15 - 15:00 |
-| **Location:** | McGill University |
-| **Room:** | Tanna Schulich Hall |
+|               |                     |
+| ------------- | ------------------- |
+| **Day:**      | Thursday            |
+| **Time:**     | 14:15 - 15:00       |
+| **Location:** | McGill University   |
+| **Room:**     | Tanna Schulich Hall |
 
-## Speaker 
+## Speaker
 
-- [Louis-Xavier Buffoni]({{< relref "/authors/louis-xavier-buffoni" >}})
+<!-- - [Louis-Xavier Buffoni]({{< relref "/authors/louis-xavier-buffoni" >}}) -->
 
 ## Title
 

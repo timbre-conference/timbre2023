@@ -23,4 +23,4 @@ tags: ["Wednesday", "Oral presentation", "Panel"]
 
 ## Presenters
 
-- [Guillaume Boutard]({{< relref "/authors/guillaume-boutard" >}})
+<!-- - [Guillaume Boutard]({{< relref "/authors/guillaume-boutard" >}}) -->

@@ -1,21 +1,19 @@
 ---
-
 title: "Introduction & Panel: Research Axis 1"
 summary: "Wednesday | 09:00 - 10:15 | TBD (UdeM)"
 
 weight: 200
 tags: ["Wednesday", "Oral presentation", "Panel"]
-
 ---
 
 <br>
 
-| | |
-| - | - |
-| **Day:** | day |
-| **Time:** | 09:00 - 10:15 |
+|               |                        |
+| ------------- | ---------------------- |
+| **Day:**      | day                    |
+| **Time:**     | 09:00 - 10:15          |
 | **Location:** | Université de Montréal |
-| **Room:** | TBD |
+| **Room:**     | TBD                    |
 
 ## Overview
 
@@ -24,5 +22,5 @@ tags: ["Wednesday", "Oral presentation", "Panel"]
 
 ## Presenters
 
-- [Louis-Xavier Buffoni]({{< relref "/authors/louis-xavier-buffoni" >}})
-- [Thierry Dutoit]({{< relref "/authors/thierry-dutoit" >}})
+<!-- - [Louis-Xavier Buffoni]({{< relref "/authors/louis-xavier-buffoni" >}}) -->
+<!-- - [Thierry Dutoit]({{< relref "/authors/thierry-dutoit" >}}) -->

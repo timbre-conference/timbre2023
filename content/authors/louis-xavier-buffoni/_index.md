@@ -4,20 +4,20 @@ title: "Louis-Xavier Buffoni"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "louis-xavier-buffoni"
+  - "louis-xavier-buffoni"
 
 # Role/position
 role: Director of research and development
 
 # Organizations/Affiliations
 organizations:
-- name: Audiokinetic
-  url: ""
+  - name: Audiokinetic
+    url: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Keynote speakers
+# - Keynote speakers
 # - Presenters
 ---
 

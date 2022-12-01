@@ -1,20 +1,18 @@
 ---
-
 title: "Interactive Session 8: Creative Later-Life in a Digital Age"
 summary: "Friday | 9:00 - 10:30 | C-201 (McGill)"
 weight: 401
 tags: ["Friday", "Interactive session"]
-
 ---
 
 <br>
 
-| | |
-| - | - |
-| **Day:** | Friday |
-| **Time:** | 09:00 - 10:30 |
+|               |                   |
+| ------------- | ----------------- |
+| **Day:**      | Friday            |
+| **Time:**     | 09:00 - 10:30     |
 | **Location:** | McGill University |
-| **Room:** | C-201 |
+| **Room:**     | C-201             |
 
 ## Title
 
@@ -22,10 +20,10 @@ tags: ["Friday", "Interactive session"]
 
 ## Presenters
 
-- [Andrea Creech]({{< relref "/authors/amanda-creech" >}})
-- [Isabelle Cossette]({{< relref "/authors/isabelle-cossette" >}})
-- [Lee Willingham]({{ relref "/author/lee-willingham" }})
-- [Susan O'Neill]({{ relref "/author/susan-oneill" }})
+<!-- - [Andrea Creech]({{< relref "/authors/amanda-creech" >}}) -->
+<!-- - [Isabelle Cossette]({{< relref "/authors/isabelle-cossette" >}}) -->
+<!-- - [Lee Willingham]({{ relref "/author/lee-willingham" }}) -->
+<!-- - [Susan O'Neill]({{ relref "/author/susan-oneill" }}) -->
 
 ## Description
 

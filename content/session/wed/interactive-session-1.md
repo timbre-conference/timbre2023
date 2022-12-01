@@ -22,10 +22,10 @@ tags: ["Wednesday", "Interactive session"]
 
 ## Presenter
 
-- [Joanna Berzowska]({{< relref "/authors/joanna-berzowska" >}}) <!-- need people page -->
+<!-- - [Joanna Berzowska]({{< relref "/authors/joanna-berzowska" >}}) need people page -->
 
 <!--
 ## Description
 
-Incididunt proident dolore cupidatat nulla reprehenderit qui cillum. Amet incididunt fugiat amet quis deserunt quis laborum duis excepteur dolor velit. Anim incididunt eu aute velit proident. Nulla amet dolore culpa ad Lorem id cupidatat velit esse sint. 
+Incididunt proident dolore cupidatat nulla reprehenderit qui cillum. Amet incididunt fugiat amet quis deserunt quis laborum duis excepteur dolor velit. Anim incididunt eu aute velit proident. Nulla amet dolore culpa ad Lorem id cupidatat velit esse sint.
 -->

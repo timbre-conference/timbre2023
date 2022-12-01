@@ -1,7 +1,20 @@
 ---
+# Display name
 title: "Marcelo Caetano"
+
+# Username (this should match the folder name and the name on publications)
+authors:
+  - "marcelo-caetano"
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position (e.g., Professor of Artificial Intelligence)
 role: "Program Co-Chair"
+
 bio: "Marie-Curie Fellow"
+
+# Organizations/Affiliations
 organizations:
   - name: "CNRS-PRISM"
   - url: "https://www.prism.cnrs.fr/en/"
@@ -9,7 +22,9 @@ organizations:
   - url: "https://www.mcgill.ca/music/"
 interests: []
 user_groups:
-  - Organizers
+  - Website Chair
+  - Program Chair
+  - Organizer
 ---
 
 # About

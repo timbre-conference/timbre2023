@@ -4,15 +4,24 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+  - name: Home
+    identifier: "home"
+    url: "/"
+    weight: 10
+
   - name: About
     identifier: "about"
     url: "#about"
-    weight: 10
+    weight: 20
 
   - name: Calls
     identifier: "calls"
-    url: "calls/"
-    weight: 20
+    weight: 30
+
+  - name: Calls & Important Dates
+    parent: "calls"
+    url: "#calls"
+    weight: 10
 
   - name: Call for Papers
     parent: "calls"
@@ -24,36 +33,35 @@ main:
     url: "cfs/"
     weight: 30
 
-  # - name: Authors
-  #   identifier: "authors"
-  #   url: "#authors"
-  #   weight: 30
-
   - name: Program
     identifier: "program"
     url: "program/"
-    weight: 30
+    weight: 40
+
+  - name: Keynotes
+    parent: "program"
+    url: "#keynotes"
+    weight: 10
 
   - name: Schedule
     parent: "program"
     url: "schedule/"
-    weight: 30
-    
-  - name: Keynote Speakers
-    parent: "program"
-    url: "keynotes/"
-    weight: 40
-    
+    weight: 20
+
   - name: Summer School
     parent: "program"
-#     here we might add the summer school site instead
-    url: "#about"
-    weight: 50
+    #     here we might add the summer school site instead
+    url: "https://www.actorproject.org/timbre-and-orchestration-summer-school"
+    weight: 30
 
   - name: Social Activities
     parent: "program"
     url: "social/"
-    weight: 60
+    weight: 40
+
+  - name: Keynote Speakers
+    url: "keynote/"
+    weight: 50
 
   - name: Attend
     identifier: "attend"
@@ -63,55 +71,19 @@ main:
   - name: Registration
     parent: "attend"
     url: registration
-    weight: 60
+    weight: 10
 
   - name: Venue & Travel
     parent: "attend"
     url: venue
-    weight: 70
+    weight: 20
 
   - name: Sponsors
     identifier: "sponsors"
     url: "#sponsors"
     weight: 70
 
-  - name: Organisers
-    identifier: "organisers"
-    url: "organisers/"
+  - name: Organizers
+    identifier: "organizers"
+    url: "organizers/"
     weight: 80
-
-
-  # - name: Contact
-  #   identifier: "contact"
-  #   url: "contact/"
-  #   weight: 80
-
-  # - name: Summer School
-  #   identifier: "summer_school"
-  #   url: summer_school/
-  #   weight: 90
-
-  # - name: Activities
-  #   url: activities/
-  #   identifier: "activities"
-  #   weight: 100
-
-  # # # under Activities:
-  # - name: By day
-  #   parent: "activities"
-  #   url: sessions-by-day
-  #   weight: 10
-  # - name: By type
-  #   parent: "activities"
-  #   url: sessions-by-type
-  #   weight: 20
-  # - name: Schedule
-  #   url: schedule
-  #   # identifier: schedule
-  #   weight: 20
-  # - name: Participants
-  #   url: participants
-  #   weight: 30
-  # - name: Travel
-  #   url: travel
-  #   weight: 40

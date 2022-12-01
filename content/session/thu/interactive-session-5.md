@@ -22,7 +22,7 @@ tags: ["Thursday", "Interactive session"]
 
 ## Presenter
 
-- [Amandine Pras]({{< relref "/authors/amandine-pras" >}})
+<!-- - [Amandine Pras]({{< relref "/authors/amandine-pras" >}}) -->
 
 ## Description
 

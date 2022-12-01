@@ -16,7 +16,7 @@ design:
   columns: "1"
   background:
     # image: cirmmt-tanna.jpg
-    image: jim-kalligas-D5cxQ5ZvxkY-unsplash.jpg
+    image: venue/jim-kalligas-D5cxQ5ZvxkY-unsplash.jpg
     image_darken: 0
     image_parallax: false
     image_position: center

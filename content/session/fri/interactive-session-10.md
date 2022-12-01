@@ -1,20 +1,18 @@
 ---
-
 title: "Interactive Session 10: 3D Music Production"
 summary: "Friday | 11:00 - 12:30 | C-201/Studio 22 (McGill)"
 weight: 410
 tags: ["Friday", "Interactive session"]
-
 ---
 
 <br>
 
-| | |
-| - | - |
-| **Day:** | Friday |
-| **Time:** | 11:00 - 12:30 |
+|               |                   |
+| ------------- | ----------------- |
+| **Day:**      | Friday            |
+| **Time:**     | 11:00 - 12:30     |
 | **Location:** | McGill University |
-| **Room:** | C-201/Studio 22 |
+| **Room:**     | C-201/Studio 22   |
 
 ## Title
 
@@ -22,7 +20,7 @@ tags: ["Friday", "Interactive session"]
 
 ## Presenter
 
-- [Denis Martin]({{ relref "/author/denis-crespin" }})
+<!-- - [Denis Martin]({{ relref "/author/denis-crespin" }}) -->
 
 <!--
 ## Description
