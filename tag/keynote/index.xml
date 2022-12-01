@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Keynote | Timbre 2023</title><link>https://timbre-conference.github.io/timbre2023/tag/keynote/</link><atom:link href="https://timbre-conference.github.io/timbre2023/tag/keynote/index.xml" rel="self" type="application/rss+xml"/><description>Keynote</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://timbre-conference.github.io/timbre2023/media/icon_hu67b39a4833454f2bb9375ae2ac6a88aa_150294_512x512_fill_lanczos_center_3.png</url><title>Keynote</title><link>https://timbre-conference.github.io/timbre2023/tag/keynote/</link></image><item><title>Keynote 1: P. A. Tremblay</title><link>https://timbre-conference.github.io/timbre2023/session/tue/keynote-1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://timbre-conference.github.io/timbre2023/session/tue/keynote-1/</guid><description>&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Keynote | Timbre 2023</title><link>https://timbre-conference.github.io/timbre2023/tag/keynote/</link><atom:link href="https://timbre-conference.github.io/timbre2023/tag/keynote/index.xml" rel="self" type="application/rss+xml"/><description>Keynote</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://timbre-conference.github.io/timbre2023/media/icon_hu7323a42ed76de0e4f05a1335f0d314af_7405_512x512_fill_lanczos_center_3.png</url><title>Keynote</title><link>https://timbre-conference.github.io/timbre2023/tag/keynote/</link></image><item><title>Keynote 1: P. A. Tremblay</title><link>https://timbre-conference.github.io/timbre2023/session/tue/keynote-1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://timbre-conference.github.io/timbre2023/session/tue/keynote-1/</guid><description>&lt;br>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -26,9 +26,7 @@
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="speaker">Speaker&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://timbre-conference.github.io/timbre2023/timbre2023/people/pierre-alexandre-tremblay/">Pierre Alexandre Tremblay&lt;/a>&lt;/li>
-&lt;/ul>
+&lt;!-- - [Pierre Alexandre Tremblay](/timbre2023/people/pierre-alexandre-tremblay/) -->
 &lt;h2 id="title">Title&lt;/h2>
 &lt;ul>
 &lt;li>&amp;ldquo;Beyond cohabitation: towards a rich interdisciplinarity in music-technology research&amp;rdquo;&lt;/li>
@@ -63,9 +61,7 @@
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="speaker">Speaker&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://timbre-conference.github.io/timbre2023/timbre2023/people/alain-fleischer/">Alain Fleisher&lt;/a>&lt;/li>
-&lt;/ul>
+&lt;!-- - [Alain Fleisher](/timbre2023/people/alain-fleischer/) -->
 &lt;h2 id="title">Title&lt;/h2>
 &lt;ul>
 &lt;li>&amp;ldquo;Transfert de formes / Transfert de sens (Transfer of forms, transfer of meaning)&amp;rdquo; &lt;!-- need English translation -->&lt;/li>
@@ -103,10 +99,8 @@
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="speakers">Speakers&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://timbre-conference.github.io/timbre2023/timbre2023/people/insook-choi/">Insook Choi&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://timbre-conference.github.io/timbre2023/timbre2023/people/robin-bargar/">Robin Bargar&lt;/a>&lt;/li>
-&lt;/ul>
+&lt;!-- - [Insook Choi](/timbre2023/people/insook-choi/) -->
+&lt;!-- - [Robin Bargar](/timbre2023/people/robin-bargar/) -->
 &lt;h2 id="title">Title&lt;/h2>
 &lt;ul>
 &lt;li>&amp;ldquo;Where to Encode Musical Information&amp;rdquo;&lt;/li>
@@ -143,9 +137,7 @@
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="speaker">Speaker&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://timbre-conference.github.io/timbre2023/timbre2023/people/sidney-fels/">Sidney Fels&lt;/a>&lt;/li>
-&lt;/ul>
+&lt;!-- - [Sidney Fels](/timbre2023/people/sidney-fels/) -->
 &lt;h2 id="title">Title&lt;/h2>
 &lt;ul>
 &lt;li>&amp;ldquo;Breaking the Brain to Sound Barrier: Leveraging the Mind-Body Continuum for Musical Expression&amp;rdquo;&lt;/li>
@@ -179,9 +171,7 @@
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="speaker">Speaker&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://timbre-conference.github.io/timbre2023/timbre2023/people/louis-xavier-buffoni/">Louis-Xavier Buffoni&lt;/a>&lt;/li>
-&lt;/ul>
+&lt;!-- - [Louis-Xavier Buffoni](/timbre2023/people/louis-xavier-buffoni/) -->
 &lt;h2 id="title">Title&lt;/h2>
 &lt;ul>
 &lt;li>&amp;ldquo;The Future of Interactive Audio&amp;rdquo;&lt;/li>
