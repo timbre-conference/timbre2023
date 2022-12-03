@@ -18,6 +18,9 @@ content:
   user_groups:
     - Keynote speakers
 design:
+  background:
+    gradient_start: "#11539E"
+    gradient_end: "#52AAD8"
   show_interests: false
   show_role: false
   show_organizations: true

@@ -19,6 +19,11 @@ organizations:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - General Chair
+
+design:
+  background:
+    gradient_start: "#1F1F26"
+    gradient_end: "#4F60BF"
 ---
 
 # About

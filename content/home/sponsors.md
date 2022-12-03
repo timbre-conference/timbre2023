@@ -13,7 +13,7 @@ design:
   columns: "2"
   background:
     gradient_start: "#1D2D3B"
-    gradient_end: "#52AAD8"
+    gradient_end: "#455563"
     text_color_light: true
 # advanced:
 # css_class: fullscreen

@@ -18,7 +18,7 @@ main:
     identifier: "calls"
     weight: 30
 
-  - name: Calls & Important Dates
+  - name: Important Dates
     parent: "calls"
     url: "#calls"
     weight: 10

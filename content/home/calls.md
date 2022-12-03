@@ -4,7 +4,7 @@ weight: 30
 headless: true
 active: true
 
-title: "Calls & Important Dates"
+title: "Important Dates"
 # subtitle: "This is the subtitle"
 
 design:
@@ -25,33 +25,45 @@ design:
 # css_class: fullscreen
 ---
 
-## Call for Papers
+<!-- ## Call for Papers
 
 <!-- Cool call for papers with [link to call for papers](./cfp) -->
 
-Timbre 2023 is accepting submissions of original content.
+<!-- Timbre 2023 is accepting submissions of original content. -->
 
-<br>
+<!-- <br> -->
 
-{{< cta cta_text="See the call for papers" cta_link="cfp" cta_new_tab="false" >}}
+<!-- {{< cta cta_text="See the call for papers" cta_link="cfp" cta_new_tab="false" >}} -->
 
-## Call for Sponsorship
+<!-- ## Call for Sponsorship -->
 
 <!-- Enticing call for sponsorship with [link to call for sponsorship](./cfs) -->
 
-Timbre 2023 welcomes sponsorships.
+<!-- Timbre 2023 welcomes sponsorships. -->
 
-<br>
+<!-- <br> -->
 
-{{< cta cta_text="See the call for sponsorships" cta_link="cfs" cta_new_tab="false" >}}
+<!-- {{< cta cta_text="See the call for sponsorships" cta_link="cfs" cta_new_tab="false" >}} -->
 
-## Important Dates
+<!-- ## Important Dates -->
 
-Super important!
+<!-- Super important! -->
 
-- 10 December 2022: 1st Call for Papers
-- 10 January 2023: 2nd Call for Papers
-- 17 February 2023: Submission Deadline
-- 6 April 2023: Notification of Acceptance
-- 8 - 12 July 2023: Summer School
-- 10 - 12 July 2023: Conference
+<!-- - 10 December 2022: 1st Call for Papers -->
+<!-- - 10 January 2023: 2nd Call for Papers -->
+
+- Submission Deadline: 17 February 2023
+- Notification of Acceptance: 6 April 2023
+- Camera-ready: 20 April 2023
+- Early Registration: 13 April 2023
+- Late Registration: 10 June 2023
+- [Summer School](https://www.actorproject.org/timbre-and-orchestration-summer-school): 8 - 12 July 2023
+- Conference: 10 - 12 July 2023
+
+<!-- <br> -->
+
+<!-- {{< cta cta_text="See the call for papers" cta_link="cfp" cta_new_tab="false" >}} -->
+
+<!-- <br> -->
+
+<!-- {{< cta cta_text="See the call for sponsorships" cta_link="cfs" cta_new_tab="false" >}} -->
