@@ -1,12 +1,4 @@
-<!-- ---
-# Files in this folder represent a Widget Page (homepage)
-type: widget_page
-# Homepage is headless, other widget pages are not.
-# headless: true
 ---
- -->
- 
- ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Organisers"
@@ -42,9 +34,27 @@ projects: []
 
 ### Programme Chairs
 
-<b>Zachary Wallmark</b>, University of Oregon
+<b>Zachary Wallmark</b>, University of Oregon <br>
 <b>Marcelo Caetano</b>, CNRS-PRISM & McGill University
 
+### Summer School Chairs
 
+<b>Kit Soden</b>, Université de Montréal
+<b>Ben Duinker</b>, McGill University
+<b>Andres Gutierrez Martinez</b>, McGill University
+
+### Publicity Chairs
+
+<b>André Martins de Oliveira</b>, McGill University
+<b>Charalampos Saitis</b>, Queen Mary University of London
+
+### Sponsorship Chair
+
+<b>Charalampos Saitis</b>, Queen Mary University of London
+
+### Website Chairs
+
+<b>Kit Soden</b>, Université de Montréal (Summer School)
+<b>Marcelo Caetano</b>, CNRS-PRISM & McGill University (Conference)
 
 
