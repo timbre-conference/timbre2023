@@ -11,7 +11,7 @@ title: Partners & Sponsors
 
 design:
   columns: "2"
-  background:
+  background: "#FFFFFF"
 #     gradient_start: "#1D2D3B"
 #     gradient_end: "#455563"
 #     text_color_light: true
