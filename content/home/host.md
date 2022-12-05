@@ -1,36 +1,27 @@
 ---
-widget: hero
-headless: true # This file represents a page section.
+widget: blank
+# Activate this widget? true/false
+active: true
+# This file represents a page section.
+headless: true
+# Order that this section appears on the page.
+weight: 50
 
-# Put Your Section Options Here (title, background, etc.) ...
-title: Host
-weight: 50 # Position of section on the page
+title: Thessaloniki Θεσσαλονίκη
 
-# Hero image (optional). Enter filename of an image in the assets/media/ folder.
-hero_media: "venue/jim-makos-oUKFUnEtCd8-unsplash.jpg"
-
-# Call to action links (optional).
-#   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
-#   Remove a link/note by deleting a cta/note block.
-# cta:
-#   url: "https://wowchemy.com"
-#   label: Get Started
-#   icon_pack: fas
-#   icon: download
-cta:
-  url: "venue/"
-  label: See Venue & Travel Information
-
-# Note. An optional note to show underneath the links.
-cta_note:
-  label: ""
-
-# Choose an optional background color, gradient, image, or video
 design:
+  columns: "2"
   background:
-    gradient_start: "#52AAD8"
-    gradient_end: "#1D2D3B"
+    image: venue/aristotelous.jpeg
+    image_darken: 0.4
     text_color_light: true
+# advanced:
+# css_class: fullscreen
 ---
 
-The 3rd International Conference on Timbre will be hosted by the [School of Music Studies](https://www.mus.auth.gr/en/) and the [Sound and Music Technology Lab](https://smtl.mus.auth.gr/) at the Aristotle University of Thessaloniki. <br><br>
+Thessaloniki is the second largest city of Greece. It is renown for its Ancient Greek, Roman, and Byzantine monuments, charming shopping streets, beautiful seafront, a luscious local cuisine, and a bustling nightlife. Founded in 315 B.C. and named after the stepsister of Alexander the Great, the city has remained a crossroads of cultures and civilizations for over 2300 years. It is nowadays considered to be Greece's real cultural capital, acclaimed for its festivals and museums, including 15 UNESCO World Heritage Sites. 
+
+[See our Venue & Travel information](venue/) &ensp; &ensp; &ensp;
+<span style="font-size:0.5em;">Photo: https://thessaloniki.travel/</span>
+
+<!-- A brief presentation of Thessaloniki is given [here](https://thessaloniki.gr/thessaloniki-at-a-glance/?lang=en) and an official travel guide may be found [here](https://thessaloniki.travel/). -->
