@@ -4,24 +4,24 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    identifier: "home"
-    url: "/"
-    weight: 10
+#   - name: Home
+#     identifier: "home"
+#     url: "/"
+#     weight: 10
 
   - name: About
     identifier: "about"
-    url: "#about"
+    url: "/"
     weight: 20
 
   - name: Calls
     identifier: "calls"
     weight: 30
 
-  - name: Important Dates
-    parent: "calls"
-    url: "#calls"
-    weight: 10
+#   - name: Important Dates
+#     parent: "calls"
+#     url: "#calls"
+#     weight: 10
 
   - name: Call for Papers
     parent: "calls"
@@ -33,15 +33,19 @@ main:
     url: "cfs/"
     weight: 30
 
+  - name: Keynotes
+    url: "keynotes/"
+    weight: 40
+    
   - name: Program
     identifier: "program"
     url: "program/"
-    weight: 40
+    weight: 50
 
-  - name: Keynotes
-    parent: "program"
-    url: "#keynotes"
-    weight: 10
+#   - name: Keynotes
+#     parent: "program"
+#     url: "#keynotes"
+#     weight: 10
 
   - name: Schedule
     parent: "program"
@@ -50,7 +54,6 @@ main:
 
   - name: Summer School
     parent: "program"
-    #     here we might add the summer school site instead
     url: "https://www.actorproject.org/timbre-and-orchestration-summer-school"
     weight: 30
 
@@ -58,10 +61,6 @@ main:
     parent: "program"
     url: "social/"
     weight: 40
-
-  - name: Keynote Speakers
-    url: "keynote/"
-    weight: 50
 
   - name: Attend
     identifier: "attend"
