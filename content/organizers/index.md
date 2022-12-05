@@ -39,13 +39,13 @@ projects: []
 
 ### Summer School Chairs
 
-<b>Kit Soden</b>, Université de Montréal
-<b>Ben Duinker</b>, McGill University
+<b>Kit Soden</b>, Université de Montréal <br>
+<b>Ben Duinker</b>, McGill University <br>
 <b>Andres Gutierrez Martinez</b>, McGill University
 
 ### Publicity Chairs
 
-<b>André Martins de Oliveira</b>, McGill University
+<b>André Martins de Oliveira</b>, McGill University <br>
 <b>Charalampos Saitis</b>, Queen Mary University of London
 
 ### Sponsorship Chair
@@ -54,7 +54,17 @@ projects: []
 
 ### Website Chairs
 
-<b>Kit Soden</b>, Université de Montréal (Summer School)
+<b>Kit Soden</b>, Université de Montréal (Summer School) <br>
 <b>Marcelo Caetano</b>, CNRS-PRISM & McGill University (Conference)
+
+### Steering Committee 
+
+<b>Asterios Zacharakis</b>, Aristotle University of Thessaloniki <br>
+<b>Charalampos Saitis</b>, Queen Mary University of London (Chair) <br>
+<b>Kai Siedenburg</b>, University of Oldenburg <br>
+<b>Stephen McAdams</b>, McGill University
+
+
+
 
 
