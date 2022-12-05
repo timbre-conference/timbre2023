@@ -29,36 +29,36 @@ image:
 projects: []
 ---
 
-### General Chair
+### <span style="color:blue">General Chair</span>
 
 <b>Asterios Zacharakis</b>, Aristotle University of Thessaloniki
 
-### Programme Chairs
+### <span style="color:blue">Programme Chairs</span>
 
 <b>Zachary Wallmark</b>, University of Oregon <br>
 <b>Marcelo Caetano</b>, CNRS-PRISM & McGill University
 
-### Summer School Chairs
+### <span style="color:blue">Summer School Chairs</span>
 
 <b>Kit Soden</b>, Université de Montréal <br>
 <b>Ben Duinker</b>, McGill University <br>
 <b>Andres Gutierrez Martinez</b>, McGill University
 
-### Publicity Chairs
+### <span style="color:blue">Publicity Chairs</span>
 
 <b>André Martins de Oliveira</b>, McGill University <br>
 <b>Charalampos Saitis</b>, Queen Mary University of London
 
-### Sponsorship Chair
+### <span style="color:blue">Sponsorship Chair</span>
 
 <b>Charalampos Saitis</b>, Queen Mary University of London
 
-### Website Chairs
+### <span style="color:blue">Website Chairs</span>
 
 <b>Kit Soden</b>, Université de Montréal (Summer School) <br>
 <b>Marcelo Caetano</b>, CNRS-PRISM & McGill University (Conference)
 
-### Steering Committee 
+### <span style="color:blue">Steering Committee</span> 
 
 <b>Asterios Zacharakis</b>, Aristotle University of Thessaloniki <br>
 <b>Charalampos Saitis</b>, Queen Mary University of London (Chair) <br>
