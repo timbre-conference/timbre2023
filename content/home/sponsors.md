@@ -12,9 +12,9 @@ title: Partners & Sponsors
 design:
   columns: "2"
   background:
-<!--     gradient_start: "#1D2D3B" -->
-<!--     gradient_end: "#455563" -->
-<!--     text_color_light: true -->
+#     gradient_start: "#1D2D3B"
+#     gradient_end: "#455563"
+#     text_color_light: true
 # advanced:
 # css_class: fullscreen
 ---
@@ -23,18 +23,3 @@ design:
 | :-: | :-: | :-: |
 | ![logo](logos/ACTOR_logo_colour_fullname.png) | ![logo](logos/TELOGLIO_LOGO_EN-01-1024x432.png) | ![logo](logos/logo.png) |
 
-
-<!-- ## Gold Sponsors
-
-- Sponsor 1
-- Sponsor 2
-
-## Silver Sponsors
-
-- Sponsor 3
-- Sponsor 4
-
-## Bronze Sponsors
-
-- Sponsor 5
-- Sponsor 6 -->
