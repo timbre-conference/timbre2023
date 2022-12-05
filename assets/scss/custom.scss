@@ -21,3 +21,51 @@ td {
 .schedule-pg table {
     width: 100%;
 }
+
+.article-container {
+     max-width: 960px;
+}
+
+.boxed-gold {
+        // background: lightgrey;
+        color: black;
+        border: 3px solid;
+        border-color: #FFD700;
+        margin: 0px auto;
+        width: auto;
+        padding: 10px;
+        border-radius: 10px;
+}
+
+.boxed-silver {
+        // background: lightgrey;
+        color: black;
+        border: 3px solid;
+        border-color: #C0C0C0;
+        margin: 0px auto;
+        width: auto;
+        padding: 10px;
+        border-radius: 10px;
+}
+
+.boxed-bronze {
+        // background: lightgrey;
+        color: black;
+        border: 3px solid;
+        border-color: #CD7F32;
+        margin: 0px auto;
+        width: auto;
+        padding: 10px;
+        border-radius: 10px;
+}
+
+.boxed {
+        // background: lightgrey;
+        color: black;
+        border: 3px solid black;
+       // border-color: #C0C0C0;
+        margin: 0px auto;
+        width: auto;
+        padding: 10px;
+        border-radius: 10px;
+}
