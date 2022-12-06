@@ -19,9 +19,10 @@ design:
 # css_class: fullscreen
 ---
 
-Thessaloniki is the second largest city of Greece. It is renown for its Ancient Greek, Roman, and Byzantine monuments, charming shopping streets, beautiful seafront, a luscious local cuisine, and a bustling nightlife. Founded in 315 B.C. and named after the stepsister of Alexander the Great, the city has remained a crossroads of cultures and civilizations for over 2300 years. It is nowadays considered to be Greece's real cultural capital, acclaimed for its festivals and museums, including 15 UNESCO World Heritage Sites. 
+Thessaloniki is the second largest city of Greece and capital city of Central Macedonia’s administrative district. It is renown for its Ancient Greek, Roman, and Byzantine monuments, charming shopping streets, beautiful seafront, a luscious local cuisine, and a bustling nightlife. Founded in 315 B.C. and named after the stepsister of Alexander the Great, the city has remained a crossroads of cultures and civilizations for over 2,300 years. It is nowadays considered to be Greece's real cultural capital, acclaimed for its festivals, events, galleries, and museums, including 15 UNESCO World Heritage Sites. 
 
-[See our Venue & Travel information](venue/) &ensp; &ensp; &ensp;
-<span style="font-size:0.5em;">Photo: https://thessaloniki.travel/</span>
+An official travel guide may be found [here](https://www.thessaloniki.travel), including information about how to get to Thessaloniki and how to move around the city.
 
-<!-- A brief presentation of Thessaloniki is given [here](https://thessaloniki.gr/thessaloniki-at-a-glance/?lang=en) and an official travel guide may be found [here](https://thessaloniki.travel/). -->
+[See also Venue & Travel Information](venue/) 
+<!-- &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; -->
+<!-- <span style="font-size:0.5em;">Photo: https://thessaloniki.travel/</span> -->
