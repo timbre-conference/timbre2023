@@ -26,10 +26,14 @@ advanced:
   # css_class: fullscreen
 ---
 
-<!-- The 3rd International Conference on Timbre, will be held in Thessaloniki, Greece, 10–12 July 2023. It will be hosted by the School of Music Studies and the Sound and Music Technology Lab at the Artistotle University of Thessaloniki. -->
+Timbre poses multifaceted research questions at the crossroads of psychology, cognitive neuroscience, musicology, acoustics, and engineering.
+**Timbre 2023** establishes a tradition of [triennial gatherings around timbre](https://timbreconference.org/), providing a  truly interdisciplinary forum for exchanging novel perspectives and forging collaborations across the emerging cross-disciplinary community, to help address challenges in our understanding of timbre from empirical, theoretical, and computational perspectives. 
 
-<!-- Timbre 2023 will include the first ever Summer School on Timbre and Orchestration, an initiative of the [ACTOR Partnership](https://www.actorproject.org/). The summer school will take place 8–12 July 2023. -->
+Four Keynote Talks from distinguished experts will discuss timbre from four unexpected perspectives: 
+**Nina Sun Eidsheim** (University of California Los Angeles) on voice and timbre,
+**Makis Solomos** (University Paris 8) on timbre and listening, 
+**Charles Spence** (University of Oxford) on timbre and multimodality, and 
+**Jesse Engel** (Google Magenta) on artificial intelligence and timbre.
+More information is available [here](keynotes/).
 
-The scientific discourse on timbre has been gaining momentum since the mid 2010s from audio acoustics and music cognition to sound design and artificial intelligence. Following the [Berlin Interdisciplinary Workshop on Timbre](http://www.timbre2017.tu-berlin.de/) (2017), the international conference [Timbre is a Many-Splendored Thing](https://www.mcgill.ca/timbre2018/) (2018), and the [2nd International Conference on Timbre](https://timbre2020.mus.auth.gr/) (2020), the goal of Timbre 2023 is to continue a tradition of triennial meetings around timbre. Establishing a periodic gathering will help forge more solid bonds among the members of the emerging cross-disciplinary community.
-
-Here something about the structure of the scientific programme. And the summer school.
+The first ever [**Timbre and Orchestration Summer School**](https://www.actorproject.org/timbre-and-orchestration-summer-school) is held in conjunction with the conference. In foregrounding the interdisciplinarity of timbre and its application as an important parameter in orchestration, the Summer School engages with current scientific debates on analysis, composition, perception, semantics, voice, acoustics, and audio content. The Summer School runs 8–12 July 2023, with the first two days involving tutorial sessions and the final three being embedded in the conference program.
