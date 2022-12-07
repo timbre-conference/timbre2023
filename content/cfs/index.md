@@ -29,7 +29,8 @@ image:
 projects: []
 ---
 
-**</br>About Timbre 2023**
+### About Timbre 2023
+{style="color: #8E44AD "}
 
 The 3rd edition of the triennial International Conference on Timbre will be held in Thessaloniki, Greece, 10–12 July 2023. It will include the first ever [Timbre and Orchestration Summer School](https://www.actorproject.org/timbre-and-orchestration-summer-school), a synergy with the [ACTOR Partnership](https://www.actorproject.org/). Timbre 2023 offers a unique opportunity to engage with a growing body of scholars and researchers working across disciplines of music, cognitive science, acoustics, and computer science to study how the human brain processes, analyses, organises, and accesses timbral information of acoustic signals. 
 
@@ -37,7 +38,8 @@ The scope of the timbre community traditionally extends beyond academia across t
 
 
 
-**Sponsorship Opportunities**
+### Sponsorship Opportunities
+{style="color: #8E44AD "}
 
 We have three tiers of special registration fees for sponsors, but we can tailor packages to specific requirements. The three registration tiers are presented below. Each sponsorship tier includes registration for 1 person. Additional registrations may be purchased separately per person.
 
