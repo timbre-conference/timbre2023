@@ -52,13 +52,16 @@ design:
 <!-- - 10 December 2022: 1st Call for Papers -->
 <!-- - 10 January 2023: 2nd Call for Papers -->
 
-- **Submission Deadline**: 17 February 2023, 23:59 AoE
-- **Notification of Acceptance**: 31 March 2023
-- **Camera-ready**: 30 April 2023
-- **Early bird Registration**: 1 April - 14 May 2023
-- **Late Registration**: 15 May - 7 July 2023
-- **Onsite Registration**: 8 - 10 July 2023
-- [**Summer School**](https://www.actorproject.org/timbre-and-orchestration-summer-school): 8 - 12 July 2023
+- **Application Deadline (Summer School)**: 1 February 2023, 23:59 AoE
+- **Submission Deadline (Conference)**: 17 February 2023, 23:59 AoE
+- **Notification of Acceptance (Summer School)**: 1 March 2023
+- **Notification of Acceptance (Conference)**: 31 March 2023
+- **Camera-ready (Conference)**: 30 April 2023, 23:59 AoE
+- **Registration (Summer School accepted students only)**: 1 March - 30 April 2023
+- **Early bird Registration (Conference only)**: 1 April - 14 May 2023
+- **Late Registration (Conference only)**: 15 May - 7 July 2023
+- **Onsite Registration (Conference only)**: 8 - 10 July 2023
+- **Summer School**: 8 - 12 July 2023
 - **Conference**: 10 - 12 July 2023
 
 <!-- <br> -->
