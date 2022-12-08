@@ -18,9 +18,13 @@ advanced:
 #   css_class: fullscreen
 ---
 
-Welcome! Καλώς ορίσατε!
+<!-- Welcome! Καλώς ορίσατε! -->
 
-### Date: July 10–12, 2023
+<!-- ### Date: July 10–12, 2023 -->
+
+### 10–12 July 2023 &emsp;&emsp;  including the first ever
+# Timbre and Orchestration Summer School 
+### 8–12 July 2023 &emsp;&emsp; [a synergy with ACTOR](https://www.actorproject.org/timbre-and-orchestration-summer-school)
 
 ### Location: Thessaloniki, Greece
 
