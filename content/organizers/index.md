@@ -29,36 +29,37 @@ image:
 projects: []
 ---
 
-### <span style="color:blue">General Chair</span>
+### <span style="color:darkorange">General Chairs</span>
 
 <b>Asterios Zacharakis</b>, Aristotle University of Thessaloniki
+<b>Emilios Cambouropoulos</b>, Aristotle University of Thessaloniki
 
-### <span style="color:blue">Programme Chairs</span>
+### <span style="color:darkorange">Programme Chairs</span>
 
 <b>Zachary Wallmark</b>, University of Oregon <br>
 <b>Marcelo Caetano</b>, CNRS-PRISM & McGill University
 
-### <span style="color:blue">Summer School Chairs</span>
+### <span style="color:darkorange">Summer School Chairs</span>
 
 <b>Kit Soden</b>, Université de Montréal <br>
 <b>Ben Duinker</b>, McGill University <br>
 <b>Andres Gutierrez Martinez</b>, McGill University
 
-### <span style="color:blue">Publicity Chairs</span>
+### <span style="color:darkorange">Publicity Chairs</span>
 
 <b>André Martins de Oliveira</b>, McGill University <br>
 <b>Charalampos Saitis</b>, Queen Mary University of London
 
-### <span style="color:blue">Sponsorship Chair</span>
+### <span style="color:darkorange">Sponsorship Chair</span>
 
 <b>Charalampos Saitis</b>, Queen Mary University of London
 
-### <span style="color:blue">Website Chairs</span>
+### <span style="color:darkorange">Website Chairs</span>
 
 <b>Kit Soden</b>, Université de Montréal (Summer School) <br>
 <b>Marcelo Caetano</b>, CNRS-PRISM & McGill University (Conference)
 
-### <span style="color:blue">Steering Committee</span> 
+### <span style="color:darkorange">Steering Committee</span> 
 
 <b>Asterios Zacharakis</b>, Aristotle University of Thessaloniki <br>
 <b>Charalampos Saitis</b>, Queen Mary University of London (Chair) <br>
