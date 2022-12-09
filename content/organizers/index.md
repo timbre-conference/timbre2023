@@ -31,7 +31,7 @@ projects: []
 
 ### <span style="color:darkorange">General Chairs</span>
 
-<b>Asterios Zacharakis</b>, Aristotle University of Thessaloniki
+<b>Asterios Zacharakis</b>, Aristotle University of Thessaloniki <br>
 <b>Emilios Cambouropoulos</b>, Aristotle University of Thessaloniki
 
 ### <span style="color:darkorange">Programme Chairs</span>
