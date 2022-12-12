@@ -76,7 +76,7 @@ Timbre 2023 invites submissions in one of the following formats:
 
 - **Regular submissions for oral presentation or poster**: up to 2 pages (500-1000 words), can be expanded to 5 pages upon acceptance. Authors should indicate the mode of presentation that best fits their contribution. Final presentation mode will be based on author request, reviews, and program constraints.
 
-- **Sessions or tutorials**: up to 2 pages (500-1000 words). If accepted, authors must provide in addition a 250-word abstract to promote the session/ tutorial on the conference website. Sessions/ tutorials might include:
+- **Sessions or tutorials**: up to 2 pages (500-1000 words). If accepted, authors must provide in addition a 250-word abstract to promote the session/ tutorial on the conference website. Accepted proposals will be included in the proceedings. Sessions/ tutorials might include:
     - Pedagogy conversations
     - Professional development sessions
     - Lecture-demos for technological tools
