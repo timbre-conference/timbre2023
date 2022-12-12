@@ -71,11 +71,16 @@ main:
     parent: "attend"
     url: registration
     weight: 10
+    
+  - name: Location
+    parent: "attend"
+    url: "#host"
+    weight: 20
 
   - name: Venue & Travel
     parent: "attend"
     url: venue
-    weight: 20
+    weight: 30
 
   - name: Sponsors
     identifier: "sponsors"
