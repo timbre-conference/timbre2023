@@ -1313,7 +1313,7 @@ font-weight:normal;overflow:hidden;padding:10px 9px;word-break:normal;}
 &lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table>&lt;/div></description></item><item><title>Social Activities</title><link>https://timbre-conference.github.io/timbre2023/social/</link><pubDate>Thu, 05 May 2022 16:47:18 -0400</pubDate><guid>https://timbre-conference.github.io/timbre2023/social/</guid><description>&lt;p>Coming soon!&lt;/p></description></item><item><title>Venue &amp; Travel Information</title><link>https://timbre-conference.github.io/timbre2023/venue/</link><pubDate>Thu, 05 May 2022 16:47:18 -0400</pubDate><guid>https://timbre-conference.github.io/timbre2023/venue/</guid><description>&lt;h3 id="teloglion-foundation-of-arts">Teloglion Foundation of Arts&lt;/h3>
+&lt;/table>&lt;/div></description></item><item><title>Social Activities</title><link>https://timbre-conference.github.io/timbre2023/social/</link><pubDate>Thu, 05 May 2022 16:47:18 -0400</pubDate><guid>https://timbre-conference.github.io/timbre2023/social/</guid><description>&lt;p>Coming soon!&lt;/p></description></item><item><title>Venue &amp; Travel Information</title><link>https://timbre-conference.github.io/timbre2023/venue/</link><pubDate>Thu, 05 May 2022 16:47:18 -0400</pubDate><guid>https://timbre-conference.github.io/timbre2023/venue/</guid><description>&lt;h3 id="teloglion-foundation-of-arts" style="color: #8E44AD ">Teloglion Foundation of Arts&lt;/h3>
 &lt;p>The conference will take place at the &lt;a href="https://www.teloglion.gr/en" target="_blank" rel="noopener">Teloglion Foundation of Arts&lt;/a>. Teloglion occupies an impressive, modern, high specifications building with a panoramic view over the Thermaic Gulf and Olympus, set in a large green park at the northeast end of the campus of the Aristotle University of Thessaloniki (AUTh). Teloglion was founded in 1972, when the art collection and the entire property of Nestor and Aliki Telloglou were donated to AUTh. Today Teloglion&amp;rsquo;s collection consists of more than 7000 works which tell the story of modern Greek art up to the present day. Part of the largest university in Greece, Teloglion links research, teaching, scholarship, the child, the worker, the third age and art and culture in their broadest sense.&lt;/p>
 &lt;table>
 &lt;thead>
@@ -1338,65 +1338,52 @@ font-weight:normal;overflow:hidden;padding:10px 9px;word-break:normal;}
 &lt;/tbody>
 &lt;/table>
 &lt;div class="gallery">
-&lt;a data-fancybox="gallery-teloglion2" href="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/teloglion2/Telloglio1.jpeg" >
-&lt;img src="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/teloglion2/Telloglio1_hu1943716efb193f3a70d0f555bec00346_92057_245x200_resize_q75_lanczos.jpeg" loading="lazy" alt="Telloglio1.jpeg" width="245" height="200">
+&lt;a data-fancybox="gallery-venue" href="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/venue/Telloglio1.jpeg" >
+&lt;img src="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/venue/Telloglio1_hu1943716efb193f3a70d0f555bec00346_92057_450x275_resize_q75_lanczos.jpeg" loading="lazy" alt="Telloglio1.jpeg" width="450" height="275">
 &lt;/a>
-&lt;a data-fancybox="gallery-teloglion2" href="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/teloglion2/teloglion14.jpeg" >
-&lt;img src="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/teloglion2/teloglion14_hud6878aaefc733b509585701e8928f3c8_111998_245x200_resize_q75_lanczos.jpeg" loading="lazy" alt="teloglion14.jpeg" width="245" height="200">
-&lt;/a>
-&lt;a data-fancybox="gallery-teloglion2" href="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/teloglion2/thessaloniki_umbrellas.jpeg" >
-&lt;img src="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/teloglion2/thessaloniki_umbrellas_huc9c9df5034674c9c61758c894e3d2658_419178_245x200_resize_q75_lanczos.jpeg" loading="lazy" alt="thessaloniki_umbrellas.jpeg" width="245" height="200">
+&lt;a data-fancybox="gallery-venue" href="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/venue/teloglion14.jpeg" >
+&lt;img src="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/venue/teloglion14_hud6878aaefc733b509585701e8928f3c8_111998_450x275_resize_q75_lanczos.jpeg" loading="lazy" alt="teloglion14.jpeg" width="450" height="275">
 &lt;/a>
 &lt;/div>
-&lt;!--
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="venue/teloglion12.jpeg" alt="Teloglion Foundation of Arts exterior" loading="lazy" data-zoomable width="550" />&lt;/div>
-&lt;/div>&lt;/figure> -->
-&lt;!--
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="venue/teloglion14.jpeg" alt="Teloglion Foundation of Arts interior" loading="lazy" data-zoomable width="450" />&lt;/div>
-&lt;/div>&lt;/figure> -->
-&lt;!--
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="venue/auth3.jpeg" alt="Aristotle University of Thessaloniki exterior" loading="lazy" data-zoomable width="550" />&lt;/div>
-&lt;/div>&lt;/figure> -->
-&lt;h3 id="about-the-host">About the Host&lt;/h3>
+&lt;h3 id="about-the-host" style="color: #8E44AD ">About the Host&lt;/h3>
 &lt;p>Founded in 1926, AUTh is the largest university in Greece. It is widely recognized as a vibrant center of learning which draws its inspiration from a long tradition of academic achievement. This can be supported, among other factors, by the fact that so much in science, as in the arts and religious studies, medicine and technology, it prides itself on its international role. The &lt;a href="https://www.mus.auth.gr/en/" target="_blank" rel="noopener">School of Music Studies&lt;/a> was founded in 1984 as part of AUTh’s Faculty of Fine Arts. It is the first university music department which has operated in Greece and in general it is the first tertiary music studies institution in the history of modern Greece. The School of Music Studies features the &lt;a href="https://smtl.mus.auth.gr/" target="_blank" rel="noopener">Sound &amp;amp; Music Technology Lab&lt;/a> which perfoms interdisciplinary research in the areas of psychoacoustics, music cognition and computational creativity.&lt;/p>
-&lt;div class="gallery">
-&lt;a data-fancybox="gallery-auth" href="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/auth/auth2.jpeg" >
-&lt;img src="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/auth/auth2_hu6110ae77c3d14c5d781c9e15fb99f57b_159772_245x200_resize_q75_lanczos.jpeg" loading="lazy" alt="auth2.jpeg" width="245" height="200">
-&lt;/a>
-&lt;a data-fancybox="gallery-auth" href="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/auth/auth5.jpeg" >
-&lt;img src="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/auth/auth5_hu756ae419dca872ecfcac293f58082c63_82733_245x200_resize_q75_lanczos.jpeg" loading="lazy" alt="auth5.jpeg" width="245" height="200">
-&lt;/a>
-&lt;a data-fancybox="gallery-auth" href="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/auth/tower.jpeg" >
-&lt;img src="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/auth/tower_hu9a7609e0a3fb5045358455d9174d5a0f_181399_245x200_resize_q75_lanczos.jpeg" loading="lazy" alt="tower.jpeg" width="245" height="200">
-&lt;/a>
-&lt;/div>
-&lt;h3 id="how-to-travel-to-and-from-thessaloniki">How to travel to and from Thessaloniki&lt;/h3>
-&lt;p>Thessaloniki is located on the Thermaic Gulf, at the northwest corner of the Aegean Sea. It is a major transportation hub for Greece and southeastern Europe.&lt;/p>
-&lt;!-- Thessaloniki and also its peripheral area (Dion, Pella, Vergina) constitute points of special tourist interest, adorned by monuments from various historical periods (Ancient Greece, Roman Period, Byzantium). Chalkidiki and Pieria with their indescribable beauty and the turquoise beaches are incomparable tourist attractions. -->
+&lt;h3 id="how-to-travel-to-and-from-thessaloniki" style="color: #8E44AD ">How to travel to and from Thessaloniki&lt;/h3>
 &lt;p>The international &lt;a href="https://www.skg-airport.gr/en/" target="_blank" rel="noopener">Thessaloniki Airport &amp;lsquo;Makedonia&amp;rsquo; (SKG)&lt;/a> connects Thessaloniki with approximately 38 countries and more than 60 foreign cities, as well as 35 cities and islands in Greece. The airport is located just 16 km from Thessaloniki. &lt;a href="https://oasth.gr/" target="_blank" rel="noopener">Bus service&lt;/a> is provided between the Airport and the city of Thessaloniki, with connections to the Central Railway Station and the &amp;lsquo;KTEL Makedonia&amp;rsquo; Intercity Bus Station. The bus stop is located at the departures area, in front of entrance 3 of T1. Tickets can be purchased by the bus driver. ΤΑΧΙ service is available at the airport. TAXI stand is located at the arrivals area between T1 and T2 (between exit 3 and 4).&lt;/p>
 &lt;!-- something about Uber or Beat? -->
 &lt;p>The &lt;a href="https://www.hellenictrain.gr/en" target="_blank" rel="noopener">Central Railway Station&lt;/a> connects Thessaloniki with Athens (about 4 hours). Trains to the city of Larissa (90 minutes) serve several intermediate stops and provide access to the beautiful &amp;rsquo;turquoise&amp;rsquo; beaches of Pieria. There are also daily trains to the cities of Edessa (renown for its Waterfalls natural preserve) and Florina (from where one can visit the Great Prespa and Small Prespa lakes, a beautiful pristine area shared by three countries).&lt;/p>
 &lt;p>The &lt;a href="https://ktelmacedonia.gr/en/home/" target="_blank" rel="noopener">&amp;lsquo;KTEL Makedonia&amp;rsquo; Intercity Bus Station&lt;/a> serves many domestic routes in Central Macedonia and the rest of Greece, as well as international destinations in Turkey, Bulgaria, North Macedonia, Albania, Germany, Hungary, Romania, Czechia, and Slobakia.&lt;/p>
 &lt;p>In the summer you can catch a ferry or a cruise ship from the Port of Thessaloniki to the Sporades islands (e.g., Skopelos), the Cyclades islands (e.g., Mykonos), islands in the northeastern Aegean Sea (e.g., Lesbos, Chios, Ikaria), and even Izmir (Turkey) and Athens.&lt;/p>
-&lt;h3 id="chalkidiki-and-mount-athos">Chalkidiki and Mount Athos&lt;/h3>
+&lt;h3 id="chalkidiki-and-mount-athos" style="color: #8E44AD ">Chalkidiki and Mount Athos&lt;/h3>
 &lt;p>South of Thessaloniki are the three peninsulas of Chalkidiki: Kassandra, Sithonia and Athos. Sandy beaches with crystal clear waters in counterpoint with mountainous landscapes make Chalkidiki one of the most popular summer destinations for domestic and international tourists, especially for Thessaloniki residents (&amp;ldquo;σαν τη Χαλκιδική δεν έχει&amp;rdquo;). Buses to various places in Chalkidiki depart from the &lt;a href="https://ktel-chalkidikis.gr/en/index.html" target="_blank" rel="noopener">&amp;lsquo;KTEL Chalkidikis&amp;rsquo; Bus Station&lt;/a>, which is located in the outskirts of Thessaloniki and can be reached from the &amp;lsquo;KTEL Makedonia&amp;rsquo; station via the Bus line 45.&lt;/p>
 &lt;p>The Athos peninsula is home to the autonomous monastic community of Mount Athos, comprising 20 monasteries and around 2,000 Eastern Orthodox monks from Greece and elsewhere. Sadly, only males are permitted to enter. For foreign visitors, reservations need to be made six months in advance. Information can be found &lt;a href="https://www.agioritikiestia.gr/en/visit-mount-athos" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
-&lt;!-- Dion, Pella, Vergina, Mount Olympos -->
+&lt;h3 id="pella-vergina-dion-and-mount-olympus" style="color: #8E44AD ">Pella, Vergina, Dion and Mount Olympus&lt;/h3>
+&lt;p>West of Thessaloniki are the important archeological sites of Pella and Vergina. Pella was the capital of the ancient kingdom of Macedon (or Macedonia) and the birthplace of Alexander the Great and of his father, King Phillip II. Vergina is the site of ancient Aegae, the first capital of Macedon before the shift to Pella, and later the burial place for its kings. The archeological site is famous for the Royal Tombs, including the tomb of King Phillip II.&lt;/p>
+&lt;p>Southwest of Thessaloniki is Mount Olympus, Greece&amp;rsquo;s highest mountain. The mountain is designated a National Park and a World Biosphere Reserve due to its great biodiversity and rich flora. Organized mountain refuges and various hiking and climbing routes are available.&lt;/p>
+&lt;p>Located under Mount Olympus is the archeological site of Dion, an ancient city dedicated to gods and culture. It is known for the Sanctuary of Zeus and a mosaic showing a scene from the life of Dionysus.&lt;/p>
 &lt;div class="gallery">
-&lt;a data-fancybox="gallery-thess" href="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/thess/jim-makos-oUKFUnEtCd8-unsplash.jpg" >
-&lt;img src="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/thess/jim-makos-oUKFUnEtCd8-unsplash_hu91c650df103525428a039cbee71301c8_3177906_245x200_resize_q75_lanczos.jpg" loading="lazy" alt="jim-makos-oUKFUnEtCd8-unsplash.jpg" width="245" height="200">
+&lt;a data-fancybox="gallery-travel" href="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/travel/thess1.jpeg" >
+&lt;img src="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/travel/thess1_hu0a14a4b17fbedea6debf14fbcc9eef82_504834_450x275_resize_q75_lanczos.jpeg" loading="lazy" alt="thess1.jpeg" width="450" height="275">
 &lt;/a>
-&lt;a data-fancybox="gallery-thess" href="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/thess/nightnight.jpeg" >
-&lt;img src="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/thess/nightnight_hu8aeaedf6109852036e76df168a0e2b88_151321_245x200_resize_q75_lanczos.jpeg" loading="lazy" alt="nightnight.jpeg" width="245" height="200">
+&lt;a data-fancybox="gallery-travel" href="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/travel/thess2.jpeg" >
+&lt;img src="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/travel/thess2_hu8aeaedf6109852036e76df168a0e2b88_151321_450x275_resize_q75_lanczos.jpeg" loading="lazy" alt="thess2.jpeg" width="450" height="275">
 &lt;/a>
-&lt;a data-fancybox="gallery-thess" href="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/thess/vianney-cahen-uMiA5oKYQV8-unsplash.jpeg" >
-&lt;img src="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/thess/vianney-cahen-uMiA5oKYQV8-unsplash_hu0a14a4b17fbedea6debf14fbcc9eef82_504834_245x200_resize_q75_lanczos.jpeg" loading="lazy" alt="vianney-cahen-uMiA5oKYQV8-unsplash.jpeg" width="245" height="200">
+&lt;a data-fancybox="gallery-travel" href="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/travel/thess3.jpeg" >
+&lt;img src="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/travel/thess3_hu56950545ffd8a5f63abf249f855db28f_154208_450x275_resize_q75_lanczos.jpeg" loading="lazy" alt="thess3.jpeg" width="450" height="275">
+&lt;/a>
+&lt;a data-fancybox="gallery-travel" href="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/travel/thess4.jpeg" >
+&lt;img src="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/travel/thess4_hu3d8e66985d9d29905b9b8c292a2b4a98_284676_450x275_resize_q75_lanczos.jpeg" loading="lazy" alt="thess4.jpeg" width="450" height="275">
+&lt;/a>
+&lt;a data-fancybox="gallery-travel" href="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/travel/thess5.jpg" >
+&lt;img src="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/travel/thess5_hu91c650df103525428a039cbee71301c8_3177906_450x275_resize_q75_lanczos.jpg" loading="lazy" alt="thess5.jpg" width="450" height="275">
+&lt;/a>
+&lt;a data-fancybox="gallery-travel" href="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/travel/thess6.jpeg" >
+&lt;img src="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/travel/thess6_huf7b9fc22e89aac08b31124ef2ca4865d_1442430_450x275_resize_q75_lanczos.jpeg" loading="lazy" alt="thess6.jpeg" width="450" height="275">
+&lt;/a>
+&lt;a data-fancybox="gallery-travel" href="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/travel/thess7.jpeg" >
+&lt;img src="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/travel/thess7_hu9d1907b3b62699daf36454c6885faf3d_810182_450x275_resize_q75_lanczos.jpeg" loading="lazy" alt="thess7.jpeg" width="450" height="275">
+&lt;/a>
+&lt;a data-fancybox="gallery-travel" href="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/travel/thess8.jpeg" >
+&lt;img src="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/travel/thess8_hu914d480369d8e822a3b631de7141c8c4_4239473_450x275_resize_q75_lanczos.jpeg" loading="lazy" alt="thess8.jpeg" width="450" height="275">
 &lt;/a>
 &lt;/div></description></item><item><title>Schedule</title><link>https://timbre-conference.github.io/timbre2023/schedule/</link><pubDate>Thu, 05 May 2022 16:46:46 -0400</pubDate><guid>https://timbre-conference.github.io/timbre2023/schedule/</guid><description>&lt;p>Coming soon!&lt;/p>
 &lt;!-- &lt;div class="schedule-pg">
