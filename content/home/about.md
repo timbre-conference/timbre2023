@@ -4,7 +4,7 @@ weight: 20
 headless: true
 active: true
 
-title: "About the conference"
+title: "About the Conference"
 # subtitle: "This is the subtitle"
 
 design:
@@ -15,9 +15,8 @@ design:
     # image_size: cover
     # image_position: center
     # image_parallax: true
-    gradient_start: "#1F1F26"
-    gradient_end: "#4F60BF"
-
+    gradient_start: "peru"
+    gradient_end: "#8E44AD"
     text_color_light: true
   spacing:
     padding: ["100px", "20px", "100px", "20px"]
@@ -26,14 +25,8 @@ advanced:
   # css_class: fullscreen
 ---
 
-Timbre poses multifaceted research questions at the crossroads of psychology, cognitive neuroscience, musicology, acoustics, and engineering.
-**Timbre 2023** establishes a tradition of [triennial gatherings around timbre](https://timbreconference.org/), providing a  truly interdisciplinary forum for exchanging novel perspectives and forging collaborations across the emerging cross-disciplinary community, to help address challenges in our understanding of timbre from empirical, theoretical, and computational perspectives. 
+Timbre poses multifaceted research questions across the scientific spectrum, from hearing and music to psychology and neuroscience, to acoustics and artificial intelligence. The triennial [International Conference on Timbre](https://timbreconference.org/) brings together a cross-disciplinary community of scholars, researchers, and practitioners interested in timbre, and provides a joint forum for exchanging novel insights and forging collaborations across disciplines to help address challenges in our understanding of timbre from empirical, theoretical, and computational perspectives.
 
-Four Keynote Talks from distinguished experts will discuss timbre from four unexpected perspectives: 
-**Nina Sun Eidsheim** (University of California Los Angeles) on voice and timbre,
-**Makis Solomos** (University Paris 8) on timbre and listening, 
-**Charles Spence** (University of Oxford) on timbre and multimodality, and 
-**Jesse Engel** (Google Magenta) on artificial intelligence and timbre.
-More information is available [here](keynotes/).
+Timbre 2023 will feature a program of new research and work in progress, panel sessions and tutorials, headlined by [keynote talks](keynotes/) discussing timbre from 'unexpected' perspectives: **Nina Sun Eidsheim** (UCLA) on timbre and vibration, **Makis Solomos** (Paris 8) on timbre and listening, **Charles Spence** (Oxford) on timbre and crossmodality, and **Jesse Engel** (Google, likely remote) on timbre and artificial intelligence. In foregrounding the interdisciplinarity of timbre and its application as an important parameter in orchestration, the [**ACTOR Timbre and Orchestration Summer School**](https://www.actorproject.org/timbre-and-orchestration-summer-school) will engage with current perspectives on acoustics, analysis, composition, perception, semantics, and voice. 
 
-The first ever [**Timbre and Orchestration Summer School**](https://www.actorproject.org/timbre-and-orchestration-summer-school) is held in conjunction with the conference. In foregrounding the interdisciplinarity of timbre and its application as an important parameter in orchestration, the Summer School engages with current scientific debates on analysis, composition, perception, semantics, voice, acoustics, and audio content. The Summer School runs 8–12 July 2023, with the first two days involving tutorial sessions and the final three being embedded in the conference program.
+**Environmental Statement**: The steering committee of the International Conference on Timbre and the Timbre 2023 local chairs are committed to lessening the environmental impact of the conference. We pledge to offset/ compensate for at least a portion of the carbon footprint generated as a result of the conference's activity (e.g., air travel, physical infrastructure) by investing a possible surplus of the budget in initiatives such as [Eden Reforestation Projects](https://www.edenprojects.org/) or [Co2 Compensate](https://www.co2compensate.org/home), or other similar schemes.
