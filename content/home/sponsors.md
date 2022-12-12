@@ -10,16 +10,17 @@ weight: 60
 title: Partners & Sponsors
 
 design:
-  columns: "2"
+  columns: "1"
   background: 
-     gradient_start: "#FFFFFF"
-     gradient_end: "#FFFFFF"
+     gradient_start: "#FDF2E9"
+     gradient_end: "#F4ECF7"
      text_color_light: false
 # advanced:
 # css_class: fullscreen
 ---
 
-| ![logo](logos/banner-horizontal-default-en.png)| ![logo](logos/c4dm_qml-logo.png) | ![logo](logos/Uniol_kompakt_cmyk_2.png) |
-| :-: | :-: | :-: |
-| ![logo](logos/ACTOR_logo_colour_fullname.png) | ![logo](logos/TELOGLIO_LOGO_EN-01-1024x432.png) | ![logo](logos/logo.png) |
+|![logo](logos/logo1.png)|![logo](logos/logo-en.svg)|![telog](logos/logo5.png)|![actor](logos/logo4.png)| ![qmul](logos/qmul.png)|![uol](logos/logo3b.png)| 
+| :---: | :---: | :---: | :---: | :---: |:---: |
 
+|![c4dm](logos/c4dm.png) | | | | | |
+| :---: | :---: | :---: | :---: | :---: |:---: |
