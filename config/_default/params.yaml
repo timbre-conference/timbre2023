@@ -8,8 +8,8 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: rose
-  font_size: l
+  font: rose2
+  font_size: m
 
 # SEO
 
@@ -52,7 +52,7 @@ header:
 
 footer:
   copyright:
-    notice: '&copy; {year} [The International Conference on Timbre](https://timbreconference.org/). Built with [Hugo](https://gohugo.io/) and [Wowchemy](https://wowchemy.com/). Hosted by [GitHub Pages](https://pages.github.com/).'
+    notice: '&copy; {year} [The International Conference on Timbre](https://timbreconference.org/). Built with [Hugo](https://gohugo.io/) and [Wowchemy](https://wowchemy.com/). Based on a design by [Johnny Venom Media](https://www.johnnyvenom.com/). Hosted by [GitHub Pages](https://pages.github.com/).'
     license:
       enable: false
       allow_derivatives: false
