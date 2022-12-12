@@ -32,11 +32,14 @@ projects: []
 ### About Timbre 2023
 {style="color: #8E44AD "}
 
-The 3rd edition of the triennial International Conference on Timbre will be held in Thessaloniki, Greece, 10–12 July 2023. It will include the first ever [Timbre and Orchestration Summer School](https://www.actorproject.org/timbre-and-orchestration-summer-school), a synergy with the [ACTOR Partnership](https://www.actorproject.org/). Timbre 2023 offers a unique opportunity to engage with a growing body of scholars and researchers working across disciplines of music, cognitive science, acoustics, and computer science to study how the human brain processes, analyses, organises, and accesses timbral information of acoustic signals. 
+The 3rd edition of the triennial International Conference on Timbre will be held in Thessaloniki, Greece, 10–12 July 2023. It will include the first ever [Timbre and Orchestration Summer School](https://www.actorproject.org/timbre-and-orchestration-summer-school), a synergy with the [ACTOR Partnership](https://www.actorproject.org/). Timbre 2023 offers a unique opportunity to engage with a growing body of scholars, researchers, and practitioners working across disciplines of music, cognitive science, acoustics, and computer science to study how the human brain accesses, processes, analyses, and organises timbral information of acoustic signals. 
 
 The scope of the timbre community traditionally extends beyond academia across the music and creative industries due to strong applications of timbre in machine listening, audio engineering, sound design and synthesis, acoustical and digital instrument making, spatial/ 3D audio, and augmented/ virtual/ extended reality. Timbre 2023 is a perfect place to showcase your organisation’s latest research and products and follow state of the art and new breakthroughs in the scientific discourse on timbre. We expect around 120 participants attending physically.
 
+### Environmental Statement
+{style="color: #8E44AD "}
 
+The steering committee of the International Conference on Timbre and the Timbre 2023 local chairs are committed to lessening the environmental impact of the conference. We pledge to offset/ compensate for at least a portion of the carbon footprint generated as a result of the conference's activity (e.g., air travel, physical infrastructure) by investing a possible surplus of the budget in initiatives such as [Eden Reforestation Projects](https://www.edenprojects.org/) or [Co2 Compensate](https://www.co2compensate.org/home), or other similar schemes.
 
 ### Sponsorship Opportunities
 {style="color: #8E44AD "}
