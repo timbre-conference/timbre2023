@@ -50,3 +50,5 @@ design:
 [**How to apply**](https://www.actorproject.org/timbre-and-orchestration-summer-school#apply-now)
 </div>
 </div>
+
+</br> for general inquiries please contact aszachar@mus.auth.gr
