@@ -29,6 +29,8 @@ image:
 projects: []
 ---
 
+</br> for general inquiries please contact aszachar@mus.auth.gr
+
 ### Teloglion Foundation of Arts
 {style="color: #8E44AD "}
 
