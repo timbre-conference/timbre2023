@@ -29,6 +29,8 @@ image:
 projects: []
 ---
 
+</br> for general inquiries please contact aszachar@mus.auth.gr
+  
 ### <span style="color:#8E44AD;">General Chairs</span>
 
 <b>Asterios Zacharakis</b>, Aristotle University of Thessaloniki <br>
