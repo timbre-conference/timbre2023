@@ -22,5 +22,5 @@ design:
 |![logo](logos/logo1.png)|![logo](logos/logo-en.svg)|![telog](logos/logo5.png)|![actor](logos/logo4.png)| ![qmul](logos/qmul.png)|![uol](logos/logo3b.png)| 
 | :---: | :---: | :---: | :---: | :---: |:---: |
 
-|![c4dm](logos/c4dm.png) | | | | | |
+|![c4dm](logos/c4dm.png) | ![logo](logos/sshrc.png) | | | | |
 | :---: | :---: | :---: | :---: | :---: |:---: |
