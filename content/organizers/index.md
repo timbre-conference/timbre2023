@@ -31,21 +31,23 @@ projects: []
 
 </br> for general inquiries please contact aszachar@mus.auth.gr
   
-### <span style="color:#8E44AD;">General Chairs</span>
+### <span style="color:#8E44AD;">Local Organising Committee</span>
 
-<b>Asterios Zacharakis</b>, Aristotle University of Thessaloniki <br>
-<b>Emilios Cambouropoulos</b>, Aristotle University of Thessaloniki
+<b>Asterios Zacharakis</b>, Aristotle University of Thessaloniki (Conference Co-Chair) <br>
+<b>Emilios Cambouropoulos</b>, Aristotle University of Thessaloniki (Conference Co-Chair)<br>
+<b>Georgios Papadelis</b>, Aristotle University of Thessaloniki <br>
+<b>Konstantinos Pastiadis</b>, Aristotle University of Thessaloniki
 
 ### <span style="color:#8E44AD">Programme Chairs</span>
 
-<b>Zachary Wallmark</b>, University of Oregon <br>
-<b>Marcelo Caetano</b>, CNRS-PRISM & McGill University
+<b>Marcelo Caetano</b>, CNRS-PRISM & McGill University <br>
+<b>Zachary Wallmark</b>, University of Oregon
 
 ### <span style="color:#8E44AD">Summer School Chairs</span>
 
-<b>Kit Soden</b>, Université de Montréal <br>
+<b>Andres Gutierrez Martinez</b>, McGill University <br>
 <b>Ben Duinker</b>, McGill University <br>
-<b>Andres Gutierrez Martinez</b>, McGill University
+<b>Kit Soden</b>, Université de Montréal 
 
 ### <span style="color:#8E44AD">Publicity Chairs</span>
 
@@ -57,11 +59,6 @@ projects: []
 ### <span style="color:#8E44AD">Sponsorship Chair</span>
 
 <b>Charalampos Saitis</b>, Queen Mary University of London
-
-<!-- ### <span style="color:#8E44AD">Website Chairs</span> -->
-
-<!-- <b>Kit Soden</b>, Université de Montréal (Summer School) <br> -->
-
 
 ### <span style="color:#8E44AD">Steering Committee</span> 
 
