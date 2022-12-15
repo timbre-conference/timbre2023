@@ -36,7 +36,7 @@ design:
 **Full Registration**: 15 May - 7 July 2023 </br>
 **Onsite Registration**: 8 - 10 July 2023
 
-[**Call for Papers**](calls/cfp/)
+[**Call for Papers**](cfp/)
 </div>
   <div class="col-lg-6">
 
