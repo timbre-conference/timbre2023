@@ -47,7 +47,8 @@ projects: []
 
 <b>Andres Gutierrez Martinez</b>, McGill University <br>
 <b>Ben Duinker</b>, McGill University <br>
-<b>Kit Soden</b>, Université de Montréal 
+<b>Kit Soden</b>, Université de Montréal <br>
+<b>Stephen McAdams</b>, McGill University
 
 ### <span style="color:#8E44AD">Publicity Chairs</span>
 
