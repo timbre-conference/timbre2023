@@ -88,7 +88,7 @@ Timbre 2023 invites submissions in one of the following formats:
 - **Work-in-progress submissions**: a 250-word abstract plus a list of questions raised and/ or currently being addressed by the work. Accepted abstracts will be included in the proceedings.
   - We particularly encourage work-in-progress submissions from “newcomers” – masters or early-stage doctoral students without a supervisor who is part of the timbre community, especially from underrepresented groups.
 
-All submissions will be peer-reviewed by at least two members of the program committee. Accepted regular submissions can be updated to a 5-page paper that will be included in the conference proceedings. Submissions must conform to the [template](../../data/timbre2023_template.dotx).
+All submissions will be peer-reviewed by at least two members of the program committee. Accepted regular submissions can be updated to a 5-page paper that will be included in the conference proceedings. Submissions must conform to the [template](../../assets/media/doc/timbre2023_template.dotx).
 
 Please contact the <a href="mailto:caetano@prism.cnrs.fr,zwallmar@uoregon.edu">Programme Chairs</a> should you have any questions.
 
