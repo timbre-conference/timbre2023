@@ -36,7 +36,7 @@ resources:
     src: "**.docx"
 ---
 
-<br>Timbre 2023 seeks original, high-quality contributions in all areas related to timbre. They can be of the following nature: original research papers, including case studies; position papers; review papers; work-in-progress abstracts; session/ tutorial proposals.
+<br>Timbre 2023 seeks original, high-quality contributions in all areas related to timbre. They can be of the following nature: original research papers, including case studies; position papers; review papers; work-in-progress; session/ tutorial proposals.
 
 **The [submission portal](https://easychair.org/my/conference?conf=timbre2023) is now open.**
 
@@ -48,7 +48,7 @@ All deadlines are Anywhere on Earth (AoE) UTC -12.
 
 - **Submission Deadline**: 17 February 2023 </br>
 - **Notification of Acceptance**: 31 March 2023 </br>
-- **Camera-ready**: 30 April 2023
+- **Camera-ready (updated and/or extendend versions)**: 30 April 2023
 
 ### Potential Topics
 
@@ -85,17 +85,31 @@ Contributions are encouraged in, but not limited to, the following topics:
 
 Timbre 2023 invites submissions in one of the following formats:
 
-- **Regular submissions for oral presentation or poster**: up to 2 pages (500-1000 words), can be expanded to 5 pages upon acceptance. Authors should indicate the mode of presentation that best fits their contribution. Final presentation mode will be based on author request, reviews, and program constraints.
+- **Regular papers**
 
-- **Sessions or tutorials**: up to 2 pages (500-1000 words). If accepted, authors must provide in addition a 250-word abstract to promote the session/ tutorial on the conference website. Accepted proposals will be included in the proceedings. Sessions/ tutorials might include:
-  - Pedagogy conversations
-  - Professional development sessions
-  - Lecture-demos for technological tools
-  - Lecture-recitals (timbre in practice)
-- **Work-in-progress submissions**: a 250-word abstract plus a list of questions raised and/ or currently being addressed by the work. Accepted abstracts will be included in the proceedings.
-  - We particularly encourage work-in-progress submissions from “newcomers” – masters or early-stage doctoral students without a supervisor who is part of the timbre community, especially from underrepresented groups.
+  - _Submission_: Abstracts up to 2 pages (500-1000 words)
+  - _Contribution_: Original research, including case studies, position papers, and review papers
+  - _Presentation_: Oral presentation or poster. Authors should indicate upon submission the mode of presentation that best fits their contribution. Final presentation mode will be based on author request, reviews, and program constraints
+  - _Camera-ready_: Accepted regular submissions can be expanded to 5 pages. The updated/expanded version will be included in the conference proceedings
 
-All submissions will be peer-reviewed by at least two members of the program committee. Accepted regular submissions can be updated to a 5-page paper that will be included in the conference proceedings. Submissions must conform to the <a href="./doc/timbre2023_template.dotx" >template</a>.
+- **Sessions or tutorials**
+
+  - _Submission_: Abstracts up to 2 pages (500-1000 words)
+  - _Contribution_: We encourage a broad range of contributions. Sessions/tutorials might include:
+    - Pedagogy conversations
+    - Professional development sessions
+    - Lecture-demos for technological tools
+    - Lecture-recitals (timbre in practice)
+  - _Presentation_: Sessions/tutorials typically last 1-2 hours. Authors should indicate upon submission how long they plan their session/tutorial to last. Final duration of sessions/tutorials will depend on the program, trying to accommodate the requested duration and the program constraints
+  - _Camera-ready_: Accepted sessions/tutorials may be expanded to 5 pages. The updated/expanded version will be included in the conference proceedings. Additionally, authors of accepted sessions/tutorials must provide a 250-word abstract to promote their session/tutorial on the conference website
+
+- **Work-in-progress**
+  - _Submission_: A 250-word abstract plus a list of questions raised and/or currently being addressed by the work
+  - _Contribution_: Work-in-progress submissions are expected to contain thought-provoking ideas that can potentially incite discussion and stimulate cross-pollination between communities. We particularly encourage work-in-progress submissions from “newcomers” – masters or early-stage doctoral students without a supervisor who is part of the timbre community, especially from underrepresented groups
+  - _Presentation_: Work-in-progress submissions will be presented as posters in a dedicated session
+  - _Camera-ready_: Accepted work-in-progress abstracts can be updated but not be expanded beyond the 250-word limit (plus questions). The updated version will be included in the conference proceedings
+
+All submissions will be peer-reviewed by at least two members of the program committee. Submissions must conform to the <a href="./doc/timbre2023_template.dotx" >template</a>.
 
 Please contact the <a href="mailto:caetano@prism.cnrs.fr,zwallmar@uoregon.edu">Programme Chairs</a> should you have any questions.
 
