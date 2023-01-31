@@ -30,7 +30,7 @@ projects: []
 ---
 
 </br> for general inquiries please contact aszachar@mus.auth.gr
-  
+
 ### <span style="color:#8E44AD;">Local Organising Committee</span>
 
 <b>Asterios Zacharakis</b>, Aristotle University of Thessaloniki (Conference Co-Chair) <br>
@@ -61,7 +61,21 @@ projects: []
 
 <b>Charalampos Saitis</b>, Queen Mary University of London
 
-### <span style="color:#8E44AD">Steering Committee</span> 
+### <span style="color:#8E44AD">Evaluation Committee</span>
+
+<b>Jérémy Marozeau</b>, Technical University of Denmark (DTU) <br>
+<b>Roger Reynolds</b>, University of California - San Diego (UCSD) <br>
+<b>Cornelia Fales</b>, Indiana University (IU) <br>
+<b>Lindsey Reymore</b>, Arizona State University (ASU) <br>
+<b>Nina Eidsheim</b>, University of California - Los Angeles (UCLA) <br>
+<b>Zachary Wallmark</b>, University of Oregon (UO) <br>
+<b>Stephen McAdams</b>, McGill University <br>
+<b>Marcelo Caetano</b>, CNRS-PRISM & McGill University <br>
+<b>Amandine Pras</b>, University of York (UY) <br>
+<b>Drew Nobile</b>, University of Oregon (UO) <br>
+<b>Sølvi Ystad</b>, CNRS-PRISM <br>
+
+### <span style="color:#8E44AD">Steering Committee</span>
 
 <b>Asterios Zacharakis</b>, Aristotle University of Thessaloniki <br>
 <b>Charalampos Saitis</b>, Queen Mary University of London (Chair) <br>
