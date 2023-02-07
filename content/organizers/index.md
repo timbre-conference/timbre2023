@@ -74,6 +74,7 @@ projects: []
 <b>Amandine Pras</b>, University of York (UY) <br>
 <b>Drew Nobile</b>, University of Oregon (UO) <br>
 <b>Sølvi Ystad</b>, CNRS-PRISM <br>
+<b>Trevor Agus</b>, Queen's University - Belfast <br>
 
 ### <span style="color:#8E44AD">Steering Committee</span>
 
