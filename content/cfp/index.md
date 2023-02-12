@@ -46,7 +46,8 @@ resources:
 
 All deadlines are Anywhere on Earth (AoE) UTC -12.
 
-- **Submission Deadline**: 17 February 2023 </br>
+- ~~**Submission Deadline**: 17 February 2023~~ </br>
+- **Deadline Extension**: 24 February 2023 </br>
 - **Notification of Acceptance**: 31 March 2023 </br>
 - **Camera-ready (updated and/or extendend versions)**: 30 April 2023
 

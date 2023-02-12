@@ -29,7 +29,8 @@ design:
 
 **CONFERENCE**
 
-**Submission Deadline**: 17 February 2023 </br>
+~~**Submission Deadline**: 17 February 2023~~ </br>
+**Deadline Extension**: 24 February 2023 </br>
 **Notification of Acceptance**: 31 March 2023 </br>
 **Camera-ready**: 30 April 2023 </br>
 **Early Bird Registration**: 1 April - 14 May 2023 </br>
