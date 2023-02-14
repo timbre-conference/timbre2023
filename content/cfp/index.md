@@ -90,7 +90,7 @@ Timbre 2023 invites submissions in one of the following formats:
 
   - _Submission_: Abstracts up to 2 pages (500-1000 words)
   - _Contribution_: Original research, including case studies, position papers, and review papers
-  - _Presentation_: Oral presentation or poster. Authors should indicate upon submission the mode of presentation that best fits their contribution. Final presentation mode will be based on author request, reviews, and program constraints
+  - _Presentation_: Oral presentation or poster. Authors are encouraged to indicate in their abstracts the mode of presentation that best fits their contribution. Final presentation mode will be based on author request, reviews, and program constraints
   - _Camera-ready_: Accepted regular submissions can be expanded to 5 pages. The updated/expanded version will be included in the conference proceedings
 
 - **Sessions or tutorials**
