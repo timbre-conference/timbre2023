@@ -36,16 +36,16 @@ main:
   - name: Keynotes
     url: "keynotes/"
     weight: 40
-    
+
   - name: Program
     identifier: "program"
     url: "program/"
     weight: 50
 
-#   - name: Keynotes
-#     parent: "program"
-#     url: "#keynotes"
-#     weight: 10
+  #   - name: Keynotes
+  #     parent: "program"
+  #     url: "#keynotes"
+  #     weight: 10
 
   - name: Schedule
     parent: "program"
@@ -71,16 +71,21 @@ main:
     parent: "attend"
     url: registration
     weight: 10
-    
+
+  - name: Accommodation
+    parent: "attend"
+    url: accommodation
+    weight: 20
+
   - name: Location
     parent: "attend"
     url: "#host"
-    weight: 20
+    weight: 30
 
   - name: Venue & Travel
     parent: "attend"
     url: venue
-    weight: 30
+    weight: 40
 
   - name: Sponsors
     identifier: "sponsors"
