@@ -30,26 +30,28 @@ design:
 **CONFERENCE**
 
 ~~**Submission Deadline**: 17 February 2023~~ </br>
-**Deadline Extension**: 24 February 2023 </br>
-**Notification of Acceptance**: 31 March 2023 </br>
-**Camera-ready**: 30 April 2023 </br>
+~~**Deadline Extension**: 24 February 2023~~ </br>
+~~**Notification of Acceptance**: 31 March 2023~~ </br>
+~~**Camera-ready**: 30 April 2023~~ </br>
+**Camera-ready Extension**: 7 May 2023 </br>
 **Early Bird Registration**: 1 April - 14 May 2023 </br>
 **Full Registration**: 15 May - 7 July 2023 </br>
 **Onsite Registration**: 8 - 10 July 2023
 
-[**Call for Papers**](cfp/)
+# [**Call for Papers**](cfp/)
 
 </div>
   <div class="col-lg-6">
 
 **SUMMER SCHOOL**
 
-**Application Deadline**: 17 February 2023 </br>
-**Notification of Acceptance**: 1 March 2023 </br>
+~~**Application Deadline**: 17 February 2023~~ </br>
+~~**Notification of Acceptance**: 1 March 2023~~ </br>
 **Full Registration**:<sup>&dagger;</sup> 1 March - 30 April 2023 </br>
 <sup>&dagger;</sup> includes conference registration
 
-[**How to apply**](https://www.actorproject.org/timbre-and-orchestration-summer-school#apply-now)
+# [**How to apply**](https://www.actorproject.org/timbre-and-orchestration-summer-school#apply-now)
+Applications are now closed.
 
 </div>
 </div>
