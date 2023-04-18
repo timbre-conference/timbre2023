@@ -47,13 +47,13 @@ projects: []
 
 **Andres Gutierrez Martinez**, McGill University </br>
 **Ben Duinker**, McGill University </br>
-**Kit Soden**, Université de Montréal </br>
+**Kit Soden**, University of Montreal </br>
 **Stephen McAdams**, McGill University
 
 ### <span style="color:#8E44AD">Publicity Chairs</span>
 
 **André Martins de Oliveira**, McGill University (Summer School) </br>
-**Kit Soden**, Université de Montréal (Summer School) </br>
+**Kit Soden**, University of Montreal (Summer School) </br>
 **Marcelo Caetano**, CNRS-PRISM & McGill University (Conference) </br>
 **Charalampos Saitis**, Queen Mary University of London (Conference)
 
@@ -63,34 +63,35 @@ projects: []
 
 ### <span style="color:#8E44AD">Evaluation Committee</span>
 
-**Jérémy Marozeau**, Technical University of Denmark (DTU) </br>
-**Roger Reynolds**, University of California - San Diego (UCSD) </br>
-**Cornelia Fales**, Indiana University (IU) </br>
-**Lindsey Reymore**, Arizona State University (ASU) </br>
-**Nina Eidsheim**, University of California - Los Angeles (UCLA) </br>
-**Zachary Wallmark**, University of Oregon (UO) </br>
-**Stephen McAdams**, McGill University </br>
-**Marcelo Caetano**, CNRS-PRISM & McGill University </br>
-**Amandine Pras**, University of York (UY) </br>
-**Drew Nobile**, University of Oregon (UO) </br>
-**Sølvi Ystad**, CNRS-PRISM </br>
-**Trevor Agus**, Queen's University - Belfast </br>
-**Andres Gutierrez Martinez**, McGill University </br>
-**Ben Duinker**, McGill University </br>
-**Kit Soden**, Université de Montréal </br>
-**Kai Siedenburg**, University of Oldenburg </br>
-**Asterios Zacharakis**, Aristotle University of Thessaloniki </br>
-**Vasileios Chatziioannou**, Institute of Music Acoustics (MDW) </br>
-**Charalampos Saitis**, Queen Mary University of London (QMUL) </br>
+**Trevor Agus**, Queen's University Belfast </br>
 **Mitsuko Aramaki**, CNRS-PRISM </br>
-**Gilberto Bernardes**, University of Porto (FEUP) </br>
-**Étienne Thoret**, Institute of Language, Communication, and the Brain (ILCB) </br>
-**Robert Hasegawa**, McGill University </br>
-**Richard Kronland-Martinet**, CNRS-PRISM </br>
-**Mathieu Barthet**, Queen Mary University of London (QMUL) </br>
-**Marcelo Queiroz**, University of São Paulo (USP) </br>
+**Mathieu Barthet**, Queen Mary University of London </br>
+**Gilberto Bernardes**, University of Porto </br>
+**Marcelo Caetano**, CNRS-PRISM & McGill University </br>
+**Vasileios Chatziioannou**, University of Music and Performing Arts, Vienna </br>
+**Ben Duinker**, McGill University </br>
+**Nina Eidsheim**, University of California, Los Angeles </br>
+**Cornelia Fales**, Indiana University </br>
 **Mylène Gioffredo**, CNRS-PRISM </br>
+**Andres Gutierrez Martinez**, McGill University </br>
+**Robert Hasegawa**, McGill University </br>
 **Nathalie Hérold**, University of Strasbourg </br>
+**Richard Kronland-Martinet**, CNRS-PRISM </br>
+**Sven-Amin Lembke**, Anglia Ruskin University </br>
+**Jérémy Marozeau**, Technical University of Denmark </br>
+**Stephen McAdams**, McGill University </br>
+**Drew Nobile**, University of Oregon </br>
+**Amandine Pras**, University of York </br>
+**Marcelo Queiroz**, University of São Paulo </br>
+**Lindsey Reymore**, Arizona State University </br>
+**Roger Reynolds**, University of California, San Diego </br>
+**Charalampos Saitis**, Queen Mary University of London </br>
+**Kai Siedenburg**, University of Oldenburg </br>
+**Kit Soden**, University of Montreal </br>
+**Étienne Thoret**, CNRS-ILCB </br>
+**Zachary Wallmark**, University of Oregon</br>
+**Sølvi Ystad**, CNRS-PRISM </br>
+**Asterios Zacharakis**, Aristotle University of Thessaloniki
 
 ### <span style="color:#8E44AD">Steering Committee</span>
 
