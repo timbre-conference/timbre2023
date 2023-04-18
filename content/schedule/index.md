@@ -35,12 +35,14 @@ Below is the list of accepted submissions. The full conference program is coming
 ### Accepted Papers
 {style="color: #8E44AD "}
 
+<div style="line-height: 1em">
+  
 **Kutanga, Mujimbu, and the Orchestration of Events Amongst the Luvale of Zambia** </br>
 Jason Winikoff
-<hr/>
+
 **Comparison of perceived and imagined instrumental blend**</br>
 Linglan Zhu and Stephen McAdams
-<hr/>
+
 **Scent of a timbre: cross-modal correspondences between synthetic timbres and essential oil aromas** </br>
 Asterios Zacharakis, Ioulia Michail and Konstantinos Pastiadis                     
 
@@ -133,6 +135,8 @@ Noam Amir, Lee Tirza, Sahar Alkaslassy, Noga Dagan and Shahar Meltz
 
 **Expanding a Taxonomy of Instrumental Grouping Effects to Align with Contemporary Musical Practices** </br>
 Yuval Adler
+
+</div>
 
 ### Work in Progress
 {style="color: #8E44AD "}
