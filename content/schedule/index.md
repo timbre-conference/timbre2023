@@ -32,108 +32,110 @@ projects: []
 
 Below is the list of accepted submissions. The full conference program is coming soon!
 
-### Regular Submissions
+### Accepted Papers
+{style="color: #8E44AD "}
 
-Kutanga, Mujimbu, and the Orchestration of Events Amongst the Luvale of Zambia </br>
+**Kutanga, Mujimbu, and the Orchestration of Events Amongst the Luvale of Zambia** </br>
 Jason Winikoff
 
-Comparison of perceived and imagined instrumental blend</br>
+**Comparison of perceived and imagined instrumental blend**</br>
 Linglan Zhu and Stephen McAdams
 
-Scent of a timbre: cross-modal correspondences between synthetic timbres and essential oil aromas </br>  
+**Scent of a timbre: cross-modal correspondences between synthetic timbres and essential oil aromas** </br>
 Asterios Zacharakis, Ioulia Michail and Konstantinos Pastiadis                     
 
-“Beautiful Tone, Beautiful Heart”: Shinichi Suzuki and the Timbres of Childhood </br>
+**“Beautiful Tone, Beautiful Heart”: Shinichi Suzuki and the Timbres of Childhood** </br>
 Lindsay Wright
 
-Implicit perception and learned categorization of atypically combined excitations and resonators of musical instruments</br>
+**Implicit perception and learned categorization of atypically combined excitations and resonators of musical instruments**</br>
 Erica Huynh and Stephen McAdams
 
-Playing in Tongues: The Hammond Organ and Black Pentecostal Instrumentality</br>
+**Playing in Tongues: The Hammond Organ and Black Pentecostal Instrumentality**</br>
 Braxton Shelley
 
-Identifying Peking Opera Roles Through Vocal Timbre: An Acoustical and Conceptual Comparison between Laosheng and Dan</br>
+**Identifying Peking Opera Roles Through Vocal Timbre: An Acoustical and Conceptual Comparison between Laosheng and Dan**</br>
 Annie Liu and Zachary Wallmark
 
-Eighteenth-Century Technological Sublime: Harmonics as Experiment and Evocation</br>
+**Eighteenth-Century Technological Sublime: Harmonics as Experiment and Evocation**</br>
 Sarah Waltz
 
-Structure, Texture and Bidimensional Form in Claude Vivier’s Zipangu (1980)</br>
+**Structure, Texture and Bidimensional Form in Claude Vivier’s Zipangu (1980)**</br>
 Mylène Gioffredo
 
-Vocal Timbre and the Conceptualization of the Persona in Lena Platonos</br>
+**Vocal Timbre and the Conceptualization of the Persona in Lena Platonos**</br>
 Despoina Panagiotidou
 
-Timbre as a (de)constructing force in 1000 gecs</br>
+**Timbre as a (de)constructing force in 1000 gecs**</br>
 Lindsey Reymore
 
-Marika Ninou vs. Sotiria Bellou: a timbral comparison between two iconic female singers in Rebetiko</br>
+**Marika Ninou vs. Sotiria Bellou: a timbral comparison between two iconic female singers in Rebetiko**</br>
 Asterios Zacharakis, Savvas Kazazis and Emilios Cambouropoulos
 
-Inharmonicity and Instrumental Synthesis in Grisey’s Transitoires</br>
+**Inharmonicity and Instrumental Synthesis in Grisey’s Transitoires**</br>
 Ingrid Pustijanac
 
-Affective Qualities of Sustained Instrumental Blends</br>
+**Affective Qualities of Sustained Instrumental Blends**</br>
 Yifan Huang and Stephen McAdams
 
-The Timbral Origins of Musical Affect</br>
+**The Timbral Origins of Musical Affect**</br>
 Iza Korsmit, Marcel Montrey, Alix Wong-Min and Stephen McAdams                      
 
-The dark and bright side of musical instrument sounds: auditory brightness emerging from spectral envelope statistics and its interaction with fundamental frequency</br>
+**The dark and bright side of musical instrument sounds: auditory brightness emerging from spectral envelope statistics and its interaction with fundamental frequency**</br>
 Simon Jacobsen and Kai Siedenburg 
 
-When ChatGPT Talks Timbre</br>
+**When ChatGPT Talks Timbre**</br>
 Charalampos Saitis and Kai Siedenburg
 
-Network Analysis of Instrumentation in Timbral Augmentation Blends</br>
+**Network Analysis of Instrumentation in Timbral Augmentation Blends**</br>
 Corinne Darche, Ichiro Fujinaga and Stephen McAdams
 
-Re-considering Germaine Tailleferre's Compositional Voice: An Orchestration-Based Analysis of her Petite Suite pour petit orchestre (1957)</br>
+**Re-considering Germaine Tailleferre's Compositional Voice: An Orchestration-Based Analysis of her Petite Suite pour petit orchestre (1957)**</br>
 Jade Roth
 
-Tracing timbral subjectivity through listening encounters with Indigenous death doom band Tzompantli </br>
+**Tracing timbral subjectivity through listening encounters with Indigenous death doom band Tzompantli** </br>
 Jennifer LeBlanc
 
-Effects of Tonal Harmonic Content on the Statistical Learning of Melody from Differently Structure Scales </br>
+**Effects of Tonal Harmonic Content on the Statistical Learning of Melody from Differently Structure Scales** </br>
 Adam Garrow and Marcus Pearce
 
-Pitch and Timbre Interactions in Dynamically Varying Complex Tones </br>
+**Pitch and Timbre Interactions in Dynamically Varying Complex Tones** </br>
 Ryan Anderson, Yi Shen and William Shofner                                          
 
-Vocal Production, Mimetic Engagement, and Social Media in Bedroom Pop </br>
+**Vocal Production, Mimetic Engagement, and Social Media in Bedroom Pop** </br>
 Alyssa Barna and Caroline McLaughlin
 
-A Machine Learning Approach to Automatic Timbre Assessment in Violin Performance </br>
+**A Machine Learning Approach to Automatic Timbre Assessment in Violin Performance** </br>
 Rafael Ramirez, Sergio Giraldo and George Waddell 
 
-Acoustic and musical features influencing listeners' perception of affective intentions </br>
+**Acoustic and musical features influencing listeners' perception of affective intentions** </br>
 Lena Heng, Claire Wei and Stephen Mcadams 
 
-The Interaction of Pitch, Timbre, and Visual Bias in Voice Categorization by Cis and Trans Listeners </br>
+**The Interaction of Pitch, Timbre, and Visual Bias in Voice Categorization by Cis and Trans Listeners** </br>
 Jay Marchand Knight and Mickael Deroche
 
-The Viola da Terra as Metaphor: Post-Colonial Sonorities of Azorean Saudade </br>
+**The Viola da Terra as Metaphor: Post-Colonial Sonorities of Azorean Saudade** </br>
 Abigail Lindo 
 
-Playing Style Affects Steel-String Acoustic Guitar Timbre </br>
+**Playing Style Affects Steel-String Acoustic Guitar Timbre** </br>
 Jackson Loth, Adrien Mamou-Mani and Mathieu Barthet
 
-Testing the ‘contour hypothesis’: probing musical memory using the matching pairs game </br>
+**Testing the ‘contour hypothesis’: probing musical memory using the matching pairs game** </br>
 Jiaxin Li, David John Baker, John Ashley Burgoyne and Henkjan Honing
 
-Effect of Timbre on Leman’s Model of Periodicity Pitch </br>
+**Effect of Timbre on Leman’s Model of Periodicity Pitch** </br>
 Ivan Jimenez, Tuire Kuusi, Juha Ojala, Isabella Czedik-Eysenberg and Christoph Reuter
 
-Timbre Issues in the Performance of Partiels by Gérard Grisey: An Empirical Study </br>
+**Timbre Issues in the Performance of Partiels by Gérard Grisey: An Empirical Study** </br>
 Nathalie Hérold 
 
-Perceived Pleasantness of Instruments in the Lower Registers </br>
+**Perceived Pleasantness of Instruments in the Lower Registers** </br>
 Noam Amir, Lee Tirza, Sahar Alkaslassy, Noga Dagan and Shahar Meltz
 
-Expanding a Taxonomy of Instrumental Grouping Effects to Align with Contemporary Musical Practices </br>
+**Expanding a Taxonomy of Instrumental Grouping Effects to Align with Contemporary Musical Practices** </br>
 Yuval Adler
 
 ### Work in Progress
+{style="color: #8E44AD "}
 
 | Authors                                                               | Title                                                                                                                                      |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -150,6 +152,7 @@ Yuval Adler
 | Asterios Zacharakis                                                   | Identifying mechanisms through which music can influence wine appreciation                                                                 |
 
 ### Sessions & Tutorials
+{style="color: #8E44AD "}
 
 | Authors                                                          | Title                                                                   |
 | ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
