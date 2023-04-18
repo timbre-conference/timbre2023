@@ -35,7 +35,7 @@ Below is the list of accepted submissions. The full conference program is coming
 ### Accepted Papers
 {style="color: #8E44AD "}
 
-<div style="line-height: 1em">
+<div style="line-height: normal">
   
 **Kutanga, Mujimbu, and the Orchestration of Events Amongst the Luvale of Zambia** </br>
 Jason Winikoff
