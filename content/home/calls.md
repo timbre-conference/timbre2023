@@ -38,7 +38,7 @@ design:
 **Full Registration**: 15 May - 7 July 2023 </br>
 **Onsite Registration**: 8 - 10 July 2023
 
-# [**Call for Papers**](cfp/)
+<!--[**Call for Papers**](cfp/)-->
 
 </div>
   <div class="col-lg-6">
@@ -50,7 +50,7 @@ design:
 **Full Registration**:<sup>&dagger;</sup> 1 March - 30 April 2023 </br>
 <sup>&dagger;</sup> includes conference registration
 
-# [**How to apply**](https://www.actorproject.org/timbre-and-orchestration-summer-school#apply-now)
+<!--[**How to apply**](https://www.actorproject.org/timbre-and-orchestration-summer-school#apply-now)-->
 Applications are now closed.
 
 </div>
