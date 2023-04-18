@@ -37,10 +37,10 @@ Below is the list of accepted submissions. The full conference program is coming
 
 **Kutanga, Mujimbu, and the Orchestration of Events Amongst the Luvale of Zambia** </br>
 Jason Winikoff
-
+<hr/>
 **Comparison of perceived and imagined instrumental blend**</br>
 Linglan Zhu and Stephen McAdams
-
+<hr/>
 **Scent of a timbre: cross-modal correspondences between synthetic timbres and essential oil aromas** </br>
 Asterios Zacharakis, Ioulia Michail and Konstantinos Pastiadis                     
 
