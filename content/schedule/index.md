@@ -29,63 +29,109 @@ image:
 projects: []
 ---
 
-## Accepted Submissions
 
 Below is the list of accepted submissions. The full conference program is coming soon!
 
 ### Regular Submissions
 
-| Authors                                                                                                                              | Title                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Jason Winikoff                                                                                                                       | Kutanga, Mujimbu, and the Orchestration of Events Amongst the Luvale of Zambia                                                                                       |
-| Linglan Zhu and Stephen McAdams                                                                                                      | Comparison of perceived and imagined instrumental blend                                                                                                              |
-| Asterios Zacharakis, Ioulia Michail and Konstantinos Pastiadis                                                                       | Scent of a timbre: cross-modal correspondences between synthetic timbres and essential oil aromas                                                                    |
-| Lindsay Wright                                                                                                                       | “Beautiful Tone, Beautiful Heart”: Shinichi Suzuki and the Timbres of Childhood                                                                                      |
-| Erica Huynh and Stephen McAdams                                                                                                      | Implicit perception and learned categorization of atypically combined excitations and resonators of musical instruments                                              |
-| Braxton Shelley                                                                                                                      | Playing in Tongues: The Hammond Organ and Black Pentecostal Instrumentality                                                                                          |
-| Annie Liu and Zachary Wallmark                                                                                                       | Identifying Peking Opera Roles Through Vocal Timbre: An Acoustical and Conceptual Comparison between Laosheng and Dan                                                |
-| Sarah Waltz                                                                                                                          | Eighteenth-Century Technological Sublime: Harmonics as Experiment and Evocation                                                                                      |
-| Mylène Gioffredo                                                                                                                     | Structure, Texture and Bidimensional Form in Claude Vivier’s Zipangu (1980)                                                                                          |
-| Despoina Panagiotidou                                                                                                                | Vocal Timbre and the Conceptualization of the Persona in Lena Platonos                                                                                               |
-| Lindsey Reymore                                                                                                                      | Timbre as a (de)constructing force in 1000 gecs                                                                                                                      |
-| Asterios Zacharakis, Savvas Kazazis and Emilios Cambouropoulos                                                                       | Marika Ninou vs. Sotiria Bellou: a timbral comparison between two iconic female singers in Rebetiko                                                                  |
-| Ingrid Pustijanac                                                                                                                    | Inharmonicity and Instrumental Synthesis in Grisey’s Transitoires                                                                                                    |
-| Yifan Huang and Stephen McAdams                                                                                                      | Affective Qualities of Sustained Instrumental Blends                                                                                                                 |
-| Iza Korsmit, Marcel Montrey, Alix Wong-Min and Stephen McAdams                                                                       | The Timbral Origins of Musical Affect                                                                                                                                |
-| Simon Jacobsen and Kai Siedenburg                                                                                                    | The dark and bright side of musical instrument sounds: auditory brightness emerging from spectral envelope statistics and its interaction with fundamental frequency |
-| Charalampos Saitis and Kai Siedenburg                                                                                                | When ChatGPT Talks Timbre                                                                                                                                            |
-| Corinne Darche, Ichiro Fujinaga and Stephen McAdams                                                                                  | Network Analysis of Instrumentation in Timbral Augmentation Blends                                                                                                   |
-| Jade Roth                                                                                                                            | Re-considering Germaine Tailleferre's Compositional Voice: An Orchestration-Based Analysis of her Petite Suite pour petit orchestre (1957)                           |
-| Jennifer LeBlanc                                                                                                                     | Tracing timbral subjectivity through listening encounters with Indigenous death doom band Tzompantli                                                                 |
-| Adam Garrow and Marcus Pearce                                                                                                        | Effects of Tonal Harmonic Content on the Statistical Learning of Melody from Differently Structure Scales                                                            |
-| Ryan Anderson, Yi Shen and William Shofner                                                                                           | Pitch and Timbre Interactions in Dynamically Varying Complex Tones                                                                                                   |
-| Alyssa Barna and Caroline McLaughlin                                                                                                 | Vocal Production, Mimetic Engagement, and Social Media in Bedroom Pop                                                                                                |
-| Rafael Ramirez, Sergio Giraldo and George Waddell                                                                                    | A Machine Learning Approach to Automatic Timbre Assessment in Violin Performance                                                                                     |
-| Charalampos Saitis, Maryam F. Toshizi, Vjosa Preniqi, Bleiz M. Del Sette, Ben Hayes, Luca Marinelli, Jordie Shier and György Fazekas | A “timbre analysis” of NIME and ISMIR proceedings                                                                                                                    |
-| Lena Heng, Claire Wei and Stephen Mcadams                                                                                            | Acoustic and musical features influencing listeners' perception of affective intentions                                                                              |
-| Jay Marchand Knight and Mickael Deroche                                                                                              | The Interaction of Pitch, Timbre, and Visual Bias in Voice Categorization by Cis and Trans Listeners                                                                 |
-| Abigail Lindo                                                                                                                        | The Viola da Terra as Metaphor: Post-Colonial Sonorities of Azorean Saudade                                                                                          |
-| Jackson Loth, Adrien Mamou-Mani and Mathieu Barthet                                                                                  | Playing Style Affects Steel-String Acoustic Guitar Timbre                                                                                                            |
-| Jiaxin Li, David John Baker, John Ashley Burgoyne and Henkjan Honing                                                                 | Testing the ‘contour hypothesis’: probing musical memory using the matching pairs game                                                                               |
-| Ivan Jimenez, Tuire Kuusi, Juha Ojala, Isabella Czedik-Eysenberg and Christoph Reuter                                                | Effect of Timbre on Leman’s Model of Periodicity Pitch                                                                                                               |
-| Nathalie Hérold                                                                                                                      | Timbre Issues in the Performance of Partiels by Gérard Grisey: An Empirical Study                                                                                    |
-| Noam Amir, Lee Tirza, Sahar Alkaslassy, Noga Dagan and Shahar Meltz                                                                  | Perceived Pleasantness of Instruments in the Lower Registers                                                                                                         |
-| Yuval Adler                                                                                                                          | Expanding a Taxonomy of Instrumental Grouping Effects to Align with Contemporary Musical Practices                                                                   |
-| Martin Scherzinger                                                                                                                   | Timbral Illusions (A Reflection on the Limits of Materialism Today)                                                                                                  |
-| James Renwick                                                                                                                        | Anton Reicha’s Fugal Orchestration: A Historical Model of Orchestration Techniques                                                                                   |
-| Mathieu Schneider                                                                                                                    | Timbre or coulour? Semantic considerations in German and French music treatises of the early 20th century                                                            |
-| Vasileios Chatziioannou                                                                                                              | Investigating cone to cylinder transition in wind instruments using physical modelling                                                                               |
-| Christopher Goddard                                                                                                                  | Cross-domain Illusion in Hans Abrahamsen's 'Schnee' (2008), Canons 2a and 2b                                                                                         |
-| Micael Antunes, Mylène Gioffredo, Javier Elipe Gimeno, Charles de Paiva, Sølvi Ystad, Samuel Poirot and Vincent Tiffon               | Comparative analysis of the perceptual fusion in Grisey's Partiels: an approach with audio analysis                                                                  |
-| Richard Drehoff                                                                                                                      | Embodied Liminality: Musical Chimerism in Chaya Czernowin’s Infinite Now                                                                                             |
-| Ebru Yazici and Ozan Baysal                                                                                                          | Sensing Makam: A Timbre-Oriented Study on Turkish Makam Music                                                                                                        |
-| Laura Dallmn                                                                                                                         | Ethereality and Timbre in Higdon’s blue cathedral and City Scape                                                                                                     |
-| Cyrus Vahidi, Han Han, Vincent Lostanlen, Gyorgy Fazekas and Mathieu Lagrange                                                        | Decoding Modulations in Ripple Spectra by Gradient Descent                                                                                                           |
-| Jason Noble, Louis Goldford, Gabriel Couturier, Theodora Nestorova, Jay Marchand Knight and Caroline Traube                          | How “vocal” is instrumental music?                                                                                                                                   |
-| Marina Sudo                                                                                                                          | Timbre within a Sound Continuum: The Tripartite Relationship between Timbre, Structure and Texture                                                                   |
-| Simon Schwär, Meinard Mueller and Sebastian J. Schlecht                                                                              | Modifying Partials for Minimum-Roughness Sound Synthesis                                                                                                             |
-| Luca Danieli and Matthias Frank                                                                                                      | There is Inharmonicity and Inharmonicity                                                                                                                             |
-| Yan Chen and Peter Pfordresher                                                                                                       | The role of timbre in pitch perception and imitation                                                                                                                 |
+Kutanga, Mujimbu, and the Orchestration of Events Amongst the Luvale of Zambia </br>
+Jason Winikoff
+
+Comparison of perceived and imagined instrumental blend</br>
+Linglan Zhu and Stephen McAdams
+
+Scent of a timbre: cross-modal correspondences between synthetic timbres and essential oil aromas </br>  
+Asterios Zacharakis, Ioulia Michail and Konstantinos Pastiadis                     
+
+“Beautiful Tone, Beautiful Heart”: Shinichi Suzuki and the Timbres of Childhood </br>
+Lindsay Wright
+
+Implicit perception and learned categorization of atypically combined excitations and resonators of musical instruments</br>
+Erica Huynh and Stephen McAdams
+
+Playing in Tongues: The Hammond Organ and Black Pentecostal Instrumentality</br>
+Braxton Shelley
+
+Identifying Peking Opera Roles Through Vocal Timbre: An Acoustical and Conceptual Comparison between Laosheng and Dan</br>
+Annie Liu and Zachary Wallmark
+
+Eighteenth-Century Technological Sublime: Harmonics as Experiment and Evocation</br>
+Sarah Waltz
+
+Structure, Texture and Bidimensional Form in Claude Vivier’s Zipangu (1980)</br>
+Mylène Gioffredo
+
+Vocal Timbre and the Conceptualization of the Persona in Lena Platonos</br>
+Despoina Panagiotidou
+
+Timbre as a (de)constructing force in 1000 gecs</br>
+Lindsey Reymore
+
+Marika Ninou vs. Sotiria Bellou: a timbral comparison between two iconic female singers in Rebetiko</br>
+Asterios Zacharakis, Savvas Kazazis and Emilios Cambouropoulos
+
+Inharmonicity and Instrumental Synthesis in Grisey’s Transitoires</br>
+Ingrid Pustijanac
+
+Affective Qualities of Sustained Instrumental Blends</br>
+Yifan Huang and Stephen McAdams
+
+The Timbral Origins of Musical Affect</br>
+Iza Korsmit, Marcel Montrey, Alix Wong-Min and Stephen McAdams                      
+
+The dark and bright side of musical instrument sounds: auditory brightness emerging from spectral envelope statistics and its interaction with fundamental frequency</br>
+Simon Jacobsen and Kai Siedenburg 
+
+When ChatGPT Talks Timbre</br>
+Charalampos Saitis and Kai Siedenburg
+
+Network Analysis of Instrumentation in Timbral Augmentation Blends</br>
+Corinne Darche, Ichiro Fujinaga and Stephen McAdams
+
+Re-considering Germaine Tailleferre's Compositional Voice: An Orchestration-Based Analysis of her Petite Suite pour petit orchestre (1957)</br>
+Jade Roth
+
+Tracing timbral subjectivity through listening encounters with Indigenous death doom band Tzompantli </br>
+Jennifer LeBlanc
+
+Effects of Tonal Harmonic Content on the Statistical Learning of Melody from Differently Structure Scales </br>
+Adam Garrow and Marcus Pearce
+
+Pitch and Timbre Interactions in Dynamically Varying Complex Tones </br>
+Ryan Anderson, Yi Shen and William Shofner                                          
+
+Vocal Production, Mimetic Engagement, and Social Media in Bedroom Pop </br>
+Alyssa Barna and Caroline McLaughlin
+
+A Machine Learning Approach to Automatic Timbre Assessment in Violin Performance </br>
+Rafael Ramirez, Sergio Giraldo and George Waddell 
+
+Acoustic and musical features influencing listeners' perception of affective intentions </br>
+Lena Heng, Claire Wei and Stephen Mcadams 
+
+The Interaction of Pitch, Timbre, and Visual Bias in Voice Categorization by Cis and Trans Listeners </br>
+Jay Marchand Knight and Mickael Deroche
+
+The Viola da Terra as Metaphor: Post-Colonial Sonorities of Azorean Saudade </br>
+Abigail Lindo 
+
+Playing Style Affects Steel-String Acoustic Guitar Timbre </br>
+Jackson Loth, Adrien Mamou-Mani and Mathieu Barthet
+
+Testing the ‘contour hypothesis’: probing musical memory using the matching pairs game </br>
+Jiaxin Li, David John Baker, John Ashley Burgoyne and Henkjan Honing
+
+Effect of Timbre on Leman’s Model of Periodicity Pitch </br>
+Ivan Jimenez, Tuire Kuusi, Juha Ojala, Isabella Czedik-Eysenberg and Christoph Reuter
+
+Timbre Issues in the Performance of Partiels by Gérard Grisey: An Empirical Study </br>
+Nathalie Hérold 
+
+Perceived Pleasantness of Instruments in the Lower Registers </br>
+Noam Amir, Lee Tirza, Sahar Alkaslassy, Noga Dagan and Shahar Meltz
+
+Expanding a Taxonomy of Instrumental Grouping Effects to Align with Contemporary Musical Practices </br>
+Yuval Adler
 
 ### Work in Progress
 
