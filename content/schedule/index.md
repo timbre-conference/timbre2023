@@ -136,6 +136,50 @@ Noam Amir, Lee Tirza, Sahar Alkaslassy, Noga Dagan and Shahar Meltz
 **Expanding a Taxonomy of Instrumental Grouping Effects to Align with Contemporary Musical Practices** </br>
 Yuval Adler
 
+**Timbral Illusions (A Reflection on the Limits of Materialism Today)** </br>
+Martin Scherzinger
+
+**Anton Reicha’s Fugal Orchestration: A Historical Model of Orchestration Techniques** </br>
+James Renwick                                                                        
+**Timbre or colour? Semantic considerations in German and French music treatises of the early 20th century** </br>
+Mathieu Schneider                                                                   
+
+**Investigating cone to cylinder transition in wind instruments using physical modelling** </br>
+Vasileios Chatziioannou 
+
+**Cross-domain Illusion in Hans Abrahamsen's 'Schnee' (2008), Canons 2a and 2b**</br>
+Christopher Goddard
+
+**Comparative analysis of the perceptual fusion in Grisey's Partiels: an approach with audio analysis**</br>
+Micael Antunes, Mylène Gioffredo, Javier Elipe Gimeno, Charles de Paiva, Sølvi Ystad, Samuel Poirot and Vincent Tiffon
+
+**Embodied Liminality: Musical Chimerism in Chaya Czernowin’s Infinite Now**</br>
+Richard Drehoff
+
+**Sensing Makam: A Timbre-Oriented Study on Turkish Makam Music**</br>
+Ebru Yazici and Ozan Baysal
+
+**Ethereality and Timbre in Higdon’s blue cathedral and City Scape**</br>
+Laura Dallmn
+
+**Decoding Modulations in Ripple Spectra by Gradient Descent**</br>
+Cyrus Vahidi, Han Han, Vincent Lostanlen, Gyorgy Fazekas and Mathieu Lagrange
+
+**How “vocal” is instrumental music?**</br>
+Jason Noble, Louis Goldford, Gabriel Couturier, Theodora Nestorova, Jay Marchand Knight and Caroline Traube
+
+**Timbre within a Sound Continuum: The Tripartite Relationship between Timbre, Structure and Texture**</br>
+Marina Sudo
+
+**Modifying Partials for Minimum-Roughness Sound Synthesis**</br>
+Simon Schwär, Meinard Mueller and Sebastian J. Schlecht
+
+**There is Inharmonicity and Inharmonicity**</br>
+Luca Danieli and Matthias Frank
+
+**The role of timbre in pitch perception and imitation**</br>
+Yan Chen and Peter Pfordresher
+
 </div>
 
 ### Work in Progress
