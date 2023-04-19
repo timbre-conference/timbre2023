@@ -140,7 +140,8 @@ Yuval Adler
 Martin Scherzinger
 
 **Anton Reicha’s Fugal Orchestration: A Historical Model of Orchestration Techniques** </br>
-James Renwick                                                                        
+James Renwick
+
 **Timbre or colour? Semantic considerations in German and French music treatises of the early 20th century** </br>
 Mathieu Schneider                                                                   
 
@@ -185,29 +186,61 @@ Yan Chen and Peter Pfordresher
 ### Work in Progress
 {style="color: #8E44AD "}
 
-| Authors                                                               | Title                                                                                                                                      |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Rebecca Moranis                                                       | Choreographing Orchestration: A Novel Method for Analyzing Orchestral Timbre through Ballet                                                |
-| Ivan Meresman Higgs and Ivan Meresman Higgs                           | Timbre and Choral Blending Analysis of Uruguayan Murga Singing                                                                             |
-| Han Han and Cixian Lu                                                 | Towards constructing a historically-grounded gesture-timbre space of Guqin playing techniques                                              |
-| Joshua Rosner, Michael Wagner and Stephen McAdams                     | The Role of Timbre in Parsing the Acoustic Stream                                                                                          |
-| Ash Mach                                                              | Intentional Instrumentation in Debussy’s Trio for Flute, Viola, and Harp                                                                   |
-| Michel Bürgel and Kai Siedenburg                                      | Influence of frequency modulations on the recognition of vocals and instruments                                                            |
-| Danielle Davis                                                        | Live in Atlanta: Listening to Black Popular Music Performances in Concert                                                                  |
-| Theodora Nestorova, Kit Soden, J. Marchand Knight and Lindsey Reymore | Timbre Semantics of the Singing Voice                                                                                                      |
-| Hubert Ho                                                             | Connecting spectromorphological principles in acousmatic music to a database of sonic gestures for timbre research: problems and prospects |
-| Jonas Regnier and Robert Hasegawa                                     | Timbral simulation with a string quartet                                                                                                   |
-| Asterios Zacharakis                                                   | Identifying mechanisms through which music can influence wine appreciation                                                                 |
+<div style="line-height: normal"></br>
+
+**Choreographing Orchestration: A Novel Method for Analyzing Orchestral Timbre through Ballet** </br>
+Rebecca Moranis
+
+**Timbre and Choral Blending Analysis of Uruguayan Murga Singing** </br>
+Ivan Meresman Higgs
+
+**Towards constructing a historically-grounded gesture-timbre space of Guqin playing techniques** </br>
+Han Han and Cixian Lu
+
+**The Role of Timbre in Parsing the Acoustic Stream** </br>
+Joshua Rosner, Michael Wagner and Stephen McAdams 
+
+**Intentional Instrumentation in Debussy’s Trio for Flute, Viola, and Harp**</br>
+Ash Mach
+
+**Influence of frequency modulations on the recognition of vocals and instruments**</br>
+Michel Bürgel and Kai Siedenburg
+
+**Live in Atlanta: Listening to Black Popular Music Performances in Concert**</br>
+Danielle Davis
+
+**Timbre Semantics of the Singing Voice**</br>
+Theodora Nestorova, Kit Soden, J. Marchand Knight and Lindsey Reymore
+
+**Connecting spectromorphological principles in acousmatic music to a database of sonic gestures for timbre research: problems and prospects**</br>
+Hubert Ho
+
+**Timbral simulation with a string quartet**</br>
+Jonas Regnier and Robert Hasegawa
+
+**Identifying mechanisms through which music can influence wine appreciation**</br>
+Asterios Zacharakis
+
+</div>
 
 ### Sessions & Tutorials
 {style="color: #8E44AD "}
 
-| Authors                                                          | Title                                                                   |
-| ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| Cyrus Vahidi and Vincent Lostanlen                               | Neurophysiological simulation for digital audio effects                 |
-| Mike D'Errico                                                    | The Akai MPC and the Ghosts in the Hip-Hop Machine                      |
-| Eric Smialek and Pierre-Luc Senécal                              | Methods for Analyzing, Composing, and Arranging for Extreme Metal Choir |
-| Jason Noble, Takuto Fukuda, Caroline Traube and Zachary Wallmark | Exploring the Semantics of “Timbre-Textures” with Granular Synthesis    |
+<div style="line-height: normal"></br>
+
+**Neurophysiological simulation for digital audio effects** </br>
+Cyrus Vahidi and Vincent Lostanlen
+
+**The Akai MPC and the Ghosts in the Hip-Hop Machine** </br>
+Mike D'Errico
+
+**Methods for Analyzing, Composing, and Arranging for Extreme Metal Choir** </br>
+Eric Smialek and Pierre-Luc Senécal
+
+**Exploring the Semantics of “Timbre-Textures” with Granular Synthesis** </br>
+Jason Noble, Takuto Fukuda, Caroline Traube and Zachary Wallmark
+
+</div>
 
 <!-- <div class="schedule-pg">
 
