@@ -1303,7 +1303,7 @@ font-weight:normal;overflow:hidden;padding:10px 9px;word-break:normal;}
 &lt;th colspan="4">&lt;b>Important Information&lt;/b>&lt;/th>
 &lt;/tr>
 &lt;tr>
-&lt;td colspan="4">For each regular, work in progress, demo, and session/ tutorial submission, **at least one author must register&lt;/b> (Regular or Student&lt;sup>&amp;dagger;&lt;/sup> registration) by the Early Bird deadline. Accepted submissions without an appropriate registration will be withdrawn from the program and proceedings.&lt;/br>
+&lt;td colspan="4">For each regular, work in progress, demo, and session/ tutorial submission, &lt;b>at least one author must register&lt;/b> (Regular or Student&lt;sup>&amp;dagger;&lt;/sup> registration) by the Early Bird deadline. Accepted submissions without an appropriate registration will be withdrawn from the program and proceedings.&lt;/br>
 &lt;sup>&amp;dagger;&lt;/sup>Conference only or Summer School registration &lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -1317,11 +1317,23 @@ font-weight:normal;overflow:hidden;padding:10px 9px;word-break:normal;}
 &lt;th colspan="4">&lt;b>Payment Information&lt;/b>&lt;/th>
 &lt;/tr>
 &lt;tr>
-&lt;td colspan="4">
-&lt;ul>
-&lt;li>Paying through **credit/debit card**: use the following link [https://rc.auth.gr/en/conference/159](https://rc.auth.gr/en/conference/159).&lt;/li>
-&lt;li>Paying through **wire transfer**: use the banking information below and _send the transfer receipt to_ **[aszachar@mus.auth.gr](mailto:aszachar@mus.auth.gr)** _to have your registration confirmed_.&lt;/li>
-&lt;/ul>
+&lt;td colspan="4">To pay through &lt;b>credit/debit card&lt;/b>, please use the following link: &lt;a href="https://rc.auth.gr/en/conference/159">https://rc.auth.gr/en/conference/159&lt;/a>. &lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td colspan="4">To pay through &lt;b>wire transfer&lt;/b>, please use the banking information below and &lt;i>send the transfer receipt to&lt;/i> &lt;a href="mailto:aszachar@mus.auth.gr">aszachar@mus.auth.gr&lt;/a> &lt;i>to have your registration confirmed&lt;/i>. &lt;/br>&lt;/br>
+&lt;b>Name and address of account holder&lt;/b>&lt;/br>
+EIDIKOS LOGARIASMOS KONDILION EREVNAS A.P.TH. &lt;/br>
+KE.D.E.A. – TRITIS SEPTEMVRIOU UNIVERSITY CAMPUS &lt;/br>
+546 36 THESSALONIKI GREECE &lt;/br>&lt;/br>
+&lt;b>Name and address of bank branch&lt;/b>&lt;/br>
+PIRAEUS BANK S.A. &lt;/br>
+AGGELAKI, THESSALONIKI BRANCH &lt;/br>
+18 AGGELAKI Str. &lt;/br>
+546 21 THESSALONIKI GREECE &lt;/br>&lt;/br>
+&lt;b>Bank account number:&lt;/b> 5202-002079-933&lt;/br>
+&lt;b>IBAN:&lt;/b> GR 98 0172 2020 0052 0200 2079 933&lt;/br>
+&lt;b>BIC (SWIFT Address):&lt;/b> PIRBGRAΑ &lt;/br>
+Currency code: Euro
 &lt;/td>
 &lt;/tr>
 &lt;/tbody>
