@@ -115,7 +115,7 @@ projects: []
     <th colspan="4"><b>Important Information</b></th>
   </tr>
   <tr>
-    <td colspan="4">For each regular, work in progress, demo, and session/ tutorial submission, **at least one author must register</b> (Regular or Student<sup>&dagger;</sup> registration) by the Early Bird deadline. Accepted submissions without an appropriate registration will be withdrawn from the program and proceedings.</br>
+    <td colspan="4">For each regular, work in progress, demo, and session/ tutorial submission, <b>at least one author must register</b> (Regular or Student<sup>&dagger;</sup> registration) by the Early Bird deadline. Accepted submissions without an appropriate registration will be withdrawn from the program and proceedings.</br>
       <sup>&dagger;</sup>Conference only or Summer School registration </td>
   </tr>
    <tr>
@@ -129,13 +129,25 @@ projects: []
     <th colspan="4"><b>Payment Information</b></th>
   </tr>
   <tr>
-    <td colspan="4">
-      <ul>
-        <li>Paying through **credit/debit card**: use the following link [https://rc.auth.gr/en/conference/159](https://rc.auth.gr/en/conference/159).</li>
-        <li>Paying through **wire transfer**: use the banking information below and _send the transfer receipt to_ **[aszachar@mus.auth.gr](mailto:aszachar@mus.auth.gr)** _to have your registration confirmed_.</li>
-      </ul>
-  </td>
-   </tr>
+    <td colspan="4">To pay through <b>credit/debit card</b>, please use the following link: <a href="https://rc.auth.gr/en/conference/159">https://rc.auth.gr/en/conference/159</a>. </td>
+  </tr>
+  <tr>
+    <td colspan="4">To pay through <b>wire transfer</b>, please use the banking information below and <i>send the transfer receipt to</i> <a href="mailto:aszachar@mus.auth.gr">aszachar@mus.auth.gr</a> <i>to have your registration confirmed</i>. </br></br>
+   <b>Name and address of account holder</b></br>
+    EIDIKOS LOGARIASMOS KONDILION EREVNAS A.P.TH. </br>
+    KE.D.E.A. – TRITIS SEPTEMVRIOU UNIVERSITY CAMPUS </br>
+    546 36 THESSALONIKI GREECE </br></br>
+   <b>Name and address of bank branch</b></br>
+    PIRAEUS BANK S.A. </br>
+    AGGELAKI, THESSALONIKI BRANCH </br>
+    18 AGGELAKI Str. </br>
+    546 21 THESSALONIKI GREECE </br></br>
+    <b>Bank account number:</b> 5202-002079-933</br>
+    <b>IBAN:</b> GR 98 0172 2020 0052 0200 2079 933</br>
+    <b>BIC (SWIFT Address):</b> PIRBGRAΑ </br>
+    Currency code: Euro
+    </td>
+  </tr>    
 </tbody>
 </table></div>
 
