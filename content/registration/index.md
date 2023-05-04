@@ -142,6 +142,7 @@ projects: []
     <b>Bank account number:</b> 5202-002079-933</br>
     <b>IBAN:</b> GR 98 0172 2020 0052 0200 2079 933</br>
     <b>BIC (SWIFT Address):</b> PIRBGRAΑ </br>
+    <b>Payment Reference:</b> please use the number 75727 to easily identify the purpose of the transaction
     Currency code: Euro
     </td>
   </tr>    
