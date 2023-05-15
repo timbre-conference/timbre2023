@@ -29,10 +29,60 @@ image:
 projects: []
 ---
 
+Below is an overview of the schedule. The full conference program is coming soon!
 
-Below is the list of accepted submissions. The full conference program is coming soon!
+<div class="schedule-pg">
 
-### Accepted Papers
+## Monday July 10
+
+|     Time      |                             Activity                              |
+| :-----------: | :---------------------------------------------------------------: |
+|  8:00 - 9:00  |                           Registration                            |
+|  9:00 - 9:30  |                          Opening Remarks                          |
+| 9:30 - 10:30  |                 Keynote: Nina Sun Eidsheim, UCLA                  |
+| 10:30 - 10:45 |                           Coffee Break                            |
+| 10:45 - 11:45 |                   Oral session: Psychoacoustics                   |
+| 11:45 - 13:15 |                            Lunch Break                            |
+| 13:15 - 14:00 | Tutorial: Neurophysiological simulation for digital audio effects |
+| 14:00 - 14:45 |                 Poster session: Work in Progress                  |
+| 14:45 - 15:00 |                           Coffee Break                            |
+| 15:00 - 16:00 |              Oral session: Singing voive and speech               |
+| 16:00 - 16:45 |   Tutorial: The Akai MPC and the Ghosts in the Hip-Hop Machine    |
+
+## Tuesday July 11
+
+|     Time      |                                     Activity                                      |
+| :-----------: | :-------------------------------------------------------------------------------: |
+|  8:00 - 9:00  |                                   Registration                                    |
+| 9:00 - 10:00  |                       Keynote: Jesse Engel, Google Research                       |
+| 10:00 - 10:45 |                           Oral session: Cross-Modality                            |
+| 10:45 - 11:00 |                                   Coffee Break                                    |
+| 11:00 - 11:45 | Tutorial: Methods for Analyzing, Composing, and Arranging for Extreme Metal Choir |
+| 11:45 - 13:15 |                                    Lunch Break                                    |
+| 13:15 - 14:15 |                    Keynote: Charles Spence, Oxford University                     |
+| 14:15 - 15:15 |           Oral session: Ethno-musicological and Historical Perspectives           |
+| 15:15 - 15:30 |                                   Coffee Break                                    |
+| 15:30 - 16:15 |  Tutorial: Exploring the Semantics of "Timbre Textures" with Granular Synthesis   |
+| 16:00 - 16:45 |                                  Poster session                                   |
+
+## Wednesday July 12
+
+|     Time      |                     Activity                      |
+| :-----------: | :-----------------------------------------------: |
+|  8:00 - 9:00  |                   Registration                    |
+| 9:00 - 10:00  |   Keynote: Makis Solomos, Paris VIII University   |
+| 10:00 - 10:45 |                  Poster session                   |
+| 10:45 - 11:00 |                   Coffee Break                    |
+| 11:00 - 12:00 |      Oral session: Music Analysis and Theory      |
+| 12:00 - 13:30 |                    Lunch Break                    |
+| 13:30 - 14:30 |            Oral session: Orchestration            |
+| 14:30 - 16:00 | Timbre and Orchestration Summer School Roundtable |
+| 16:00 - 16:15 |                  Closing Remarks                  |
+
+</div>
+
+## Accepted Papers
+
 {style="color: #8E44AD "}
 
 <div style="line-height: normal"></br>
@@ -44,7 +94,7 @@ Jason Winikoff
 Linglan Zhu and Stephen McAdams
 
 **Scent of a timbre: cross-modal correspondences between synthetic timbres and essential oil aromas** </br>
-Asterios Zacharakis, Ioulia Michail and Konstantinos Pastiadis                     
+Asterios Zacharakis, Ioulia Michail and Konstantinos Pastiadis
 
 **“Beautiful Tone, Beautiful Heart”: Shinichi Suzuki and the Timbres of Childhood** </br>
 Lindsay Wright
@@ -80,10 +130,10 @@ Ingrid Pustijanac
 Yifan Huang and Stephen McAdams
 
 **The Timbral Origins of Musical Affect**</br>
-Iza Korsmit, Marcel Montrey, Alix Wong-Min and Stephen McAdams                      
+Iza Korsmit, Marcel Montrey, Alix Wong-Min and Stephen McAdams
 
 **The dark and bright side of musical instrument sounds: auditory brightness emerging from spectral envelope statistics and its interaction with fundamental frequency**</br>
-Simon Jacobsen and Kai Siedenburg 
+Simon Jacobsen and Kai Siedenburg
 
 **When ChatGPT Talks Timbre**</br>
 Charalampos Saitis and Kai Siedenburg
@@ -101,22 +151,22 @@ Jennifer LeBlanc
 Adam Garrow and Marcus Pearce
 
 **Pitch and Timbre Interactions in Dynamically Varying Complex Tones** </br>
-Ryan Anderson, Yi Shen and William Shofner                                          
+Ryan Anderson, Yi Shen and William Shofner
 
 **Vocal Production, Mimetic Engagement, and Social Media in Bedroom Pop** </br>
 Alyssa Barna and Caroline McLaughlin
 
 **A Machine Learning Approach to Automatic Timbre Assessment in Violin Performance** </br>
-Rafael Ramirez, Sergio Giraldo and George Waddell 
+Rafael Ramirez, Sergio Giraldo and George Waddell
 
 **Acoustic and musical features influencing listeners' perception of affective intentions** </br>
-Lena Heng, Claire Wei and Stephen Mcadams 
+Lena Heng, Claire Wei and Stephen Mcadams
 
 **The Interaction of Pitch, Timbre, and Visual Bias in Voice Categorization by Cis and Trans Listeners** </br>
 Jay Marchand Knight and Mickael Deroche
 
 **The Viola da Terra as Metaphor: Post-Colonial Sonorities of Azorean Saudade** </br>
-Abigail Lindo 
+Abigail Lindo
 
 **Playing Style Affects Steel-String Acoustic Guitar Timbre** </br>
 Jackson Loth, Adrien Mamou-Mani and Mathieu Barthet
@@ -128,7 +178,7 @@ Jiaxin Li, David John Baker, John Ashley Burgoyne and Henkjan Honing
 Ivan Jimenez, Tuire Kuusi, Juha Ojala, Isabella Czedik-Eysenberg and Christoph Reuter
 
 **Timbre Issues in the Performance of Partiels by Gérard Grisey: An Empirical Study** </br>
-Nathalie Hérold 
+Nathalie Hérold
 
 **Perceived Pleasantness of Instruments in the Lower Registers** </br>
 Noam Amir, Lee Tirza, Sahar Alkaslassy, Noga Dagan and Shahar Meltz
@@ -143,10 +193,10 @@ Martin Scherzinger
 James Renwick
 
 **Timbre or colour? Semantic considerations in German and French music treatises of the early 20th century** </br>
-Mathieu Schneider                                                                   
+Mathieu Schneider
 
 **Investigating cone to cylinder transition in wind instruments using physical modelling** </br>
-Vasileios Chatziioannou 
+Vasileios Chatziioannou
 
 **Cross-domain Illusion in Hans Abrahamsen's 'Schnee' (2008), Canons 2a and 2b**</br>
 Christopher Goddard
@@ -184,6 +234,7 @@ Yan Chen and Peter Pfordresher
 </div>
 
 ### Work in Progress
+
 {style="color: #8E44AD "}
 
 <div style="line-height: normal"></br>
@@ -198,7 +249,7 @@ Ivan Meresman Higgs
 Han Han and Cixian Lu
 
 **The Role of Timbre in Parsing the Acoustic Stream** </br>
-Joshua Rosner, Michael Wagner and Stephen McAdams 
+Joshua Rosner, Michael Wagner and Stephen McAdams
 
 **Intentional Instrumentation in Debussy’s Trio for Flute, Viola, and Harp**</br>
 Ash Mach
@@ -224,6 +275,7 @@ Asterios Zacharakis
 </div>
 
 ### Sessions & Tutorials
+
 {style="color: #8E44AD "}
 
 <div style="line-height: normal"></br>
