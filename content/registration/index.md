@@ -119,7 +119,7 @@ projects: []
     <td colspan="4">Students (Conference only) receive a discount and must send a proof of their student status by email to <a href="mailto:aszachar@mus.auth.gr">aszachar@mus.auth.gr</a>.</td>
   </tr>
   <tr>
-    <td colspan="4">More information on sponsoring registration tiers is provided <a href="calls/cfs/">here</a>.
+    <td colspan="4">More information on sponsoring registration tiers is provided <a href="https://timbreconference.org/timbre2023/cfs/">here</a>.
     </td>
   </tr>
   <tr>
