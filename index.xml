@@ -1413,70 +1413,112 @@ Currency code: Euro
 &lt;/div></description></item><item><title>Schedule</title><link>https://timbre-conference.github.io/timbre2023/schedule/</link><pubDate>Thu, 05 May 2022 16:46:46 -0400</pubDate><guid>https://timbre-conference.github.io/timbre2023/schedule/</guid><description>&lt;p>Below is an overview of the schedule. The full conference program is coming soon!&lt;/p>
 &lt;div class="schedule-pg">
 &lt;h3 id="day-1-monday-july-10">Day 1, Monday, July 10&lt;/h3>
-&lt;p>| :&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; | :&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; |
-| 08:30 | &lt;strong>Registration&lt;/strong> |
-| 09:00 | &lt;strong>Opening Remarks&lt;/strong> |
-| 09:30 | &lt;strong>Keynote:&lt;/strong> Nina Sun Eidsheim (University of California Los Angeles) |
-| 10:30 | Coffee Break (provided) |
-| 10:45 | &lt;strong>Oral session:&lt;/strong> Psychoacoustics |
-| 11:45 | Lunch Break (provided) |
-| 13:15 | &lt;strong>Tutorial:&lt;/strong> Neurophysiological simulation for digital audio effects |
-| 14:00 | &lt;strong>Poster session:&lt;/strong> Work in Progress |
-| 14:45 | Coffee Break (provided) |
-| 15:00 | &lt;strong>Oral session:&lt;/strong> Singing voice and speech |
-| 16:00 | &lt;strong>Tutorial:&lt;/strong> The Akai MPC and the Ghosts in the Hip-Hop Machine |&lt;/p>
-&lt;h3 id="day-2-tuesday-july-11">Day 2, Tuesday, July 11&lt;/h3>
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th style="text-align:center">Time&lt;/th>
-&lt;th style="text-align:center">Activity&lt;/th>
+&lt;th style="text-align:left">&lt;/th>
+&lt;th style="text-align:left">&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td style="text-align:center">8:00 - 9:00&lt;/td>
-&lt;td style="text-align:center">Registration&lt;/td>
+&lt;td style="text-align:left">08:00&lt;/td>
+&lt;td style="text-align:left">Registration&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">9:00 - 10:00&lt;/td>
-&lt;td style="text-align:center">Keynote: Jesse Engel, Google Research&lt;/td>
+&lt;td style="text-align:left">09:00&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Opening Remarks&lt;/strong>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">10:00 - 10:45&lt;/td>
-&lt;td style="text-align:center">Oral session: Cross-Modality&lt;/td>
+&lt;td style="text-align:left">09:30&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Keynote:&lt;/strong> Nina Sun Eidsheim (University of California Los Angeles)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">10:45 - 11:00&lt;/td>
-&lt;td style="text-align:center">Coffee Break&lt;/td>
+&lt;td style="text-align:left">10:30&lt;/td>
+&lt;td style="text-align:left">Coffee Break (provided)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">11:00 - 11:45&lt;/td>
-&lt;td style="text-align:center">Tutorial: Methods for Analyzing, Composing, and Arranging for Extreme Metal Choir&lt;/td>
+&lt;td style="text-align:left">10:45&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Oral session:&lt;/strong> Psychoacoustics&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">11:45 - 13:15&lt;/td>
-&lt;td style="text-align:center">Lunch Break&lt;/td>
+&lt;td style="text-align:left">11:45&lt;/td>
+&lt;td style="text-align:left">Lunch Break (provided)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">13:15 - 14:15&lt;/td>
-&lt;td style="text-align:center">Keynote: Charles Spence, Oxford University&lt;/td>
+&lt;td style="text-align:left">13:15&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Tutorial:&lt;/strong> Neurophysiological simulation for digital audio effects&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">14:15 - 15:15&lt;/td>
-&lt;td style="text-align:center">Oral session: Ethno-musicological and Historical Perspectives&lt;/td>
+&lt;td style="text-align:left">14:00&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Poster session:&lt;/strong> Work in Progress&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">15:15 - 15:30&lt;/td>
-&lt;td style="text-align:center">Coffee Break&lt;/td>
+&lt;td style="text-align:left">14:45&lt;/td>
+&lt;td style="text-align:left">Coffee Break (provided)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">15:30 - 16:15&lt;/td>
-&lt;td style="text-align:center">Tutorial: Exploring the Semantics of &amp;ldquo;Timbre Textures&amp;rdquo; with Granular Synthesis&lt;/td>
+&lt;td style="text-align:left">15:00&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Oral session:&lt;/strong> Singing voice and speech&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">16:00 - 16:45&lt;/td>
-&lt;td style="text-align:center">Poster session&lt;/td>
+&lt;td style="text-align:left">16:00&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Tutorial:&lt;/strong> The Akai MPC and the Ghosts in the Hip-Hop Machine&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="day-2-tuesday-july-11">Day 2, Tuesday, July 11&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:left">&lt;/th>
+&lt;th style="text-align:left">&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:left">08:30&lt;/td>
+&lt;td style="text-align:left">Registration&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">09:00&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Keynote:&lt;/strong> Jesse Engel (Google Research)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">10:00&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Oral session:&lt;/strong> Cross-modality and semantics&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">10:45&lt;/td>
+&lt;td style="text-align:left">Coffee Break (provided)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">11:00&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Tutorial:&lt;/strong> Methods for Analyzing, Composing, and Arranging for Extreme Metal Choir&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">11:45&lt;/td>
+&lt;td style="text-align:left">Lunch Break (provided)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">13:15&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Keynote:&lt;/strong> Charles Spence (University of Oxford)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">14:15&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Oral session:&lt;/strong> Ethno-musicological and historical perspectives&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">15:15&lt;/td>
+&lt;td style="text-align:left">Coffee Break (provided)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">15:30&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Tutorial:&lt;/strong> Exploring the Semantics of &amp;ldquo;Timbre Textures&amp;rdquo; with Granular Synthesis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">16:00&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Poster session&lt;/strong>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -1484,46 +1526,46 @@ Currency code: Euro
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th style="text-align:center">Time&lt;/th>
-&lt;th style="text-align:center">Activity&lt;/th>
+&lt;th style="text-align:left">&lt;/th>
+&lt;th style="text-align:left">&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td style="text-align:center">8:00 - 9:00&lt;/td>
-&lt;td style="text-align:center">Registration&lt;/td>
+&lt;td style="text-align:left">08:30&lt;/td>
+&lt;td style="text-align:left">Registration&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">9:00 - 10:00&lt;/td>
-&lt;td style="text-align:center">Keynote: Makis Solomos, Paris VIII University&lt;/td>
+&lt;td style="text-align:left">09:00&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Keynote:&lt;/strong> Makis Solomos (University Paris 8)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">10:00 - 10:45&lt;/td>
-&lt;td style="text-align:center">Poster session&lt;/td>
+&lt;td style="text-align:left">10:00&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Poster session&lt;/strong>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">10:45 - 11:00&lt;/td>
-&lt;td style="text-align:center">Coffee Break&lt;/td>
+&lt;td style="text-align:left">10:45&lt;/td>
+&lt;td style="text-align:left">Coffee Break (provided)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">11:00 - 12:00&lt;/td>
-&lt;td style="text-align:center">Oral session: Music Analysis and Theory&lt;/td>
+&lt;td style="text-align:left">11:00&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Oral session:&lt;/strong> Music analysis and theory&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">12:00 - 13:30&lt;/td>
-&lt;td style="text-align:center">Lunch Break&lt;/td>
+&lt;td style="text-align:left">12:00&lt;/td>
+&lt;td style="text-align:left">Lunch Break (provided)&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">13:30 - 14:30&lt;/td>
-&lt;td style="text-align:center">Oral session: Orchestration&lt;/td>
+&lt;td style="text-align:left">13:30&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Oral session:&lt;/strong> Orchestration and composition&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">14:30 - 16:00&lt;/td>
-&lt;td style="text-align:center">Timbre and Orchestration Summer School Roundtable&lt;/td>
+&lt;td style="text-align:left">14:30&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Conference and Summer School Roundtable&lt;/strong>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td style="text-align:center">16:00 - 16:15&lt;/td>
-&lt;td style="text-align:center">Closing Remarks&lt;/td>
+&lt;td style="text-align:left">16:00&lt;/td>
+&lt;td style="text-align:left">&lt;strong>Closing Remarks&lt;/strong>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
