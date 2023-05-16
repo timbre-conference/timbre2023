@@ -224,7 +224,6 @@ Yan Chen and Peter Pfordresher
 </div>
 
 ### Work in Progress
-
 {style="color: #8E44AD "}
 
 <div style="line-height: normal"></br>
