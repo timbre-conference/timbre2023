@@ -62,9 +62,9 @@ Below is an overview of the schedule. The full conference program is coming soon
 | 15:15  |  Coffee Break (provided) |
 | 15:30  |  **Tutorial:** Exploring the Semantics of "Timbre Textures" with Granular Synthesis   |
 | 16:00  |  **Poster session**  |
-| 17:00  |  Social event |
-| 18:00  |  Welcome reception |
-| 19:00  |  Concert |
+| 17:00  |  "Crossmodal" social event |
+| 18:00  |  **Welcome reception** |
+| 19:00  |  **Concert** |
 | 21:00  |  Conference dinner (not provided) |
 
 ### Day 3, Wednesday, July 12
