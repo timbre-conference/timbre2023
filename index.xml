@@ -1416,8 +1416,8 @@ Currency code: Euro
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th>&lt;div style="width:115px">&lt;/div>&lt;/th>
-&lt;th>&lt;div style="width:700px">&lt;/div>&lt;/th>
+&lt;th>&lt;div style="width:100px">&lt;/div>&lt;/th>
+&lt;th>&lt;div style="width:720px">&lt;/div>&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
@@ -1451,7 +1451,7 @@ Currency code: Euro
 &lt;/tr>
 &lt;tr>
 &lt;td>14:00&lt;/td>
-&lt;td>&lt;strong>Poster session:&lt;/strong> Work in Progress&lt;/td>
+&lt;td>&lt;strong>&lt;span style="color:Crimson">Poster session:&lt;/span>&lt;/strong> Work in Progress&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>14:45&lt;/td>
@@ -1471,8 +1471,8 @@ Currency code: Euro
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th>&lt;div style="width:115px">&lt;/div>&lt;/th>
-&lt;th>&lt;div style="width:700px">&lt;/div>&lt;/th>
+&lt;th>&lt;div style="width:100px">&lt;/div>&lt;/th>
+&lt;th>&lt;div style="width:720px">&lt;/div>&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
@@ -1518,7 +1518,7 @@ Currency code: Euro
 &lt;/tr>
 &lt;tr>
 &lt;td>16:00&lt;/td>
-&lt;td>&lt;strong>Poster session&lt;/strong>&lt;/td>
+&lt;td>&lt;strong>&lt;span style="color:Crimson">Poster session:&lt;/span>&lt;/strong>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>17:00&lt;/td>
@@ -1542,8 +1542,8 @@ Currency code: Euro
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th>&lt;div style="width:115px">&lt;/div>&lt;/th>
-&lt;th>&lt;div style="width:700px">&lt;/div>&lt;/th>
+&lt;th>&lt;div style="width:100px">&lt;/div>&lt;/th>
+&lt;th>&lt;div style="width:720px">&lt;/div>&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
@@ -1557,7 +1557,7 @@ Currency code: Euro
 &lt;/tr>
 &lt;tr>
 &lt;td>10:00&lt;/td>
-&lt;td>&lt;strong>Poster session&lt;/strong>&lt;/td>
+&lt;td>&lt;strong>&lt;span style="color:Crimson">Poster session:&lt;/span>&lt;/strong>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>10:45&lt;/td>
