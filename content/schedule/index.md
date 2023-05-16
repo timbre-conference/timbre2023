@@ -33,23 +33,22 @@ Below is an overview of the schedule. The full conference program is coming soon
 
 <div class="schedule-pg">
 
-## Monday July 10
+### Day 1, Monday, July 10
 
-|     Time      |                             Activity                              |
-| :-----------: | :---------------------------------------------------------------: |
-|  8:00 - 9:00  |                           Registration                            |
-|  9:00 - 9:30  |                          Opening Remarks                          |
-| 9:30 - 10:30  |                 Keynote: Nina Sun Eidsheim, UCLA                  |
-| 10:30 - 10:45 |                           Coffee Break                            |
-| 10:45 - 11:45 |                   Oral session: Psychoacoustics                   |
-| 11:45 - 13:15 |                            Lunch Break                            |
-| 13:15 - 14:00 | Tutorial: Neurophysiological simulation for digital audio effects |
-| 14:00 - 14:45 |                 Poster session: Work in Progress                  |
-| 14:45 - 15:00 |                           Coffee Break                            |
-| 15:00 - 16:00 |              Oral session: Singing voice and speech               |
-| 16:00 - 16:45 |   Tutorial: The Akai MPC and the Ghosts in the Hip-Hop Machine    |
+| :----------- | :--------------------------------------------------------------- |
+| 08:30   |                           **Registration**                            |
+| 09:00   |                          **Opening Remarks**                          |
+| 09:30   |                 **Keynote:** Nina Sun Eidsheim (University of California Los Angeles)            |
+| 10:30  |                           Coffee Break (provided)                            |
+| 10:45  |                   **Oral session:** Psychoacoustics                   |
+| 11:45  |                            Lunch Break (provided)                            |
+| 13:15  | **Tutorial:** Neurophysiological simulation for digital audio effects |
+| 14:00  |                 **Poster session:** Work in Progress                  |
+| 14:45  |                           Coffee Break (provided)                            |
+| 15:00  |              **Oral session:** Singing voice and speech               |
+| 16:00  |   **Tutorial:** The Akai MPC and the Ghosts in the Hip-Hop Machine    |
 
-## Tuesday July 11
+### Day 2, Tuesday, July 11
 
 |     Time      |                                     Activity                                      |
 | :-----------: | :-------------------------------------------------------------------------------: |
@@ -65,7 +64,7 @@ Below is an overview of the schedule. The full conference program is coming soon
 | 15:30 - 16:15 |  Tutorial: Exploring the Semantics of "Timbre Textures" with Granular Synthesis   |
 | 16:00 - 16:45 |                                  Poster session                                   |
 
-## Wednesday July 12
+### Day 3, Wednesday, July 12
 
 |     Time      |                     Activity                      |
 | :-----------: | :-----------------------------------------------: |
