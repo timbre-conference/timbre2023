@@ -46,7 +46,7 @@ Below is an overview of the schedule. The full conference program is coming soon
 | 13:15 - 14:00 | Tutorial: Neurophysiological simulation for digital audio effects |
 | 14:00 - 14:45 |                 Poster session: Work in Progress                  |
 | 14:45 - 15:00 |                           Coffee Break                            |
-| 15:00 - 16:00 |              Oral session: Singing voive and speech               |
+| 15:00 - 16:00 |              Oral session: Singing voice and speech               |
 | 16:00 - 16:45 |   Tutorial: The Akai MPC and the Ghosts in the Hip-Hop Machine    |
 
 ## Tuesday July 11

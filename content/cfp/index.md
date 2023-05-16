@@ -41,6 +41,7 @@ resources:
 **The [submission portal](https://easychair.org/my/conference?conf=timbre2023) is now open.**
 
 ### Important Dates
+
 {style="color: #8E44AD "}
 
 All deadlines are Anywhere on Earth (AoE) UTC -12.
@@ -49,9 +50,10 @@ All deadlines are Anywhere on Earth (AoE) UTC -12.
 - ~~Deadline Extension: 24 February 2023~~ </br>
 - ~~Notification of Acceptance: 31 March 2023~~ </br>
 - ~~Camera-ready (updated and/or extendend versions): 30 April 2023~~ </br>
-- **Camera-ready (updated and/or extendend versions) Extension**: 7 May 2023
+- ~~**Camera-ready (updated and/or extendend versions) Extension**: 7 May 2023~~
 
 ### Potential Topics
+
 {style="color: #8E44AD "}
 
 Contributions are encouraged in, but not limited to, the following topics:
@@ -80,6 +82,7 @@ Contributions are encouraged in, but not limited to, the following topics:
 </div>
 
 ### Submission Types
+
 {style="color: #8E44AD "}
 
 Timbre 2023 invites submissions in one of the following formats:
@@ -113,6 +116,7 @@ All submissions will be peer-reviewed by at least two members of the program com
 Please contact the <a href="mailto:caetano@prism.cnrs.fr,zwallmar@uoregon.edu">Programme Chairs</a> should you have any questions.
 
 ### Environmental Statement
+
 {style="color: #8E44AD "}
 
 The steering committee of the International Conference on Timbre and the Timbre 2023 local chairs are committed to lessening the environmental impact of the conference. We pledge to offset/ compensate for at least a portion of the carbon footprint generated as a result of the conference's activity (e.g., air travel, physical infrastructure) by investing a possible surplus of the budget in initiatives such as [Eden Reforestation Projects](https://www.edenprojects.org/) or [Co2 Compensate](https://www.co2compensate.org/home), or other similar schemes.
