@@ -34,7 +34,7 @@ Below is an overview of the schedule. The full conference program is coming soon
 <!-- <div class="schedule-pg"> -->
 
 ### Day 1, Monday, July 10
-| <div style="width:115px"></div> | <div style="width:700px"></div> |
+| <div style="width:100px"></div> | <div style="width:720px"></div> |
 | ---- | ---- |
 | 08:00  |  Registration |
 | 09:00  |  **<span style="color:ForestGreen">Opening Remarks</span>**  |
@@ -43,13 +43,13 @@ Below is an overview of the schedule. The full conference program is coming soon
 | 10:45  |  **<span style="color:#8E44AD">Oral session:</span>** Psychoacoustics |
 | 11:45  |  Lunch Break (provided) |
 | 13:15  |  **<span style="color:darkorange">Tutorial:</span>** Neurophysiological simulation for digital audio effects |
-| 14:00  |  **Poster session:** Work in Progress  |
+| 14:00  |  **<span style="color:Crimson">Poster session:</span>** Work in Progress  |
 | 14:45  |  Coffee Break (provided) |
 | 15:00  |  **<span style="color:#8E44AD">Oral session:</span>** Singing voice and speech   |
 | 16:00  |  **<span style="color:darkorange">Tutorial:</span>** The Akai MPC and the Ghosts in the Hip-Hop Machine    |
 
 ### Day 2, Tuesday, July 11
-| <div style="width:115px"></div> | <div style="width:700px"></div> |
+| <div style="width:100px"></div> | <div style="width:720px"></div> |
 | ---- | ---- |
 | 08:30  |  Registration  |
 | 09:00  |  **Keynote:** Jesse Engel (Google Research) |
@@ -61,18 +61,18 @@ Below is an overview of the schedule. The full conference program is coming soon
 | 14:15  |  **<span style="color:#8E44AD">Oral session:</span>** Ethno-musicological and historical perspectives |
 | 15:15  |  Coffee Break (provided) |
 | 15:30  |  **<span style="color:darkorange">Tutorial:</span>** Exploring the Semantics of "Timbre Textures" with Granular Synthesis   |
-| 16:00  |  **Poster session**  |
+| 16:00  |  **<span style="color:Crimson">Poster session:</span>**  |
 | 17:00  |  "Crossmodal" social event |
 | 18:00  |  **Welcome reception** |
 | 19:00  |  **Concert** |
 | 21:00  |  Conference dinner (not provided) |
 
 ### Day 3, Wednesday, July 12
-| <div style="width:115px"></div> | <div style="width:700px"></div> |
+| <div style="width:100px"></div> | <div style="width:720px"></div> |
 | ---- | ---- |
 | 08:30  |  Registration  |
 | 09:00  |  **Keynote:** Makis Solomos (University Paris 8) |
-| 10:00  |  **Poster session** |
+| 10:00  |  **<span style="color:Crimson">Poster session:</span>** |
 | 10:45  |  Coffee Break (provided) |
 | 11:00  |  **<span style="color:#8E44AD">Oral session:</span>** Music analysis and theory  |
 | 12:00  |  Lunch Break (provided)  |
