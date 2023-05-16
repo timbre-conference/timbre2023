@@ -1570,7 +1570,7 @@ Currency code: Euro
 &lt;/tbody>
 &lt;/table>
 &lt;/div>
-&lt;h2 id="accepted-papers">Accepted Papers&lt;/h2>
+&lt;h3 id="accepted-papers" style="color: #8E44AD ">Accepted Papers&lt;/h3>
 &lt;div style="line-height: normal">&lt;/br>
 &lt;p>&lt;strong>Kutanga, Mujimbu, and the Orchestration of Events Amongst the Luvale of Zambia&lt;/strong> &lt;/br>
 Jason Winikoff&lt;/p>
@@ -1638,8 +1638,6 @@ Nathalie Hérold&lt;/p>
 Noam Amir, Lee Tirza, Sahar Alkaslassy, Noga Dagan and Shahar Meltz&lt;/p>
 &lt;p>&lt;strong>Expanding a Taxonomy of Instrumental Grouping Effects to Align with Contemporary Musical Practices&lt;/strong> &lt;/br>
 Yuval Adler&lt;/p>
-&lt;p>&lt;strong>Timbral Illusions (A Reflection on the Limits of Materialism Today)&lt;/strong> &lt;/br>
-Martin Scherzinger&lt;/p>
 &lt;p>&lt;strong>Anton Reicha’s Fugal Orchestration: A Historical Model of Orchestration Techniques&lt;/strong> &lt;/br>
 James Renwick&lt;/p>
 &lt;p>&lt;strong>Timbre or colour? Semantic considerations in German and French music treatises of the early 20th century&lt;/strong> &lt;/br>
@@ -1654,14 +1652,10 @@ Micael Antunes, Mylène Gioffredo, Javier Elipe Gimeno, Charles de Paiva, Sølvi
 Richard Drehoff&lt;/p>
 &lt;p>&lt;strong>Sensing Makam: A Timbre-Oriented Study on Turkish Makam Music&lt;/strong>&lt;/br>
 Ebru Yazici and Ozan Baysal&lt;/p>
-&lt;p>&lt;strong>Ethereality and Timbre in Higdon’s blue cathedral and City Scape&lt;/strong>&lt;/br>
-Laura Dallmn&lt;/p>
 &lt;p>&lt;strong>Decoding Modulations in Ripple Spectra by Gradient Descent&lt;/strong>&lt;/br>
 Cyrus Vahidi, Han Han, Vincent Lostanlen, Gyorgy Fazekas and Mathieu Lagrange&lt;/p>
 &lt;p>&lt;strong>How “vocal” is instrumental music?&lt;/strong>&lt;/br>
 Jason Noble, Louis Goldford, Gabriel Couturier, Theodora Nestorova, Jay Marchand Knight and Caroline Traube&lt;/p>
-&lt;p>&lt;strong>Timbre within a Sound Continuum: The Tripartite Relationship between Timbre, Structure and Texture&lt;/strong>&lt;/br>
-Marina Sudo&lt;/p>
 &lt;p>&lt;strong>Modifying Partials for Minimum-Roughness Sound Synthesis&lt;/strong>&lt;/br>
 Simon Schwär, Meinard Mueller and Sebastian J. Schlecht&lt;/p>
 &lt;p>&lt;strong>There is Inharmonicity and Inharmonicity&lt;/strong>&lt;/br>
@@ -1694,7 +1688,7 @@ Jonas Regnier and Robert Hasegawa&lt;/p>
 &lt;p>&lt;strong>Identifying mechanisms through which music can influence wine appreciation&lt;/strong>&lt;/br>
 Asterios Zacharakis&lt;/p>
 &lt;/div>
-&lt;h3 id="sessions--tutorials">Sessions &amp;amp; Tutorials&lt;/h3>
+&lt;h3 id="sessions--tutorials" style="color: #8E44AD ">Sessions &amp;amp; Tutorials&lt;/h3>
 &lt;div style="line-height: normal">&lt;/br>
 &lt;p>&lt;strong>Neurophysiological simulation for digital audio effects&lt;/strong> &lt;/br>
 Cyrus Vahidi and Vincent Lostanlen&lt;/p>
