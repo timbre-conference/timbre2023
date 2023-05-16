@@ -35,53 +35,51 @@ Below is an overview of the schedule. The full conference program is coming soon
 
 ### Day 1, Monday, July 10
 |           |                                           |
-| :----------- | :------------------------------------------------------------------------------- |
-| 08:00  |                           Registration                            |
-| 09:00  |                          **Opening Remarks**                          |
-| 09:30  |                 **Keynote:** Nina Sun Eidsheim (University of California Los Angeles)            |
-| 10:30  |                           Coffee Break (provided)                            |
-| 10:45  |                   **Oral session:** Psychoacoustics                   |
-| 11:45  |                            Lunch Break (provided)                            |
-| 13:15  | **Tutorial:** Neurophysiological simulation for digital audio effects |
-| 14:00  |                 **Poster session:** Work in Progress                  |
-| 14:45  |                           Coffee Break (provided)                            |
-| 15:00  |              **Oral session:** Singing voice and speech               |
-| 16:00  |   **Tutorial:** The Akai MPC and the Ghosts in the Hip-Hop Machine    |
+| :----- | :------------------------------------------------------------------------------------- |
+| 08:00  |  Registration |
+| 09:00  |  **Opening Remarks**  |
+| 09:30  |  **Keynote:** Nina Sun Eidsheim (University of California Los Angeles) |
+| 10:30  |  Coffee Break (provided) |
+| 10:45  |  **Oral session:** Psychoacoustics |
+| 11:45  |  Lunch Break (provided) |
+| 13:15  |  **Tutorial:** Neurophysiological simulation for digital audio effects |
+| 14:00  |  **Poster session:** Work in Progress  |
+| 14:45  |  Coffee Break (provided) |
+| 15:00  |  **Oral session:** Singing voice and speech   |
+| 16:00  |  **Tutorial:** The Akai MPC and the Ghosts in the Hip-Hop Machine    |
 
 ### Day 2, Tuesday, July 11
-
 |           |                                           |
-| :----------- | :------------------------------------------------------------------------------- |
-| 08:30  |                                   Registration                                    |
-| 09:00  |                       **Keynote:** Jesse Engel (Google Research)                       |
-| 10:00  |                           **Oral session:** Cross-modality and semantics                           |
-| 10:45  |                                   Coffee Break (provided)                                  |
-| 11:00  | **Tutorial:** Methods for Analyzing, Composing, and Arranging for Extreme Metal Choir |
-| 11:45  |                                    Lunch Break (provided)                                     |
-| 13:15  |                    **Keynote:** Charles Spence (University of Oxford)                     |
-| 14:15  |           **Oral session:** Ethno-musicological and historical perspectives           |
-| 15:15  |                                   Coffee Break (provided)                                     |
+| :----- | :------------------------------------------------------------------------------------- |
+| 08:30  |  Registration  |
+| 09:00  |  **Keynote:** Jesse Engel (Google Research) |
+| 10:00  |  **Oral session:** Cross-modality and semantics  |
+| 10:45  |  Coffee Break (provided) |
+| 11:00  |  **Tutorial:** Methods for Analyzing, Composing, and Arranging for Extreme Metal Choir |
+| 11:45  |  Lunch Break (provided) |
+| 13:15  |  **Keynote:** Charles Spence (University of Oxford)  |
+| 14:15  |  **Oral session:** Ethno-musicological and historical perspectives |
+| 15:15  |  Coffee Break (provided) |
 | 15:30  |  **Tutorial:** Exploring the Semantics of "Timbre Textures" with Granular Synthesis   |
-| 16:00  |                               **Poster session**                                   |
-| 17:00  | Social event |
-| 18:00  | Welcome reception |
-| 19:00  | Concert |
-| 21:00  | Conference dinner (not provided) |
+| 16:00  |  **Poster session**  |
+| 17:00  |  Social event |
+| 18:00  |  Welcome reception |
+| 19:00  |  Concert |
+| 21:00  |  Conference dinner (not provided) |
 
 ### Day 3, Wednesday, July 12
-
 |           |                                           |
-| :----------- | :------------------------------------------------------------------------------- |
-| 08:30  |                   Registration                    |
-| 09:00  |   **Keynote:** Makis Solomos (University Paris 8)   |
-| 10:00  |                  **Poster session**                   |
-| 10:45  |                   Coffee Break (provided)                     |
-| 11:00  |      **Oral session:** Music analysis and theory      |
-| 12:00  |                    Lunch Break (provided)                     |
-| 13:30  |            **Oral session:** Orchestration and composition            |
-| 14:30  | **Conference and Summer School Roundtable** |
-| 16:00  |                  **Closing Remarks**                  |
-| 16:30  | Adjournment |
+| :----- | :------------------------------------------------------------------------------------- |
+| 08:30  |  Registration  |
+| 09:00  |  **Keynote:** Makis Solomos (University Paris 8) |
+| 10:00  |  **Poster session** |
+| 10:45  |  Coffee Break (provided) |
+| 11:00  |  **Oral session:** Music analysis and theory  |
+| 12:00  |  Lunch Break (provided)  |
+| 13:30  |  **Oral session:** Orchestration and composition |
+| 14:30  |  **Conference and Summer School Roundtable** |
+| 16:00  |  **Closing Remarks**  |
+| 16:30  |  Adjournment |
 
 </div>
 
