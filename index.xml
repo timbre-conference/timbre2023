@@ -1520,6 +1520,22 @@ Currency code: Euro
 &lt;td style="text-align:left">16:00&lt;/td>
 &lt;td style="text-align:left">&lt;strong>Poster session&lt;/strong>&lt;/td>
 &lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">17:00&lt;/td>
+&lt;td style="text-align:left">Social event&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">18:00&lt;/td>
+&lt;td style="text-align:left">Welcome reception&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">19:00&lt;/td>
+&lt;td style="text-align:left">Concert&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">21:00&lt;/td>
+&lt;td style="text-align:left">Conference dinner (not provided)&lt;/td>
+&lt;/tr>
 &lt;/tbody>
 &lt;/table>
 &lt;h3 id="day-3-wednesday-july-12">Day 3, Wednesday, July 12&lt;/h3>
@@ -1566,6 +1582,10 @@ Currency code: Euro
 &lt;tr>
 &lt;td style="text-align:left">16:00&lt;/td>
 &lt;td style="text-align:left">&lt;strong>Closing Remarks&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">16:30&lt;/td>
+&lt;td style="text-align:left">Adjournment&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
