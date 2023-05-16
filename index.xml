@@ -1427,7 +1427,7 @@ Currency code: Euro
 &lt;/tr>
 &lt;tr>
 &lt;td>09:00&lt;/td>
-&lt;td>&lt;strong>&lt;span style="color:limegreen">Opening Remarks&lt;/span>&lt;/strong>&lt;/td>
+&lt;td>&lt;strong>&lt;span style="color:ForestGreen">Opening Remarks&lt;/span>&lt;/strong>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>09:30&lt;/td>
@@ -1439,7 +1439,7 @@ Currency code: Euro
 &lt;/tr>
 &lt;tr>
 &lt;td>10:45&lt;/td>
-&lt;td>&lt;strong>Oral session:&lt;/strong> Psychoacoustics&lt;/td>
+&lt;td>&lt;strong>&lt;span style="color:#8E44AD">Oral session:&lt;/span>&lt;/strong> Psychoacoustics&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>11:45&lt;/td>
@@ -1447,7 +1447,7 @@ Currency code: Euro
 &lt;/tr>
 &lt;tr>
 &lt;td>13:15&lt;/td>
-&lt;td>&lt;strong>&lt;span style="color:deeporange">Tutorial:&lt;/span>&lt;/strong> Neurophysiological simulation for digital audio effects&lt;/td>
+&lt;td>&lt;strong>&lt;span style="color:darkorange">Tutorial:&lt;/span>&lt;/strong> Neurophysiological simulation for digital audio effects&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>14:00&lt;/td>
@@ -1459,11 +1459,11 @@ Currency code: Euro
 &lt;/tr>
 &lt;tr>
 &lt;td>15:00&lt;/td>
-&lt;td>&lt;strong>Oral session:&lt;/strong> Singing voice and speech&lt;/td>
+&lt;td>&lt;strong>&lt;span style="color:#8E44AD">Oral session:&lt;/span>&lt;/strong> Singing voice and speech&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>16:00&lt;/td>
-&lt;td>&lt;strong>&lt;span style="color:deeporange">Tutorial:&lt;/span>&lt;/strong> The Akai MPC and the Ghosts in the Hip-Hop Machine&lt;/td>
+&lt;td>&lt;strong>&lt;span style="color:darkorange">Tutorial:&lt;/span>&lt;/strong> The Akai MPC and the Ghosts in the Hip-Hop Machine&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -1486,7 +1486,7 @@ Currency code: Euro
 &lt;/tr>
 &lt;tr>
 &lt;td>10:00&lt;/td>
-&lt;td>&lt;strong>Oral session:&lt;/strong> Cross-modality and semantics&lt;/td>
+&lt;td>&lt;strong>&lt;span style="color:#8E44AD">Oral session:&lt;/span>&lt;/strong> Cross-modality and semantics&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>10:45&lt;/td>
@@ -1494,7 +1494,7 @@ Currency code: Euro
 &lt;/tr>
 &lt;tr>
 &lt;td>11:00&lt;/td>
-&lt;td>&lt;strong>Tutorial:&lt;/strong> Methods for Analyzing, Composing, and Arranging for Extreme Metal Choir&lt;/td>
+&lt;td>&lt;strong>&lt;span style="color:darkorange">Tutorial:&lt;/span>&lt;/strong> Methods for Analyzing, Composing, and Arranging for Extreme Metal Choir&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>11:45&lt;/td>
@@ -1506,7 +1506,7 @@ Currency code: Euro
 &lt;/tr>
 &lt;tr>
 &lt;td>14:15&lt;/td>
-&lt;td>&lt;strong>Oral session:&lt;/strong> Ethno-musicological and historical perspectives&lt;/td>
+&lt;td>&lt;strong>&lt;span style="color:#8E44AD">Oral session:&lt;/span>&lt;/strong> Ethno-musicological and historical perspectives&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>15:15&lt;/td>
@@ -1514,7 +1514,7 @@ Currency code: Euro
 &lt;/tr>
 &lt;tr>
 &lt;td>15:30&lt;/td>
-&lt;td>&lt;strong>Tutorial:&lt;/strong> Exploring the Semantics of &amp;ldquo;Timbre Textures&amp;rdquo; with Granular Synthesis&lt;/td>
+&lt;td>&lt;strong>&lt;span style="color:darkorange">Tutorial:&lt;/span>&lt;/strong> Exploring the Semantics of &amp;ldquo;Timbre Textures&amp;rdquo; with Granular Synthesis&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>16:00&lt;/td>
@@ -1565,7 +1565,7 @@ Currency code: Euro
 &lt;/tr>
 &lt;tr>
 &lt;td>11:00&lt;/td>
-&lt;td>&lt;strong>Oral session:&lt;/strong> Music analysis and theory&lt;/td>
+&lt;td>&lt;strong>&lt;span style="color:#8E44AD">Oral session:&lt;/span>&lt;/strong> Music analysis and theory&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>12:00&lt;/td>
@@ -1573,7 +1573,7 @@ Currency code: Euro
 &lt;/tr>
 &lt;tr>
 &lt;td>13:30&lt;/td>
-&lt;td>&lt;strong>Oral session:&lt;/strong> Orchestration and composition&lt;/td>
+&lt;td>&lt;strong>&lt;span style="color:#8E44AD">Oral session:&lt;/span>&lt;/strong> Orchestration and composition&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>14:30&lt;/td>
@@ -1581,7 +1581,7 @@ Currency code: Euro
 &lt;/tr>
 &lt;tr>
 &lt;td>16:00&lt;/td>
-&lt;td>&lt;strong>Closing Remarks&lt;/strong>&lt;/td>
+&lt;td>&lt;strong>&lt;span style="color:ForestGreen">Closing Remarks&lt;/span>&lt;/strong>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>16:30&lt;/td>
@@ -1590,6 +1590,7 @@ Currency code: Euro
 &lt;/tbody>
 &lt;/table>
 &lt;!-- &lt;/div> -->
+&lt;hr>
 &lt;h3 id="accepted-papers" style="color: #8E44AD ">Accepted Papers&lt;/h3>
 &lt;div style="line-height: normal">&lt;/br>
 &lt;p>&lt;strong>Kutanga, Mujimbu, and the Orchestration of Events Amongst the Luvale of Zambia&lt;/strong> &lt;/br>
