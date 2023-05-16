@@ -34,22 +34,22 @@ Below is an overview of the schedule. The full conference program is coming soon
 <!-- <div class="schedule-pg"> -->
 
 ### Day 1, Monday, July 10
-| <div style="width:135px"></div> | <div style="width:680px"></div> |
+| <div style="width:115px"></div> | <div style="width:700px"></div> |
 | ---- | ---- |
 | 08:00  |  Registration |
-| 09:00  |  **Opening Remarks**  |
+| 09:00  |  **<span style="color:limegreen">Opening Remarks</span>**  |
 | 09:30  |  **Keynote:** Nina Sun Eidsheim (University of California Los Angeles) |
 | 10:30  |  Coffee Break (provided) |
 | 10:45  |  **Oral session:** Psychoacoustics |
 | 11:45  |  Lunch Break (provided) |
-| 13:15  |  **Tutorial:** Neurophysiological simulation for digital audio effects |
+| 13:15  |  **<span style="color:deeporange">Tutorial:</span>** Neurophysiological simulation for digital audio effects |
 | 14:00  |  **Poster session:** Work in Progress  |
 | 14:45  |  Coffee Break (provided) |
 | 15:00  |  **Oral session:** Singing voice and speech   |
-| 16:00  |  **Tutorial:** The Akai MPC and the Ghosts in the Hip-Hop Machine    |
+| 16:00  |  **<span style="color:deeporange">Tutorial:</span>** The Akai MPC and the Ghosts in the Hip-Hop Machine    |
 
 ### Day 2, Tuesday, July 11
-| <div style="width:135px"></div> | <div style="width:680px"></div> |
+| <div style="width:115px"></div> | <div style="width:700px"></div> |
 | ---- | ---- |
 | 08:30  |  Registration  |
 | 09:00  |  **Keynote:** Jesse Engel (Google Research) |
@@ -68,7 +68,7 @@ Below is an overview of the schedule. The full conference program is coming soon
 | 21:00  |  Conference dinner (not provided) |
 
 ### Day 3, Wednesday, July 12
-| <div style="width:135px"></div> | <div style="width:680px"></div> |
+| <div style="width:115px"></div> | <div style="width:700px"></div> |
 | ---- | ---- |
 | 08:30  |  Registration  |
 | 09:00  |  **Keynote:** Makis Solomos (University Paris 8) |
