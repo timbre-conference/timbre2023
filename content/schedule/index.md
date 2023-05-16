@@ -31,11 +31,11 @@ projects: []
 
 Below is an overview of the schedule. The full conference program is coming soon!
 
-<div class="schedule-pg">
+<!-- <div class="schedule-pg"> -->
 
 ### Day 1, Monday, July 10
-|           |                                           |
-| :----- | :------------------------------------------------------------------------------------- |
+| <div style="width:135px"></div> | <div style="width:680px"></div> |
+| ---- | ---- |
 | 08:00  |  Registration |
 | 09:00  |  **Opening Remarks**  |
 | 09:30  |  **Keynote:** Nina Sun Eidsheim (University of California Los Angeles) |
@@ -49,8 +49,8 @@ Below is an overview of the schedule. The full conference program is coming soon
 | 16:00  |  **Tutorial:** The Akai MPC and the Ghosts in the Hip-Hop Machine    |
 
 ### Day 2, Tuesday, July 11
-|           |                                           |
-| :----- | :------------------------------------------------------------------------------------- |
+| <div style="width:135px"></div> | <div style="width:680px"></div> |
+| ---- | ---- |
 | 08:30  |  Registration  |
 | 09:00  |  **Keynote:** Jesse Engel (Google Research) |
 | 10:00  |  **Oral session:** Cross-modality and semantics  |
@@ -68,8 +68,8 @@ Below is an overview of the schedule. The full conference program is coming soon
 | 21:00  |  Conference dinner (not provided) |
 
 ### Day 3, Wednesday, July 12
-|           |                                           |
-| :----- | :------------------------------------------------------------------------------------- |
+| <div style="width:135px"></div> | <div style="width:680px"></div> |
+| ---- | ---- |
 | 08:30  |  Registration  |
 | 09:00  |  **Keynote:** Makis Solomos (University Paris 8) |
 | 10:00  |  **Poster session** |
@@ -81,7 +81,7 @@ Below is an overview of the schedule. The full conference program is coming soon
 | 16:00  |  **Closing Remarks**  |
 | 16:30  |  Adjournment |
 
-</div>
+<!-- </div> -->
 
 ### Accepted Papers
 {style="color: #8E44AD "}
