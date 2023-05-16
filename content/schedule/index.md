@@ -81,8 +81,7 @@ Below is an overview of the schedule. The full conference program is coming soon
 
 </div>
 
-## Accepted Papers
-
+### Accepted Papers
 {style="color: #8E44AD "}
 
 <div style="line-height: normal"></br>
@@ -186,9 +185,6 @@ Noam Amir, Lee Tirza, Sahar Alkaslassy, Noga Dagan and Shahar Meltz
 **Expanding a Taxonomy of Instrumental Grouping Effects to Align with Contemporary Musical Practices** </br>
 Yuval Adler
 
-**Timbral Illusions (A Reflection on the Limits of Materialism Today)** </br>
-Martin Scherzinger
-
 **Anton Reicha’s Fugal Orchestration: A Historical Model of Orchestration Techniques** </br>
 James Renwick
 
@@ -210,17 +206,11 @@ Richard Drehoff
 **Sensing Makam: A Timbre-Oriented Study on Turkish Makam Music**</br>
 Ebru Yazici and Ozan Baysal
 
-**Ethereality and Timbre in Higdon’s blue cathedral and City Scape**</br>
-Laura Dallmn
-
 **Decoding Modulations in Ripple Spectra by Gradient Descent**</br>
 Cyrus Vahidi, Han Han, Vincent Lostanlen, Gyorgy Fazekas and Mathieu Lagrange
 
 **How “vocal” is instrumental music?**</br>
 Jason Noble, Louis Goldford, Gabriel Couturier, Theodora Nestorova, Jay Marchand Knight and Caroline Traube
-
-**Timbre within a Sound Continuum: The Tripartite Relationship between Timbre, Structure and Texture**</br>
-Marina Sudo
 
 **Modifying Partials for Minimum-Roughness Sound Synthesis**</br>
 Simon Schwär, Meinard Mueller and Sebastian J. Schlecht
@@ -275,7 +265,6 @@ Asterios Zacharakis
 </div>
 
 ### Sessions & Tutorials
-
 {style="color: #8E44AD "}
 
 <div style="line-height: normal"></br>
