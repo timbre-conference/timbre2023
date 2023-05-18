@@ -27,7 +27,8 @@ design:
 <!-- ![logo](logos/sshrc.png) -->
 
 # Bronze Sponsors
-
+<br/>
+  
 |![c4dm](logos/c4dm.png)| 
 | :---: |
 
