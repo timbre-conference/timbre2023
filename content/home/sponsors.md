@@ -7,7 +7,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Partners & Sponsors
+title: Partners
 
 design:
   columns: "1"
@@ -19,8 +19,16 @@ design:
 # css_class: fullscreen
 ---
 
+<div align="center">
+
 |![logo](logos/logo1.png)|![logo](logos/logo-en.svg)|![telog](logos/logo5.png)|![actor](logos/logo4.png)| ![qmul](logos/qmul.png)|![uol](logos/logo3b.png)| 
 | :---: | :---: | :---: | :---: | :---: |:---: |
 
-|![c4dm](logos/c4dm.png) | ![logo](logos/sshrc.png) | | | | |
-| :---: | :---: | :---: | :---: | :---: |:---: |
+<!-- ![logo](logos/sshrc.png) -->
+
+# Bronze Sponsors
+
+|![c4dm](logos/c4dm.png)| 
+| :---: |
+
+</div>
