@@ -141,6 +141,9 @@ Simon Jacobsen and Kai Siedenburg
 **When ChatGPT Talks Timbre**</br>
 Charalampos Saitis and Kai Siedenburg
 
+**When NIME and ISMIR Talk Timbre**</br>
+Charalampos Saitis, Maryam F. Torshizi, Vjosa Preniqi, Bleiz M. Del Sette and György Fazekas
+
 **Network Analysis of Instrumentation in Timbral Augmentation Blends**</br>
 Corinne Darche, Ichiro Fujinaga and Stephen McAdams
 
