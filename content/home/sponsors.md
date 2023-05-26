@@ -21,8 +21,11 @@ design:
 
 <div align="center">
 
-|![logo](logos/logo1.png)|![logo](logos/logo-en.svg)|![telog](logos/logo5.png)|![actor](logos/logo4.png)| ![qmul](logos/qmul.png)|![uol](logos/logo3b.png)| 
-| :---: | :---: | :---: | :---: | :---: |:---: |
+|![logo](logos/logo1.png)|![logo](logos/logo-en.svg)|![telog](logos/logo5.png)|
+| :---: | :---: | :---: |
+  
+|![actor](logos/logo4.png)|![logo](logos/Schulich.png)|![qmul](logos/qmul.png)|![uol](logos/logo3b.png)| 
+| :---: | :---: | :---: | :---: |
 
 <!-- ![logo](logos/sshrc.png) -->
 
