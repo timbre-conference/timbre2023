@@ -26,7 +26,7 @@ design:
   
 | <div style="width:190px"></div> | <div style="width:190px"></div> | <div style="width:190px"></div> | <div style="width:190px"></div> |
 | :---: | :---: | :---: | :---: |
-|![actor](logos/logo4.png)|![uol](logos/Schulich.png)|![qmul](logos/qmul.png)|![uol](logos/logo3b.png)| 
+|![actor](logos/logo4.png)|![schu](logos/Schulich.png)|![qmul](logos/qmul.png)|![uol](logos/logo3b.png)| 
 
 
 <!-- ![logo](logos/sshrc.png) -->
