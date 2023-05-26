@@ -29,7 +29,7 @@ design:
 # Bronze Sponsors
 <br/>
   
-|![c4dm](logos/c4dm.png)| Prof Stephen McAdams |
-| :---: | :---: |
+|![c4dm](logos/c4dm.png)| | Stephen McAdams |
+| :---: | :---: | :---: |
 
 </div>
