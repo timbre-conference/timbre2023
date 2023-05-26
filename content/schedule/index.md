@@ -29,7 +29,7 @@ image:
 projects: []
 ---
 
-Below is an overview of the schedule. The full conference program is coming soon!
+Below is an overview of the schedule. The conference schedule <a href="./doc/Ataglance.pdf" >at-a-glace</a> is available. The full conference program is coming soon!
 
 <!-- <div class="schedule-pg"> -->
 
