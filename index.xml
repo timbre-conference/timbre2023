@@ -1410,7 +1410,7 @@ Currency code: Euro
 &lt;a data-fancybox="gallery-travel" href="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/travel/thess8.jpeg" >
 &lt;img src="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/travel/thess8_hu914d480369d8e822a3b631de7141c8c4_4239473_450x275_resize_q75_lanczos.jpeg" loading="lazy" alt="thess8.jpeg" width="450" height="275">
 &lt;/a>
-&lt;/div></description></item><item><title>Schedule</title><link>https://timbre-conference.github.io/timbre2023/schedule/</link><pubDate>Thu, 05 May 2022 16:46:46 -0400</pubDate><guid>https://timbre-conference.github.io/timbre2023/schedule/</guid><description>&lt;p>Below is an overview of the schedule. The conference schedule &lt;a href="./doc/Ataglance.pdf" >at-a-glace&lt;/a> is available. The full conference program is coming soon!&lt;/p>
+&lt;/div></description></item><item><title>Schedule</title><link>https://timbre-conference.github.io/timbre2023/schedule/</link><pubDate>Thu, 05 May 2022 16:46:46 -0400</pubDate><guid>https://timbre-conference.github.io/timbre2023/schedule/</guid><description>&lt;p>Below is an overview of the schedule. The full &lt;a href="./doc/Timbre_2023_Program.pdf" >conference schedule&lt;/a> is available.&lt;/p>
 &lt;!-- &lt;div class="schedule-pg"> -->
 &lt;h3 id="day-1-monday-july-10">Day 1, Monday, July 10&lt;/h3>
 &lt;table>
@@ -1591,7 +1591,7 @@ Currency code: Euro
 &lt;/table>
 &lt;!-- &lt;/div> -->
 &lt;hr>
-&lt;h3 id="accepted-papers" style="color: #8E44AD ">Accepted Papers&lt;/h3>
+&lt;h3 id="accepted-papers">Accepted Papers&lt;/h3>
 &lt;div style="line-height: normal">&lt;/br>
 &lt;p>&lt;strong>Kutanga, Mujimbu, and the Orchestration of Events Amongst the Luvale of Zambia&lt;/strong> &lt;/br>
 Jason Winikoff&lt;/p>
@@ -1686,7 +1686,7 @@ Luca Danieli and Matthias Frank&lt;/p>
 &lt;p>&lt;strong>The role of timbre in pitch perception and imitation&lt;/strong>&lt;/br>
 Yan Chen and Peter Pfordresher&lt;/p>
 &lt;/div>
-&lt;h3 id="work-in-progress" style="color: #8E44AD ">Work in Progress&lt;/h3>
+&lt;h3 id="work-in-progress">Work in Progress&lt;/h3>
 &lt;div style="line-height: normal">&lt;/br>
 &lt;p>&lt;strong>Choreographing Orchestration: A Novel Method for Analyzing Orchestral Timbre through Ballet&lt;/strong> &lt;/br>
 Rebecca Moranis&lt;/p>
@@ -1711,7 +1711,7 @@ Jonas Regnier and Robert Hasegawa&lt;/p>
 &lt;p>&lt;strong>Identifying mechanisms through which music can influence wine appreciation&lt;/strong>&lt;/br>
 Asterios Zacharakis&lt;/p>
 &lt;/div>
-&lt;h3 id="sessions--tutorials" style="color: #8E44AD ">Sessions &amp;amp; Tutorials&lt;/h3>
+&lt;h3 id="sessions--tutorials">Sessions &amp;amp; Tutorials&lt;/h3>
 &lt;div style="line-height: normal">&lt;/br>
 &lt;p>&lt;strong>Neurophysiological simulation for digital audio effects&lt;/strong> &lt;/br>
 Cyrus Vahidi and Vincent Lostanlen&lt;/p>
