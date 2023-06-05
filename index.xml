@@ -1237,28 +1237,52 @@ font-weight:normal;overflow:hidden;padding:10px 9px;word-break:normal;}
 &lt;thead>
 &lt;tr>
 &lt;th>&lt;b>Registration Categories&lt;/b>&lt;/th>
-&lt;th>&lt;b>Early Bird fee&lt;/b>&lt;/th>
+&lt;th>&lt;b>&lt;s>Early Bird fee&lt;/s>&lt;/b>&lt;/th>
 &lt;th>&lt;b>Full fee&lt;/b>&lt;/th>
 &lt;th>&lt;b>Onsite fee&lt;/b>&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>&lt;b>Regular&lt;/b> (Conference only)&lt;/td>
-&lt;td>€250&lt;/td>
+&lt;td>&lt;b>Regular&lt;/b> (Conference only, all Days)&lt;/td>
+&lt;td>&lt;s>€250&lt;/s>&lt;/td>
 &lt;td>€300&lt;/td>
 &lt;td>€350&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;b>Student&lt;/b> (Conference only)&lt;/td>
-&lt;td>€150&lt;/td>
+&lt;td>&lt;b>Regular&lt;/b> (Conference only, Days 1 or 3 only)&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>€100&lt;/td>
+&lt;td>€120&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;b>Regular&lt;/b> (Conference only, Day 2 only)&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>€120&lt;/td>
+&lt;td>€140&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;b>Student&lt;/b> (Conference only, all Days)&lt;/td>
+&lt;td>&lt;s>€150&lt;/s>&lt;/td>
 &lt;td>€200&lt;/td>
 &lt;td>€250&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;b>Student&lt;/b> (Summer School, includes conference)&lt;/td>
+&lt;td>&lt;b>Student&lt;/b> (Conference only, Days 1 or 3 only)&lt;/td>
 &lt;td>&lt;/td>
-&lt;td>€300&lt;/td>
+&lt;td>€60&lt;/td>
+&lt;td>€80&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;b>Student&lt;/b> (Conference only, Day 2 only)&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>€80&lt;/td>
+&lt;td>€100&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;s>&lt;b>Student&lt;/b> (Summer School, includes conference)&lt;/s>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;s>€300&lt;/s>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -1283,12 +1307,12 @@ font-weight:normal;overflow:hidden;padding:10px 9px;word-break:normal;}
 &lt;th colspan="4">&lt;b>Important Dates&lt;/b>&lt;/th>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;b>Full Registration&lt;/b> (Summer School students only)&lt;/td>
-&lt;td colspan="3">1 March - 30 April 2023&lt;/td>
+&lt;td>&lt;s>&lt;b>Full Registration&lt;/b> (Summer School students only)&lt;/s>&lt;/td>
+&lt;td colspan="3">&lt;s>1 March - 30 April 2023&lt;/s>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;b>Early Bird Registration&lt;/b> (Conference only)&lt;/td>
-&lt;td colspan="3">1 April - 14 May 2023 &lt;/td>
+&lt;td>&lt;s>&lt;b>Early Bird Registration&lt;/b> (Conference only)&lt;/s>&lt;/td>
+&lt;td colspan="3">&lt;s>1 April - 14 May 2023&lt;/s>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;b>Full Registration&lt;/b> (Conference only)&lt;/td>
