@@ -47,28 +47,52 @@ projects: []
 <thead>
   <tr>
     <th><b>Registration Categories</b></th>
-    <th><b>Early Bird fee</b></th>
+    <th><b><s>Early Bird fee</s></b></th>
     <th><b>Full fee</b></th>
     <th><b>Onsite fee</b></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><b>Regular</b> (Conference only)</td>
-    <td>€250</td>
+    <td><b>Regular</b> (Conference only, all Days)</td>
+    <td><s>€250</s></td>
     <td>€300</td>
     <td>€350</td>
   </tr>
+   <tr>
+    <td><b>Regular</b> (Conference only, Days 1 or 3 only)</td>
+    <td></td>
+    <td>€100</td>
+    <td>€120</td>
+  </tr>
+   <tr>
+    <td><b>Regular</b> (Conference only, Day 2 only)</td>
+    <td></td>
+    <td>€120</td>
+    <td>€140</td>
+  </tr>
   <tr>
-    <td><b>Student</b> (Conference only)</td>
-    <td>€150</td>
+    <td><b>Student</b> (Conference only, all Days)</td>
+    <td><s>€150</s></td>
     <td>€200</td>
     <td>€250</td>
   </tr>
-  <tr>
-    <td><b>Student</b> (Summer School, includes conference)</td>
+   <tr>
+    <td><b>Student</b> (Conference only, Days 1 or 3 only)</td>
     <td></td>
-    <td>€300</td>
+    <td>€60</td>
+    <td>€80</td>
+  </tr>
+   <tr>
+    <td><b>Student</b> (Conference only, Day 2 only)</td>
+    <td></td>
+    <td>€80</td>
+    <td>€100</td>
+  </tr>
+  <tr>
+    <td><s><b>Student</b> (Summer School, includes conference)</s></td>
+    <td></td>
+    <td><s>€300</s></td>
     <td></td>
   </tr>
   <tr>
@@ -93,12 +117,12 @@ projects: []
     <th colspan="4"><b>Important Dates</b></th>
   </tr>
   <tr>
-    <td><b>Full Registration</b> (Summer School students only)</td>
-    <td colspan="3">1 March - 30 April 2023</td>
+    <td><s><b>Full Registration</b> (Summer School students only)</s></td>
+    <td colspan="3"><s>1 March - 30 April 2023</s></td>
   </tr>
   <tr>
-    <td><b>Early Bird Registration</b> (Conference only)</td>
-    <td colspan="3">1 April - 14 May 2023 </td>
+    <td><s><b>Early Bird Registration</b> (Conference only)</s></td>
+    <td colspan="3"><s>1 April - 14 May 2023</s></td>
   </tr>
   <tr>
     <td><b>Full Registration</b> (Conference only)</td>
