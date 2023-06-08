@@ -5,3 +5,8 @@
 /resources/
 public/
 assets/jsconfig.json
+
+# General preferences
+# Ignore folders at the same level as the .gitignore file that start with _
+# This will effectively ignore the _aux folder, which contains auxiliary files not intended to be commited
+/_*/
