@@ -30,8 +30,7 @@ design:
 
 | <div style="width:250px"></div> | <div style="width:250px"></div> | <div style="width:250px"></div> |
 | :---: | :---: | :---: |
-| ![schu](logos/seikilo-upperlogo2.jpeg) | ![actor](logos/Gerovassiliou.png) | ![schu](logos/thesstour2.jpeg) |  
-|  |  | #visitthessaloniki |
+| ![schu](logos/seikilo-upperlogo2.png) | ![actor](logos/Gerovassiliou.png) | ![schu](logos/thesstour2.jpeg) |  
 
 <!-- ![logo](logos/sshrc.png) -->
 
