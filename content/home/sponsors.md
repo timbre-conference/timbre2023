@@ -30,7 +30,7 @@ design:
 
 | <div style="width:250px"></div> | <div style="width:250px"></div> | <div style="width:250px"></div> |
 | :---: | :---: | :---: |
-| ![schu](logos/seikilo-upperlogo2.png) | ![actor](logos/Gerovassiliou.png) | ![schu](logos/thesstour2.jpeg) |  
+| ![schu](logos/seikilo-upperlogo2.png) | ![actor](logos/Gerovassiliou.png) | ![actor](logos/thesstour2.png) |  
 
 <!-- ![logo](logos/sshrc.png) -->
 
