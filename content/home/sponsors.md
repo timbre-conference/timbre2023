@@ -28,9 +28,9 @@ design:
 | :---: | :---: | :---: | :---: |
 |![actor](logos/logo4.png)|![schu](logos/Schulich.png)|![qmul](logos/qmul.png)|![uol](logos/logo3b.png)| 
 
-| <div style="width:190px"></div> | <div style="width:190px"></div> | <div style="width:190px"></div> |
+| <div style="width:250px"></div> | <div style="width:250px"></div> | <div style="width:250px"></div> |
 | :---: | :---: | :---: |
-| ![logo](logos/seikilo.png) | ![logo](logos/Gerovassiliou.png) | ![logo](logos/thessaloniki-logo-white.png) |  
+| ![schu](logos/seikilo.jpeg) | ![actor](logos/Gerovassiliou.png) | ![schu](logos/thesstour2.png) |  
 
 
 <!-- ![logo](logos/sshrc.png) -->
@@ -42,7 +42,7 @@ design:
 | :---: | :---: | :---: |
 
 # Silver Sponsor
-![logo](logos/DustBowl.png)
+![actor](logos/DustBowl.png)
 <br/>
   
 </div>
