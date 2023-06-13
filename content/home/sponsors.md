@@ -28,6 +28,10 @@ design:
 | :---: | :---: | :---: | :---: |
 |![actor](logos/logo4.png)|![schu](logos/Schulich.png)|![qmul](logos/qmul.png)|![uol](logos/logo3b.png)| 
 
+| <div style="width:190px"></div> | <div style="width:190px"></div> | <div style="width:190px"></div> |
+| :---: | :---: | :---: |
+| ![logo](logos/seikilo.png) | ![logo](logos/Gerovassiliou.png) | ![logo](logos/thessaloniki-logo-white.png) |  
+
 
 <!-- ![logo](logos/sshrc.png) -->
 
@@ -37,4 +41,8 @@ design:
 |![c4dm](logos/c4dm.png)| | Stephen McAdams |
 | :---: | :---: | :---: |
 
+# Silver Sponsor
+![logo](logos/DustBowl.png)
+<br/>
+  
 </div>
