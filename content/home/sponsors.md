@@ -28,16 +28,16 @@ design:
 | :---: | :---: | :---: | :---: |
 |![actor](logos/logo4.png)|![schu](logos/Schulich.png)|![qmul](logos/qmul.png)|![uol](logos/logo3b.png)| 
 
-| <div style="width:250px"></div> | <div style="width:250px"></div> | <div style="width:250px"></div> |
-| :---: | :---: | :---: |
-| ![schu](logos/seikilo-upperlogo2.png) | ![actor](logos/Gerovassiliou.png) | ![actor](logos/thesstour2.png) |  
+| <div style="width:250px"></div> | <div style="width:250px"></div> | <div style="width:50px"></div> | <div style="width:250px"></div> |
+| :---: | :---: | :---: | :---: |
+| ![schu](logos/seikilo-upperlogo2.png) | ![actor](logos/Gerovassiliou.png) | | ![actor](logos/thesstour2.png) |  
 
 <!-- ![logo](logos/sshrc.png) -->
 
 # Bronze Sponsors
 <br/>
   
-|![c4dm](logos/c4dm.png)| | Stephen McAdams |
+  |![c4dm](logos/c4dm.png)| | <div style="color:red">Stephen McAdams</div> |
 | :---: | :---: | :---: |
 
 # Silver Sponsor
