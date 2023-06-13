@@ -29,25 +29,33 @@ image:
 projects: []
 ---
 
+You will find below a list of daily social activities planned during the **Summer School** and also during the **Timbre 2023 Conference**. Besides these programmed daily activities, there is also the possibility to book a private hands-on ancient Greek lyre workshop on any day _before_, _during_, or _after_ the conference. This is **not** part of the social program and should be arranged separately by the participants by contacting [Seikilo](mailto:info@seikilo.com) directly to book an available time slot.
+
+This one-hour workshop will begin by taking a closer look at the sound and aesthetics of a reconstructed ancient Greek lyre and on the music system of antiquity in general. It will proceed with a hands-on lyre playing of the “Epitaph of Seikilos”, the oldest complete melody (with lyrics) that survives today! This will demonstrate that this ancient musical instrument is much simpler to learn than a guitar or most of the other modern instruments which probably explains why it was used as a teaching tool for almost every child in ancient Greece.
+
+- Cost per person 40€
+- More information at [SEIKILO](www.seikilo.com)
+- Contact Seikilo directly at [info@seikilo.com](mailto:info@seikilo.com) to book an available time slot
+
 ## Friday: 7 July 2023
 
-### 19:00 - 21:00 Informal meetup
+### 19:00 - 21:00 Informal meetup for the Summer School
 
 Location TBD
 
 ## Saturday: 8 July 2023
 
-### 19:00 - 22:00 Welcome reception for the Summer School
+### 20:00 - 22:00 Welcome reception for the Summer School
 
-Drinks (& DJ set)
+Drinks & DJ set by [Marcelo Caetano](https://www.mixcloud.com/pargaravio/)
 
 ## Monday: 10 July 2023
 
 Choose either of the following options:
 
-### 18:30 - 20:30 Thessaloniki walking tour starting at Rotonda and ending at the city port
+### 18:30 - 20:30 Thessaloniki walking tour starting at [Rotonda](https://goo.gl/maps/GFzLCrQCZGixksZk8) and ending at the city port
 
-The tour will be kindly provided by the [Thessaloniki Tourism Organisation](https://thessaloniki.travel/) but optional entrance in the interior of the Rotonda monument will require a 6€ worth ticket (students should have their IDs with them to take advantage of the reduced price).
+The tour will be kindly provided by the [Thessaloniki Tourism Organisation](https://thessaloniki.travel/) but optional entrance in the interior of the [Rotonda monument](https://goo.gl/maps/GFzLCrQCZGixksZk8) will require a 6€ worth ticket (students should have their IDs with them to take advantage of the reduced price).
 
 - Available slots: 60
 - Fill your names in this [form](https://forms.gle/VksNojt1EyoQyQK9A) to book your slot
@@ -58,25 +66,13 @@ The tour will be kindly provided by the [Thessaloniki Tourism Organisation](http
 - Address: Vasileos Irakleiou 4
 - Fill your names in this [form](https://forms.gle/CzFSW862eTCbG5Vj9) to book your slot
 
-<!-- ### One hour between 18:30 and 20:30 Private hands-on ancient Greek lyre workshop -->
-
----
-
-There is also a possibility to book a private hands-on ancient Greek lyre workshop. This one-hour workshop will begin by taking a closer look at the sound and aesthetics of a reconstructed ancient Greek lyre and on the music system of antiquity in general. It will proceed with a hands-on lyre playing of the “Epitaph of Seikilos”, the oldest complete melody (with lyrics) that survives today! This will demonstrate that this ancient musical instrument is much simpler to learn than a guitar or most of the other modern instruments which probably explains why it was used as a teaching tool for almost every child in ancient Greece.
-
-- Cost per person 40€
-- More information at [SEIKILO](www.seikilo.com)
-- Contact Seikilo directly at [info@seikilo.com](mailto:info@seikilo.com) to book an available time slot
-
----
-
 ## Tuesday: 11 July 2023 from 17:00 to 20:30 at Tellogleion
 
 ### 17:00 Cross-modal wine-tasting event with wines kindly provided by [Ktima Gerovassiliou](https://www.gerovassiliou.gr/)
 
 ### 18:00 Welcome reception
 
-### 19:00 Concert
+### 19:00 Concert at [SEIKILO music](https://goo.gl/maps/QKDT2UnpMFYW94YS9)
 
 Ancient Greek Music by [SEIKILO music](https://www.youtube.com/seikilo)
 

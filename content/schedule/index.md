@@ -88,9 +88,9 @@ The full <a href="./doc/Timbre_2023_Program.pdf" target="_blank">conference sche
 
 ## Local Poster Printing Service
 
-The poster panels fit A0 in portrait orientation (_i.e., "vertical"_). We are offering a paid service of poster printing and delivery on site at the cost of 24€ per A0 poster. Authors of poster presentations are required to upload a pdf (with locked font and size) using the following link: https://eshop.galonis.gr/product/research-posters/
+The poster panels fit A0 in portrait orientation (_i.e., "vertical"_). We are offering a paid service of poster printing and delivery on site at the cost of 24€ per A0 poster. Authors of poster presentations are required to upload a pdf (with locked font and size) using the following link: https://eshop.galonis.gr/product/research-posters/ **no later than 5 July 2023**. The posters will be collected by the local organizers and brought to the conference venue on **8 July 2023**.
 
-**Attention!** The deadline for submitting the pdfs to the printing service is the **5th of July of 2023** so that we can have them at the venue on Saturday the 8th. _**This is a hard deadline that will be enforced by the local printing service.**_ Be aware that pdfs uploaded using the link above _after_ the **5th of July of 2023** will **not** be printed.
+> **Attention!** The deadline for submitting the pdfs to the printing service is the **5 July 2023** so that we can have them at the venue on Saturday 8 July 2023. _**This is a hard deadline that will be enforced by the local printing service.**_ Be aware that pdfs uploaded using the link above _after_ the **5th of July of 2023** will **not** be printed and thus will **not** be available at the conference venue.
 
 ## List of Accepted Papers
 
