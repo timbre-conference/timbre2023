@@ -31,6 +31,8 @@ projects: []
 
 The full <a href="./doc/Timbre_2023_Program.pdf" target="_blank">conference schedule</a> is available for download. Additionally, attendees will find the schedule <a href="./doc/Ataglance.pdf" target="_blank">at-a-glance</a>, containing an overview of the program. Below is the full schedule will all the information day by day.
 
+## Daily Schedule
+
 ### Day 1: Monday, July 10
 
 | <div style="width:90px"></div> | <div style="width:730px"></div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
@@ -84,7 +86,13 @@ The full <a href="./doc/Timbre_2023_Program.pdf" target="_blank">conference sche
 
 ---
 
-### Accepted Papers
+## Local Poster Printing Service
+
+The poster panels fit A0 in portrait orientation (_i.e., "vertical"_). We are offering a paid service of poster printing and delivery on site at the cost of 24€ per A0 poster. Authors of poster presentations are required to upload a pdf (with locked font and size) using the following link: https://eshop.galonis.gr/product/research-posters/
+
+**Attention!** The deadline for submitting the pdfs to the printing service is the **5th of July of 2023** so that we can have them at the venue on Saturday the 8th. _**This is a hard deadline that will be enforced by the local printing service.**_ Be aware that pdfs uploaded using the link above _after_ the **5th of July of 2023** will **not** be printed.
+
+## List of Accepted Papers
 
 {style="color: #8E44AD "}
 
