@@ -33,7 +33,7 @@ design:
 
 | <div style="width:250px"></div> | <div style="width:250px"></div> | <div style="width:250px"></div> |
 | :---: | :---: | :---: |
-| ![c4dm](logos/c4dm.png) | <div style="color:red">Stephen McAdams</div> | ![c4dm](logos/logo_makios.png) |
+| ![c4dm](logos/c4dm.png) | <div style="color:red">Stephen McAdams</div> | ![c4dm2](logos/logo_makios.png) |
 
 
 # Silver Sponsor
