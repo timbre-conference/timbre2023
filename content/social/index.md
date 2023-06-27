@@ -39,9 +39,10 @@ This one-hour workshop will begin by taking a closer look at the sound and aesth
 
 ## Friday: 7 July 2023
 
-### 19:00 - 21:00 Informal meetup for the Summer School
+### 19:00 - 21:00 Informal meetup for the Summer School at [Tabya](https://goo.gl/maps/rGx3C1Ha6KwniaEP8)
 
-Location TBD
+- Venue: [Tabya](https://m.facebook.com/TABYA-1467117063556485/)
+- Location: [Konstantinou Melenikou 14, Thessaloniki 546 35, Greece](https://goo.gl/maps/rGx3C1Ha6KwniaEP8)
 
 ## Saturday: 8 July 2023
 
