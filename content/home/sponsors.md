@@ -23,7 +23,7 @@ design:
 
 | <div style="width:190px"></div> | <div style="width:190px"></div> | <div style="width:190px"></div> | <div style="width:190px"></div> | <div style="width:190px"></div> |
 | :---: | :---: | :---: | :---: | :---: |
-| ![logo](logos/logo1.png) | ![logo](logos/logo-en.svg) | ![telog](logos/logo5.png) | ![qmul](logos/qmul.png) | ![uol](logos/logo3b.png)|
+| ![logo](logos/logo1.png) | ![logo](logos/logo-en.svg) | ![telog](logos/logo5.png) | ![qmul](logos/qmul.png) | ![uol](logos/logo3b.png) |
 | ![actor](logos/logo4.png)| ![telog](logos/Schulich.png) | ![qmul](logos/seikilo-upperlogo2.png) | ![actor](logos/Gerovassiliou.png) | ![actor](logos/thesstour2.png) |  
 
 <!-- ![logo](logos/sshrc.png) -->
@@ -31,9 +31,9 @@ design:
 # Bronze Sponsors
 <br/>
 
-| <div style="width:250px"></div> | <div style="width:250px"></div> | <div style="width:250px"></div> |
-| :---: | :---: | :---: |
-| ![c4dm](logos/c4dm.png) | <div style="color:red">Stephen McAdams</div> | ![c4dm2](logos/logo_makios.png) |
+| <div style="width:200px"></div> | <div style="width:200px"></div> | <div style="width:200px"></div> | <div style="width:200px"></div> |
+| :---: | :---: | :---: | :---: |
+| ![c4dm](logos/c4dm.png) | <div style="color:red">Stephen McAdams</div> | ![c4dm2](logos/logo_makios.png) | ![uol](logos/logo3b.png) |
 
 
 # Silver Sponsor
