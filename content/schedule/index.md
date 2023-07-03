@@ -96,6 +96,8 @@ The poster panels fit A0 in portrait orientation (_i.e., "vertical"_). We have p
 
 If this is your first poster presentation, you might find [these guidelines](https://guides.nyu.edu/posters) useful. Please note that this is just indicative, a quick internet search for "conference poster presentation" will turn up many other tips.
 
+<!---
+
 ## List of Accepted Papers
 
 {style="color: #8E44AD "}
@@ -303,7 +305,7 @@ Jason Noble, Takuto Fukuda, Caroline Traube and Zachary Wallmark
 
 </div>
 
-<!-- <div class="schedule-pg">
+<div class="schedule-pg">
 
 
 ## Tuesday May 24: COBS/CCOB - McGill University
