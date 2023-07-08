@@ -57,15 +57,9 @@ design:
 
 
 # Bronze Sponsors
-<br/>
-
-| <div style="width:200px"></div> | <div style="width:200px"></div> | <div style="width:200px"></div> | <div style="width:200px"></div> |
-| :---: | :---: | :---: | :---: |
-| ![c4dm](logos/c4dm.png) | <div style="color:red">Stephen McAdams</div> | ![c4dm2](logos/logo_makios.png) | ![uol](logos/logo3b.png) |
 
 
 # Silver Sponsor
-![actor](logos/DustBowl.png)
-<br/>
+
   
 </div>
