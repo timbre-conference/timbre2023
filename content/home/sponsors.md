@@ -33,9 +33,10 @@ design:
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 
-# Silver Sponsor
+# Silver Sponsors
 
-{{< figure src="logos/DustBowl.png" width="200">}}
+| {{< figure src="logos/DustBowl.png" width="150">}} | <div style="width:50px"></div> | {{< figure src="logos/ReCo.png" width="200">}} |
+| :---: | :---: | :---: |
 <br/>
   
 </div>
