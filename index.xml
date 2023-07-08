@@ -1519,7 +1519,7 @@ font-weight:normal;overflow:hidden;padding:10px 9px;word-break:normal;}
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}&lt;/style>
 &lt;div class="tg-wrap">&lt;table class="tg" style="undefined;table-layout: fixed; width: 820px">
 &lt;colgroup>
-&lt;col style="width: 90px">
+&lt;col style="width: 85px">
 &lt;col style="width: 730px">
 &lt;/colgroup>
 &lt;thead>
@@ -1544,7 +1544,7 @@ font-weight:normal;overflow:hidden;padding:10px 9px;word-break:normal;}
 &lt;/tr>
 &lt;tr>
 &lt;td>10:45&lt;/td>
-&lt;td>&lt;b>Oral Session 1: &lt;i>Psychoacoustics&lt;/i>&lt;/b>
+&lt;td>&lt;b>Oral Session 1: Psychoacoustics&lt;/b>
 &lt;ul>
 &lt;li>Affective qualities of sustained instrument blends, &lt;i>Yifan Huang and Stephen McAdams&lt;/i>&lt;/li>
 &lt;li>The timbral origins of musical affect, &lt;i>Iza Korsmit, Marcel Montrey, Alix Wong-Min and Stephen McAdams&lt;/i>&lt;/li>
@@ -1558,6 +1558,39 @@ font-weight:normal;overflow:hidden;padding:10px 9px;word-break:normal;}
 &lt;td>Lunch Break (provided)&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td>13:15&lt;/td>
+&lt;td>&lt;b>Tutorial 1:&lt;/b> Neurophysiological simulation for digital audio effects, &lt;i>Cyrus Vahidi and Vincent Lostanlen&lt;/i>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>14:00&lt;/td>
+&lt;td>&lt;b>Poster Session 1: Work in Progress&lt;/b>
+&lt;ul>
+&lt;li>Influence of frequency modulations on the recognition of vocals and instruments, &lt;i>Michel Bürgel and Kai Siedenburg&lt;/i>&lt;/li>&lt;li>Live in Atlanta: Listening to Black popular music performances in concert, &lt;i>Danielle Davis&lt;/i>&lt;/li>&lt;li>Towards constructing a historically-grounded gesture-timbre space of Guqin playing techniques, &lt;i>Han Han and Cixian Lu&lt;/i>&lt;/li>&lt;li>Connecting spectromorphological principles in acousmatic music to a database of sonic gestures for timbre research: Problems and prospects, &lt;i>Hubert Ho&lt;/i>&lt;/li>&lt;li>Intentional instrumentation in Debussy’s Trio for Flute, Viola, and Harp, &lt;i>Ash Mach&lt;/i>&lt;/li>&lt;li>Timbre and choral blending analysis of Uruguayan Murga singing, &lt;i>Ivan Meresman Higgs&lt;/i>&lt;/li>&lt;li>Choreographing orchestration: A novel method for analyzing orchestral timbre through ballet, &lt;i>Rebecca Moranis&lt;/i>&lt;/li>&lt;li>Timbre semantics of the singing voice, &lt;i>Theodora Nestorova, Kit Soden, J. Marchand Knight and Lindsey Reymore&lt;/i>&lt;/li>&lt;li>Timbral simulation with a string quartet, &lt;i>Jonas Regnier and Robert Hasegawa&lt;/i>&lt;/li>&lt;li>The role of timbre in parsing the acoustic stream, &lt;i>Joshua Rosner, Michael Wagner and Stephen McAdams&lt;/i>&lt;/li>&lt;li>Identifying mechanisms through which music can influence wine appreciation, &lt;i>Asterios Zacharakis&lt;/i>&lt;/li>&lt;/ul>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>14:45&lt;/td>
+&lt;td>Coffee Break (provided)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>15:00&lt;/td>
+&lt;td>&lt;b>Oral Session 2: Singing voice and speech&lt;/b>
+&lt;ul>
+&lt;li>The interaction of pitch, timbre, and visual bias in voice categorization by cis and trans listeners, &lt;i>Jay Marchand Knight and Mickael Deroche&lt;/i>&lt;/li>
+&lt;li>Vocal production, mimetic engagement, and social media in bedroom pop, &lt;i>Alyssa Barna and Caroline McLaughlin&lt;/i>&lt;/li>
+&lt;li>Marika Ninou vs. Sotiria Bellou: A timbral comparison between two iconic female singers in Rebetiko, &lt;i>Asterios Zacharakis, Savvas Kazazis and Emilios Cambouropoulos&lt;/i>&lt;/li>
+&lt;li>Vocal timbre and the conceptualization of the persona in Lena Platonos, &lt;i>Despoina Panagiotidou&lt;/i>&lt;/li>&lt;/ul>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>16:00&lt;/td>
+&lt;td>&lt;b>Tutorial 2:&lt;/b> The Akai MPC and the Ghosts in the Hip-Hop Machine, &lt;i>Mike D'Errico&lt;/i>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>16:45&lt;/td>
+&lt;td>Adjournment&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>18:30&lt;/td>
+&lt;td>[Social activities (optional)](social/) &lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>&lt;/div></description></item><item><title>Transportation and Accommodation</title><link>https://timbre-conference.github.io/timbre2023/travel/</link><pubDate>Thu, 05 May 2022 16:45:50 -0400</pubDate><guid>https://timbre-conference.github.io/timbre2023/travel/</guid><description>&lt;details class="toc-inpage d-print-none " open>
