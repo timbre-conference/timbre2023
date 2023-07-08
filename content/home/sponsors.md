@@ -37,8 +37,8 @@ design:
 <col style="width: 190px">
 </colgroup>
 <tbody>
-  <tr>
-    <td><img class="logo" src="assets/media/logos/logo1.png"></td>
+  <tr> 
+    <td><img class="logo" src="https://github.com/timbre-conference/timbre2023/blob/c32343fe419ca6a7a11f0143e76cae2ecc65e3f1/assets/media/logos/logo1.png"></td>
     <td><img class="logo" src="/assets/media/logos/logo-en.svg"></td>
     <td><img class="telog" src="/assets/media/logos/logo5.png"></td>
     <td><img class="qmul" src="/assets/media/logos/qmul.png"></td>
