@@ -38,7 +38,7 @@ design:
 </colgroup>
 <tbody>
   <tr>
-    <td><img class="logo" src="/assets/media/logos/logo1.png"></td>
+    <td><img src="/assets/media/logos/logo1.png"></td>
     <td><img class="logo" src="/assets/media/logos/logo-en.svg"></td>
     <td><img class="telog" src="/assets/media/logos/logo5.png"></td>
     <td><img class="qmul" src="/assets/media/logos/qmul.png"></td>
