@@ -35,7 +35,6 @@ projects: []
 * Conference venue details can be found <a href="https://timbreconference.org/timbre2023/venue/">here</a>.
 * Social activities details can be found <a href="https://timbreconference.org/timbre2023/social/">here</a>. 
 
-</br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:inherit;font-size:inherit;background-color:white;
