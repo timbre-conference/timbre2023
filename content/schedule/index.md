@@ -69,7 +69,7 @@ projects: []
   </tr>
   <tr>
     <td>10:45</td>
-    <td><b>Oral Session 1: Psychoacoustics</b>
+    <td><b>Oral Session 1: Psychoacoustics</b> [Chair: Emilios Cambouropoulos]
       <ul>
       <li>Affective qualities of sustained instrument blends, <i>Yifan Huang and Stephen McAdams</i></li>
       <li>The timbral origins of musical affect, <i>Iza Korsmit, Marcel Montrey, Alix Wong-Min and Stephen McAdams</i></li>
@@ -98,7 +98,7 @@ projects: []
   </tr>
   <tr>
     <td>15:00</td>
-    <td><b>Oral Session 2: Singing voice and speech</b>
+    <td><b>Oral Session 2: Singing voice and speech</b> [Chair: Jason Noble]
       <ul>
         <li>The interaction of pitch, timbre, and visual bias in voice categorization by cis and trans listeners, <i>Jay Marchand Knight and Mickael Deroche</i></li>
         <li>Vocal production, mimetic engagement, and social media in bedroom pop, <i>Alyssa Barna and Caroline McLaughlin</i></li>
@@ -128,7 +128,7 @@ projects: []
     <td><b>Keynote 2:</b> <a href="https://timbreconference.org/timbre2023/keynotes/">Disentangling style and structure in generative music models</a>, <i>Jesse Engel</i> (Google Research)</td>
   <tr>
     <td>10:00</td>
-    <td><b>Oral Session 3: Cross-modality and semantics</b>
+      <td><b>Oral Session 3: Cross-modality and semantics</b> [Chair: Lindsey Reymore]
       <ul>
         <li>Cross-domain illusion in Hans Abrahamsen's 'Schnee' (2008), Canons 2a and 2b, <i>Christopher Goddard</i></li>
         <li>Scent of a timbre: Cross-modal correspondences between synthetic timbres and essential oil aromas, <i>Asterios Zacharakis, Ioulia Michail and Konstantinos Pastiadis</i></li>
@@ -152,7 +152,7 @@ projects: []
   </tr> 
   <tr>
     <td>14:15</td>
-    <td><b>Oral Session 4: Ethno-musicological and historical perspectives</b>
+    <td><b>Oral Session 4: Ethno-musicological and historical perspectives</b> [Chair: Zachary Wallmark]
       <ul>
         <li>Kutanga, Mujimbu, and the orchestration of events among the Luvale of Zambia, <i>Jason Winikoff</i></li>
         <li>"Beautiful tone, beautiful heart": Shinichi Suzuki and the timbres of childhood, <i>Lindsay Wright</i></li>
@@ -208,7 +208,7 @@ projects: []
   </tr>
   <tr>
     <td>11:00</td>
-    <td><b>Oral Session 5: Music analysis and theory</b> 
+    <td><b>Oral Session 5: Music analysis and theory</b> [Chair: Ben Duinker]
       <ul>
         <li>Timbre issues in the performance of Partiels by Gérard Grisey: An empirical study, <i>Nathalie Hérold</i></li>
         <li>Inharmonicity and instrumental synthesis in Grisey’s Transitoires, <i>Ingrid Pustijanac</i></li>
@@ -221,7 +221,7 @@ projects: []
   </tr>
   <tr>
     <td>13:15</td>
-    <td><b>Oral Session 6: Orchestration and composition</b>
+    <td><b>Oral Session 6: Orchestration and composition</b> [Chairs: Andres Gutierrez Martinez and Kit Soden]
       <ul>
         <li>Comparison of perceived and imagined instrumental blend, <i>Linglan Zhu and Stephen McAdams</i></li>
         <li>Timbre as a (de)constructing force in 1000 gecs, <i>Lindsey Reymore</i></li>
