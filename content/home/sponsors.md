@@ -39,17 +39,17 @@ design:
 <tbody>
   <tr> 
     <td><img class="logo" src="/timbre2023/media/logos/logo1.png"></td>
-    <td><img class="logo" src="/assets/media/logos/logo-en.svg"></td>
-    <td><img class="telog" src="/assets/media/logos/logo5.png"></td>
-    <td><img class="qmul" src="/assets/media/logos/qmul.png"></td>
-    <td><img class="uol" src="/assets/media/logos/logo3b.png"></td>
+    <td><img class="logo" src="/timbre2023/media/logos/logo-en.svg"></td>
+    <td><img class="telog" src="/timbre2023/media/logos/logo5.png"></td>
+    <td><img class="qmul" src="/timbre2023/media/logos/qmul.png"></td>
+    <td><img class="uol" src="/timbre2023/media/logos/logo3b.png"></td>
   </tr>
   <tr>
-    <td><img class="actor" src="/assets/media/logos/logo4.png"></td>
-    <td><img class="telog" src="/assets/media/logos/Schulich.png"></td> 
-    <td><img class="qmul" src="/assets/media/logos/seikilo-upperlogo2.png"></td>
-    <td><img class="actor" src="/assets/media/logos/Gerovassiliou.png"></td>
-    <td><img class="actor" src="/assets/media/logos/thesstour2.png"></td>
+    <td><img class="actor" src="/timbre2023/media/logos/logo4.png"></td>
+    <td><img class="telog" src="/timbre2023/media/logos/Schulich.png"></td> 
+    <td><img class="qmul" src="/timbre2023/media/logos/seikilo-upperlogo2.png"></td>
+    <td><img class="actor" src="/timbre2023/media/logos/Gerovassiliou.png"></td>
+    <td><img class="actor" src="/timbre2023/media/logos/thesstour2.png"></td>
   </tr>  
 </tbody>
 </table></div>
