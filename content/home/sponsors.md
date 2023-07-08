@@ -21,12 +21,12 @@ design:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:inherit;font-size:inherit;background-color:white;
+.tg td{border-style:none;border-width:1px;font-family:inherit;font-size:inherit;
   overflow:hidden;padding:10px 9px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:inherit;font-size:inherit;color:#8E44AD;  background-image: linear-gradient(90deg, #fbe4d2, #eadaef);
+.tg th{border-style:none;border-width:0px;font-family:inherit;
   font-weight:normal;overflow:hidden;padding:10px 9px;word-break:normal;}
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
-<div class="tg-wrap"><table class="tg" style="undefined;table-layout: fixed; width: 950px">
+<div class="tg-wrap"><table class="tg" border="0" style="undefined;table-layout: fixed; width: 950px">
 <colgroup>
 <col style="width: 190px">
 <col style="width: 190px">
@@ -36,18 +36,18 @@ design:
 </colgroup>
 <tbody>
   <tr>
-    <td>![logo](logos/logo1.png)</td>
-    <td>![logo](logos/logo-en.svg)</td>
-    <td>![telog](logos/logo5.png)</td>
-    <td>![qmul](logos/qmul.png)</td>
-    <td>![uol](logos/logo3b.png)</td>
+    <td><img class="logo" src="logos/logo1.png"></td>
+    <td><img class="logo" src="logos/logo-en.svg"></td>
+    <td><img class="telog" src="logos/logo5.png"></td>
+    <td><img class="qmul" src="logos/qmul.png"></td>
+    <td><img class="uol" src="logos/logo3b.png"></td>
   </tr>
   <tr>
-    <td>![actor](logos/logo4.png)</td>
-    <td>![telog](logos/Schulich.png)</td> 
-    <td>![qmul](logos/seikilo-upperlogo2.png)</td>
-    <td>![actor](logos/Gerovassiliou.png)</td>
-    <td>![actor](logos/thesstour2.png)</td>
+    <td><img class="actor" src="logos/logo4.png"></td>
+    <td><img class="telog" src="logos/Schulich.png"></td> 
+    <td><img class="qmul" src="logos/seikilo-upperlogo2.png"></td>
+    <td><img class="actor" src="logos/Gerovassiliou.png"></td>
+    <td><img class="actor" src="logos/thesstour2.png"></td>
   </tr>  
 </tbody>
 </table></div>
