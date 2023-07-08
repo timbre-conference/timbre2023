@@ -18,7 +18,7 @@ design:
 # advanced:
 # css_class: fullscreen
 ---
-{{< figure class="logo" src="logos/logo1.png" >}}
+{{< figure src="logos/logo1.png" width="200" >}}
 <div align="center">
   
 <style type="text/css">
