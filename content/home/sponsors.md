@@ -22,7 +22,7 @@ design:
   
 | {{< figure src="logos/logo1.png" width="200">}} | {{< figure src="logos/logo-en.svg" width="200">}} | {{< figure src="logos/logo5.png" width="200">}} | {{< figure src="logos/qmul.png" width="200">}} | {{< figure src="logos/logo3b.png" width="200" height="80">}} |
 | :---: | :---: | :---: | :---: | :---: |
-| {{< figure src="logos/logo4.png" width="200">}} | {{< figure src="logos/Schulich.png" width="200">}} | {{< figure src="logos/seikilo-upperlogo2.png" width="200">}} | {{< figure src="logos/Gerovassiliou.png" width="200">}} | {{< figure src="logos/thesstour2.png" width="200" max-height="110">}} | 
+| {{< figure src="logos/logo4.png" width="200">}} | {{< figure src="logos/Schulich.png" width="200">}} | {{< figure src="logos/seikilo-upperlogo2.png" width="200">}} | {{< figure src="logos/Gerovassiliou.png" width="200">}} | {{< figure src="logos/thesstour2.png" height="100">}} | 
 
 
 # Bronze Sponsors
