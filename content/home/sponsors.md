@@ -28,7 +28,7 @@ design:
 .tg th{border-style:none;border-width:0px;font-family:inherit;
   font-weight:normal;overflow:hidden;padding:10px 9px;word-break:normal;}
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
-<div class="tg-wrap"><table class="tg" border="0" style="undefined;table-layout: fixed; width: 950px">
+<div class="tg-wrap"><table class="tg" style="undefined;table-layout: fixed; width: 950px">
 <colgroup>
 <col style="width: 190px">
 <col style="width: 190px">
@@ -38,7 +38,7 @@ design:
 </colgroup>
 <tbody>
   <tr>
-    <td><img src="assets/media/logos/logo1.png"></td>
+    <td><figure class="logo" src="logos/logo1.png"></td>
     <td><img class="logo" src="/assets/media/logos/logo-en.svg"></td>
     <td><img class="telog" src="/assets/media/logos/logo5.png"></td>
     <td><img class="qmul" src="/assets/media/logos/qmul.png"></td>
