@@ -181,7 +181,59 @@ projects: []
   </tr>
     <tr>
     <td>21:00</td>
-    <td><b>Conference Dinner<b> (not provided, see <a href="https://timbreconference.org/timbre2023/social/">here</a>)</b></td>
+    <td><b>Conference Dinner</b> (not provided, see <a href="https://timbreconference.org/timbre2023/social/">here</a>)</td>
+  </tr>
+    <tr>
+   <th colspan="2"><b>Day 3: Wednesday, July 12</b></th>
+  </tr>
+  <tr>
+    <td>08:30</td>
+    <td>Registration</td>
+  </tr>
+    <td>09:00</td>
+    <td><b>Keynote 4:</b> <a href="https://timbreconference.org/timbre2023/keynotes/">Timbre and sound: notes on the resilience of the notion of timbre</a>, <i>Makis Solomos</i> (University Paris 8)</td>
+  <tr>
+    <td>10:00</td>
+    <td><b>Poster Session 3</b>
+      <ul><li>Expanding a taxonomy of instrumental grouping effects to align with contemporary musical practices, <i>Yuval Adler</i></li><li>Comparative analysis of the perceptual fusion in Grisey's Partiels: An approach with audio analysis, <i>Micael Antunes, Mylène Gioffredo, Javier Elipe Gimeno, Charles de Paiva, Sølvi Ystad, Samuel Poirot and Vincent Tiffon</i></li><li>There is inharmonicity and inharmonicity, <i>Luca Danieli and Matthias Frank</i></li><li>Acoustic and musical features influencing listeners' perception of affective intentions, <i>Lena Heng, Claire Wei and Stephen McAdams</i></li><li>The dark and bright side of musical instrument sounds: auditory brightness emerging from spectral envelope statistics and its interaction with fundamental frequency, <i>Simon Jacobsen and Kai Siedenburg</i></li><li>Effect of timbre on Leman’s model of periodicity pitch, <i>Ivan Jimenez, Tuire Kuusi, Juha Ojala, Isabella Czedik-Eysenberg and Christoph Reuter</i></li><li>Playing style affects steel-string acoustic guitar timbre, <i>Jackson Loth, Adrien Mamou-Mani and Mathieu Barthet</i></li><li>Timbre or coulour? Semantic considerations in German and French music treatises of the early 20th century, <i>Mathieu Schneider</i></li><li>Sensing Makam: A timbre-oriented study on Turkish Makam music, <i>Ebru Yazici and Ozan Baysal</i></li><li>Identifying Peking opera roles through vocal timbre: An acoustical and conceptual comparison between Laosheng and Dan, <i>Annie Liu and Zachary Wallmark</i></li></ul></td>
+  </tr>
+  <tr>
+    <td>10:45</td>
+    <td>Coffee Break (provided)</td>
+  </tr>
+  <tr>
+    <td>11:00</td>
+    <td><b>Oral Session 5: Music analysis and theory</b> 
+      <ul>
+        <li>Timbre issues in the performance of Partiels by Gérard Grisey: An empirical study, <i>Nathalie Hérold</i></li>
+        <li>Inharmonicity and instrumental synthesis in Grisey’s Transitoires, <i>Ingrid Pustijanac</i></li>
+        <li>Structure, texture and bidimensional form in Claude Vivier’s Zipangu (1980), <i>Mylène Gioffredo</i></li>
+      </ul></td>
+  </tr>
+  <tr>
+    <td>11:45</td>
+    <td>Lunch Break (provided)</td>
+  </tr>
+  <tr>
+    <td>13:15</td>
+    <td><b>Oral Session 6: Orchestration and composition</b>
+      <ul>
+        <li>Comparison of perceived and imagined instrumental blend, <i>Linglan Zhu and Stephen McAdams</i></li>
+        <li>Timbre as a (de)constructing force in 1000 gecs, <i>Lindsey Reymore</i></li>
+        <li>Network analysis of instrumentation in timbral augmentation blends, <i>Corinne Darche, Ichiro Fujinaga and Stephen McAdams</i></li>
+        <li>Re-considering Germaine Tailleferre's compositional voice: An orchestration-based analysis of her Petite suite pour petit orchestre (1957), <i>Jade Roth</i></li></ul></td>
+  </tr>
+  <tr>
+    <td>14:15</td>
+    <td><b>Conference and Summer School Roundtable</b></td>
+  </tr>
+  <tr>
+    <td>15:45</td>
+    <td><b>Closing Remarks</b></td>
+  </tr>
+  <tr>
+    <td>16:00</td>
+    <td>Adjournment</td>
   </tr>
 </tbody>
 </table></div>
