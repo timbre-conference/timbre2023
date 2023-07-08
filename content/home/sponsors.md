@@ -20,16 +20,16 @@ design:
 ---
 <div align="center">
   
-| {{< figure src="logos/logo1.png" width="200">}} | {{< figure src="logos/logo-en.svg" width="200">}} | {{< figure src="logos/logo5.png" width="200">}} | {{< figure src="logos/qmul.png" width="200">}} | {{< figure src="logos/logo3b.png" width="200" height="80">}} |
+| {{< figure src="logos/logo1.png" width="200">}} | {{< figure src="logos/logo-en.svg" width="200">}} | {{< figure src="logos/logo5.png" width="200">}} | {{< figure src="logos/qmul.png" width="200">}} | {{< figure src="logos/logo3b.png" width="150">}} |
 | :---: | :---: | :---: | :---: | :---: |
-| {{< figure src="logos/logo4.png" width="200">}} | {{< figure src="logos/Schulich.png" width="200">}} | {{< figure src="logos/seikilo-upperlogo2.png" width="200">}} | {{< figure src="logos/Gerovassiliou.png" width="200">}} | {{< figure src="logos/thesstour2.png" height="60">}} | 
+| {{< figure src="logos/logo4.png" width="200">}} | {{< figure src="logos/Schulich.png" width="200">}} | {{< figure src="logos/seikilo-upperlogo2.png" width="200">}} | {{< figure src="logos/Gerovassiliou.png" width="200">}} | {{< figure src="logos/thesstour2.png" width="150">}} | 
 
 
 # Bronze Sponsors
 
 <br>
 
-| {{< figure src="logos/c4dm.png" width="200">}} | <div style="width:50px"></div> | <div style="color:red">Stephen McAdams</div> | <div style="width:50px"></div> | {{< figure src="logos/logo_makios.png" width="200">}} | <div style="width:50px"></div> | {{< figure src="logos/logo3b.png" width="200" height="auto">}} |
+| {{< figure src="logos/c4dm.png" width="200">}} | <div style="width:50px"></div> | <div style="color:red">Stephen McAdams</div> | <div style="width:50px"></div> | {{< figure src="logos/logo_makios.png" width="200">}} | <div style="width:50px"></div> | {{< figure src="logos/logo3b.png" width="150">}} |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 
