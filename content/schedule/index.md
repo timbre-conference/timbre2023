@@ -57,7 +57,7 @@ projects: []
     <td><b>Opening Remarks</b></td>
   </tr>
     <td>09:30</td>
-    <td><b>Keynote 1:</b> How covert metaphors shape timbral theories, listening, and practices,: <i>Nina Sun Eidsheim</i> (University of California Los Angeles)</td>
+    <td><b>Keynote 1:</b> <a href="https://timbreconference.org/timbre2023/keynotes/">How covert metaphors shape timbral theories, listening, and practices</a>, <i>Nina Sun Eidsheim</i> (University of California Los Angeles)</td>
   <tr>
     <td>10:30</td>
     <td>Coffee Break (provided)</td>
@@ -110,7 +110,78 @@ projects: []
   </tr>
   <tr>
     <td>18:30</td>
-    <td>[Social activities (optional)](social/) </td>
+    <td><a href="https://timbreconference.org/timbre2023/social/">Social activities (optional)</a></td>
+  </tr>
+  <tr>
+   <th colspan="2"><b>Day 2: Tuesday, July 11</b></th>
+  </tr>
+  <tr>
+    <td>08:30</td>
+    <td>Registration</td>
+  </tr>
+    <td>09:00</td>
+    <td><b>Keynote 2:</b> <a href="https://timbreconference.org/timbre2023/keynotes/">Disentangling style and structure in generative music models</a>, <i>Jesse Engel</i> (Google Research)</td>
+  <tr>
+    <td>10:00</td>
+    <td><b>Oral Session 3: Cross-modality and semantics</b>
+      <ul>
+        <li>Cross-domain illusion in Hans Abrahamsen's 'Schnee' (2008), Canons 2a and 2b, <i>Christopher Goddard</i></li>
+        <li>Scent of a timbre: Cross-modal correspondences between synthetic timbres and essential oil aromas, <i>Asterios Zacharakis, Ioulia Michail and Konstantinos Pastiadis</i></li>
+        <li>When ChatGPT talks timbre, <i>Charalampos Saitis and Kai Siedenburg</i></li></ul></td>
+  </tr>
+  <tr>
+    <td>10:45</td>
+    <td>Coffee Break (provided)</td>
+  </tr>
+  <tr>
+    <td>11:00</td>
+    <td><b>Tutorial 3:</b> Methods for Analyzing, Composing, and Arranging for Extreme Metal Choir, <i>Eric Smialek and Pierre-Luc Senécal</i></td>
+  </tr>
+  <tr>
+    <td>11:45</td>
+    <td>Lunch Break (provided)</td>
+  </tr>
+  <tr>
+    <td>13:15</td>
+    <td><b>Keynote 3:</b> <a href="https://timbreconference.org/timbre2023/keynotes/">Crossmodal correspondences involving timbre: theory and application</a>, <i>Charles Spence</i> (University of Oxford)</td>
+  </tr> 
+  <tr>
+    <td>14:15</td>
+    <td><b>Oral Session 4: Ethno-musicological and historical perspectives</b>
+      <ul>
+        <li>Kutanga, Mujimbu, and the orchestration of events among the Luvale of Zambia, <i>Jason Winikoff</i></li>
+        <li>"Beautiful tone, beautiful heart": Shinichi Suzuki and the timbres of childhood, <i>Lindsay Wright</i></li>
+        <li>Tracing timbral subjectivity through listening encounters with indigenous death doom band Tzompantli, <i>Jennifer LeBlanc</i></li>
+        <li>Playing in tongues: The Hammond organ and Black Pentecostal instrumentality, <i>Braxton Shelley</i></li></ul></td>
+  </tr>
+  <tr>
+    <td>15:15</td>
+    <td>Coffee Break (provided)</td>
+  </tr>
+  <tr>
+    <td>15:30</td>
+    <td><b>Tutorial 4:</b> Exploring the Semantics of 'Timbre Textures' with Granular Synthesis, <i>Jason Noble, Takuto Fukuda, Caroline Traube, and Zachary Wallmark</i></td>
+  </tr>
+  <tr>
+    <td>16:15</td>
+    <td><b>Poster Session 2</b>
+      <ul><li>Perceived pleasantness of instruments in the lower registers, <i>Noam Amir, Lee Tirza, Sahar Alkaslassy, Noga Dagan and Shahar Meltz</i></li><li>Investigating cone to cylinder transition in wind instruments using physical modelling, <i>Vasileios Chatziioannou</i></li><li>The role of timbre in pitch perception and imitation, <i>Yan Chen and Peter Pfordresher</i></li><li>Embodied liminality: Musical chimerism in Chaya Czernowin’s Infinite Now, <i>Richard Drehoff</i></li><li>Testing the ‘contour hypothesis’: probing musical memory using the matching pairs game, <i>Jiaxin Li, David John Baker, John Ashley Burgoyne and Henkjan Honing</i></li><li>The Viola da terra as metaphor: Post-colonial sonorities of Azorean Saudade, <i>Abigail Lindo</i></li><li>Anton Reicha’s fugal orchestration: A historical model of orchestration techniques, <i>James Renwick</i></li><li>When NIME and ISMIR talk timbre, <i>Charalampos Saitis, Maryam F. Toshizi, Vjosa Preniqi, Bleiz M. Del Sette, and György Fazekas</i></li><li>Modifying partials for minimum-roughness sound synthesis, <i>Simon Schwär, Meinard Mueller and Sebastian J. Schlecht</i></li><li>How “vocal” is instrumental music? <i>Jason Noble, Louis Goldford, Gabriel Couturier, Theodora Nestorova, Jay Marchand Knight and Caroline Traube</i></li></ul></td>
+  </tr>
+  <tr>
+    <td>17:00</td>
+    <td>Wine tasting event</td>
+  </tr>
+  <tr>
+    <td>18:00</td>
+    <td><b>Welcome Reception (provided)</b></td>
+  </tr>
+  <tr>
+    <td>19:00</td>
+    <td><b><a href="https://timbreconference.org/timbre2023/social/doc/Timbre_2023_concert_line-up.pdf">Music Concert</a></b></td>
+  </tr>
+    <tr>
+    <td>21:00</td>
+    <td><b>Conference Dinner<b> (not provided, see <a href="https://timbreconference.org/timbre2023/social/">here</a>)</b></td>
   </tr>
 </tbody>
 </table></div>
