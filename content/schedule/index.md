@@ -39,7 +39,7 @@ projects: []
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
 <div class="tg-wrap"><table class="tg" style="undefined;table-layout: fixed; width: 820px">
 <colgroup>
-<col style="width: 90px">
+<col style="width: 85px">
 <col style="width: 730px">
 </colgroup>
 <thead>
@@ -64,7 +64,7 @@ projects: []
   </tr>
   <tr>
     <td>10:45</td>
-    <td><b>Oral Session 1: <i>Psychoacoustics</i></b>
+    <td><b>Oral Session 1: Psychoacoustics</b>
       <ul>
       <li>Affective qualities of sustained instrument blends, <i>Yifan Huang and Stephen McAdams</i></li>
       <li>The timbral origins of musical affect, <i>Iza Korsmit, Marcel Montrey, Alix Wong-Min and Stephen McAdams</i></li>
@@ -77,7 +77,40 @@ projects: []
     <td>11:45</td>
     <td>Lunch Break (provided)</td>
   </tr>
+<tr>
+    <td>13:15</td>
+    <td><b>Tutorial 1:</b> Neurophysiological simulation for digital audio effects, <i>Cyrus Vahidi and Vincent Lostanlen</i></td>
+  </tr> 
   <tr>
-</tr>    
+    <td>14:00</td>
+    <td><b>Poster Session 1: Work in Progress</b>
+      <ul>
+        <li>Influence of frequency modulations on the recognition of vocals and instruments, <i>Michel Bürgel and Kai Siedenburg</i></li><li>Live in Atlanta: Listening to Black popular music performances in concert, <i>Danielle Davis</i></li><li>Towards constructing a historically-grounded gesture-timbre space of Guqin playing techniques, <i>Han Han and Cixian Lu</i></li><li>Connecting spectromorphological principles in acousmatic music to a database of sonic gestures for timbre research: Problems and prospects, <i>Hubert Ho</i></li><li>Intentional instrumentation in Debussy’s Trio for Flute, Viola, and Harp, <i>Ash Mach</i></li><li>Timbre and choral blending analysis of Uruguayan Murga singing, <i>Ivan Meresman Higgs</i></li><li>Choreographing orchestration: A novel method for analyzing orchestral timbre through ballet, <i>Rebecca Moranis</i></li><li>Timbre semantics of the singing voice, <i>Theodora Nestorova, Kit Soden, J. Marchand Knight and Lindsey Reymore</i></li><li>Timbral simulation with a string quartet, <i>Jonas Regnier and Robert Hasegawa</i></li><li>The role of timbre in parsing the acoustic stream, <i>Joshua Rosner, Michael Wagner and Stephen McAdams</i></li><li>Identifying mechanisms through which music can influence wine appreciation, <i>Asterios Zacharakis</i></li></ul></td>
+  </tr>
+  <tr>
+    <td>14:45</td>
+    <td>Coffee Break (provided)</td>
+  </tr>
+  <tr>
+    <td>15:00</td>
+    <td><b>Oral Session 2: Singing voice and speech</b>
+      <ul>
+        <li>The interaction of pitch, timbre, and visual bias in voice categorization by cis and trans listeners, <i>Jay Marchand Knight and Mickael Deroche</i></li>
+        <li>Vocal production, mimetic engagement, and social media in bedroom pop, <i>Alyssa Barna and Caroline McLaughlin</i></li>
+        <li>Marika Ninou vs. Sotiria Bellou: A timbral comparison between two iconic female singers in Rebetiko, <i>Asterios Zacharakis, Savvas Kazazis and Emilios Cambouropoulos</i></li>
+        <li>Vocal timbre and the conceptualization of the persona in Lena Platonos, <i>Despoina Panagiotidou</i></li></ul></td>
+  </tr>
+  <tr>
+    <td>16:00</td>
+    <td><b>Tutorial 2:</b> The Akai MPC and the Ghosts in the Hip-Hop Machine, <i>Mike D'Errico</i></td>
+  </tr>
+  <tr>
+    <td>16:45</td>
+    <td>Adjournment</td>
+  </tr>
+  <tr>
+    <td>18:30</td>
+    <td>[Social activities (optional)](social/) </td>
+  </tr>
 </tbody>
 </table></div>
