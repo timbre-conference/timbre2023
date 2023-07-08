@@ -1509,7 +1509,14 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;a data-fancybox="gallery-travel" href="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/travel/thess8.jpeg" >
 &lt;img src="https://timbre-conference.github.io/timbre2023/timbre2023/media/albums/travel/thess8_hu914d480369d8e822a3b631de7141c8c4_4239473_450x275_resize_q75_lanczos.jpeg" loading="lazy" alt="thess8.jpeg" width="450" height="275">
 &lt;/a>
-&lt;/div></description></item><item><title>Schedule</title><link>https://timbre-conference.github.io/timbre2023/schedule/</link><pubDate>Thu, 05 May 2022 16:46:46 -0400</pubDate><guid>https://timbre-conference.github.io/timbre2023/schedule/</guid><description>&lt;/br>
+&lt;/div></description></item><item><title>Schedule</title><link>https://timbre-conference.github.io/timbre2023/schedule/</link><pubDate>Thu, 05 May 2022 16:46:46 -0400</pubDate><guid>https://timbre-conference.github.io/timbre2023/schedule/</guid><description>&lt;ul>
+&lt;li>The full conference schedule can be downloaded &lt;a href="./doc/Timbre_2023_Program.pdf" target="_blank">here&lt;/a>.&lt;/li>
+&lt;li>The conference schedule at-a-glance can be dowloaded &lt;a href="./doc/Ataglance.pdf" target="_blank">here&lt;/a>.&lt;/li>
+&lt;li>Keynote talks details can be found &lt;a href="https://timbreconference.org/timbre2023/keynotes/">here&lt;/a>.&lt;/li>
+&lt;li>Conference venue details can be found &lt;a href="https://timbreconference.org/timbre2023/venue/">here&lt;/a>.&lt;/li>
+&lt;li>Social activities details can be found &lt;a href="https://timbreconference.org/timbre2023/social/">here&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;/br>
 &lt;style type="text/css">
 .tg {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:inherit;font-size:inherit;background-color:white;
