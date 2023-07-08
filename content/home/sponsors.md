@@ -19,15 +19,41 @@ design:
 # css_class: fullscreen
 ---
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:inherit;font-size:inherit;background-color:white;
+  overflow:hidden;padding:10px 9px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:inherit;font-size:inherit;color:#8E44AD;  background-image: linear-gradient(90deg, #fbe4d2, #eadaef);
+  font-weight:normal;overflow:hidden;padding:10px 9px;word-break:normal;}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
+<div class="tg-wrap"><table class="tg" style="undefined;table-layout: fixed; width: 950px">
+<colgroup>
+<col style="width: 190px">
+<col style="width: 190px">
+<col style="width: 190px">
+<col style="width: 190px">
+<col style="width: 190px">
+</colgroup>
+<tbody>
+  <tr>
+    <td>![logo](logos/logo1.png)</td>
+    <td>![logo](logos/logo-en.svg)</td>
+    <td>![telog](logos/logo5.png)</td>
+    <td>![qmul](logos/qmul.png)</td>
+    <td>![uol](logos/logo3b.png)</td>
+  </tr>
+  <tr>
+    <td>![actor](logos/logo4.png)</td>
+    <td>![telog](logos/Schulich.png)</td> 
+    <td>![qmul](logos/seikilo-upperlogo2.png)</td>
+    <td>![actor](logos/Gerovassiliou.png)</td>
+    <td>![actor](logos/thesstour2.png)</td>
+  </tr>  
+</tbody>
+</table></div>
+
+
 <div align="center">
-
-| <div style="width:190px"></div> | <div style="width:190px"></div> | <div style="width:190px"></div> | <div style="width:190px"></div> | <div style="width:190px"></div> |
-| :---: | :---: | :---: | :---: | :---: |
-| ![logo](logos/logo1.png) | ![logo](logos/logo-en.svg) | ![telog](logos/logo5.png) | ![qmul](logos/qmul.png) | ![uol](logos/logo3b.png) |
-| ![actor](logos/logo4.png)| ![telog](logos/Schulich.png) | ![qmul](logos/seikilo-upperlogo2.png) | ![actor](logos/Gerovassiliou.png) | ![actor](logos/thesstour2.png) |  
-
-<!-- ![logo](logos/sshrc.png) -->
-
 # Bronze Sponsors
 <br/>
 
