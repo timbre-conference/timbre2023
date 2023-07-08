@@ -38,7 +38,7 @@ design:
 </colgroup>
 <tbody>
   <tr> 
-    <td><img class="logo" src="/timbre2023/media/logos/logo1.png"></td>
+    <td> < figure src="logos/logo1.png" > </td>
     <td><img class="logo" src="/timbre2023/media/logos/logo-en.svg"></td>
     <td><img class="telog" src="/timbre2023/media/logos/logo5.png"></td>
     <td><img class="qmul" src="/timbre2023/media/logos/qmul.png"></td>
