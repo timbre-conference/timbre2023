@@ -19,6 +19,8 @@ design:
 # css_class: fullscreen
 ---
 
+<div align="center">
+  
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-style:none;border-width:1px;font-family:inherit;font-size:inherit;
@@ -36,24 +38,24 @@ design:
 </colgroup>
 <tbody>
   <tr>
-    <td><img class="logo" src="logos/logo1.png"></td>
-    <td><img class="logo" src="logos/logo-en.svg"></td>
-    <td><img class="telog" src="logos/logo5.png"></td>
-    <td><img class="qmul" src="logos/qmul.png"></td>
-    <td><img class="uol" src="logos/logo3b.png"></td>
+    <td><img class="logo" src="/assets/media/logos/logo1.png"></td>
+    <td><img class="logo" src="/assets/media/logos/logo-en.svg"></td>
+    <td><img class="telog" src="/assets/media/logos/logo5.png"></td>
+    <td><img class="qmul" src="/assets/media/logos/qmul.png"></td>
+    <td><img class="uol" src="/assets/media/logos/logo3b.png"></td>
   </tr>
   <tr>
-    <td><img class="actor" src="logos/logo4.png"></td>
-    <td><img class="telog" src="logos/Schulich.png"></td> 
-    <td><img class="qmul" src="logos/seikilo-upperlogo2.png"></td>
-    <td><img class="actor" src="logos/Gerovassiliou.png"></td>
-    <td><img class="actor" src="logos/thesstour2.png"></td>
+    <td><img class="actor" src="/assets/media/logos/logo4.png"></td>
+    <td><img class="telog" src="/assets/media/logos/Schulich.png"></td> 
+    <td><img class="qmul" src="/assets/media/logos/seikilo-upperlogo2.png"></td>
+    <td><img class="actor" src="/assets/media/logos/Gerovassiliou.png"></td>
+    <td><img class="actor" src="/assets/media/logos/thesstour2.png"></td>
   </tr>  
 </tbody>
 </table></div>
 
 
-<div align="center">
+
 # Bronze Sponsors
 <br/>
 
