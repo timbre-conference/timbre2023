@@ -29,6 +29,12 @@ image:
 projects: []
 ---
 
+* The full conference schedule can be downloaded <a href="./doc/Timbre_2023_Program.pdf" target="_blank">here</a>.
+* The conference schedule at-a-glance can be dowloaded <a href="./doc/Ataglance.pdf" target="_blank">here</a>.
+* Keynote talks details can be found <a href="https://timbreconference.org/timbre2023/keynotes/">here</a>. 
+* Conference venue details can be found <a href="https://timbreconference.org/timbre2023/venue/">here</a>.
+* Social activities details can be found <a href="https://timbreconference.org/timbre2023/social/">here</a>. 
+
 </br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
