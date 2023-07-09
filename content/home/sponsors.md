@@ -29,8 +29,8 @@ design:
 
 <br>
 
-| {{< figure src="logos/c4dm.png" width="200">}} | <div style="width:50px"></div> | <div style="color:red">Stephen McAdams</div> | <div style="width:50px"></div> | {{< figure src="logos/logo_makios.png" width="200">}} | <div style="width:50px"></div> | {{< figure src="logos/logo3b.png" width="130">}} |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| {{< figure src="logos/c4dm.png" width="200">}} | <div style="width:30px"></div> | <div style="color:red">Stephen McAdams</div> | <div style="width:30px"></div> | {{< figure src="logos/logo_makios.png" width="200">}} | <div style="width:30px"></div> | {{< figure src="logos/logo3b.png" width="130">}} | <div style="width:30px"></div> | {{< figure src="logos/uor.png" width="200">}} |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 
 # Silver Sponsors
