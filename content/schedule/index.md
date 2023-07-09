@@ -40,8 +40,8 @@ projects: []
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:inherit;font-size:inherit;background-color:white;
   overflow:hidden;padding:10px 9px;word-break:normal;vertical-align: top;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:inherit;font-size:inherit;color:#8E44AD;  background-image: linear-gradient(90deg, #fbe4d2, #eadaef);
-  font-weight:normal;overflow:auto;padding:10px 9px;word-break:normal;}
-@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
+  font-weight:normal;overflow:scroll;padding:10px 9px;word-break:normal;}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: scroll;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
 <div class="tg-wrap"><table class="tg" style="undefined;table-layout: fixed; width: 820px">
 <colgroup>
 <col style="width: 85px">
