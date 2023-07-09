@@ -29,8 +29,9 @@ image:
 projects: []
 ---
 
+* The conference proceedings can be downloaded <a href="https://drive.google.com/file/d/14AWI_ZL3LunXhO9DEmGznPAXnpYTKQhm/view?usp=sharing" target="_blank">here</a>.
 * The full conference schedule can be downloaded <a href="./doc/Timbre_2023_Program.pdf" target="_blank">here</a>.
-* The conference schedule at-a-glance can be dowloaded <a href="./doc/Ataglance.pdf" target="_blank">here</a>.
+* A shorter 'at-a-glance' version of the schedule can be dowloaded <a href="./doc/Ataglance.pdf" target="_blank">here</a>.
 * Keynote talks details can be found <a href="https://timbreconference.org/timbre2023/keynotes/">here</a>. 
 * Conference venue details can be found <a href="https://timbreconference.org/timbre2023/venue/">here</a>.
 * Social activities details can be found <a href="https://timbreconference.org/timbre2023/social/">here</a>. 
